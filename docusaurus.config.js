@@ -41,9 +41,6 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -63,13 +60,6 @@ const config = {
           src: "img/logo.png",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Docs",
-          },
-          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/ahmadalli/manuscript",
             label: "GitHub",

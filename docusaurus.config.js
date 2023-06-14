@@ -82,7 +82,9 @@ const config = {
         links: [],
         copyright: `Copyright © ${new Date().getFullYear()} <a href="https://ahmadalli.rocks">Ahmadali Shafiee</a>. Built with Docusaurus.`,
       },
-      defaultMode: "dark",
+      colorMode: {
+        defaultMode: "dark",
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

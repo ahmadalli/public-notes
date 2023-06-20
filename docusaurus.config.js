@@ -79,6 +79,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      gtag: {
+        trackingID: 'G-GC9V7745EZ',
+        anonymizeIP: true,
+      },
     }),
 };
 

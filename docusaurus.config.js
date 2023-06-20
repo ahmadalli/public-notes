@@ -44,6 +44,10 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        gtag: {
+          trackingID: "G-GC9V7745EZ",
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -78,10 +82,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      gtag: {
-        trackingID: 'G-GC9V7745EZ',
-        anonymizeIP: true,
       },
     }),
 };

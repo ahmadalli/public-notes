@@ -48,3 +48,4 @@ Writing has always this challenge that its contents are not even a snapshot of m
 - Documents don't have unique IDs. If they did, moving them would be much easier and the links to them would be more robust.
 - If you move documents, the links to them will break. It's possible to generate redirect links by going through the git history, but a proper plugin needs to be developed for this.
 - Markdown links can get their titles from the linked document, like what Confluence does. This would be a nice feature to have.
+- If we can track a document, then we can create an update history for it.

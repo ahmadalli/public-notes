@@ -45,3 +45,6 @@ Writing has always this challenge that its contents are not even a snapshot of m
 
 - Having a timelines means there are mechanics to keep people updated. There's no defined way of doing so in this format. I have some ideas about this, but it's a problem to solve in another time.
 - It's not possible to have comments and discussions in here.
+- Documents don't have unique IDs. If they did, moving them would be much easier and the links to them would be more robust.
+- If you move documents, the links to them will break. It's possible to generate redirect links by going through the git history, but a proper plugin needs to be developed for this.
+- Markdown links can get their titles from the linked document, like what Confluence does. This would be a nice feature to have.

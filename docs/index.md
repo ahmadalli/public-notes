@@ -43,5 +43,5 @@ Writing has always this challenge that its contents are not even a snapshot of m
 
 ### Some technical challenges
 
-- Having a timelines means there are mechanics to keep people updated. There's no defined way of doing so in tis format. I have some ideas about this, but it's a problem to solve in another time.
+- Having a timelines means there are mechanics to keep people updated. There's no defined way of doing so in this format. I have some ideas about this, but it's a problem to solve in another time.
 - It's not possible to have comments and discussions in here.

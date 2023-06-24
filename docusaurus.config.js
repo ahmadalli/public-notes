@@ -40,6 +40,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
+          editUrl: "https://github.com/ahmadalli/manuscript/edit/main/"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

@@ -90,12 +90,30 @@ When you apply for an apartment, you usually have to write a letter of intent. T
 
 On some high demand markets, by signing the letter of intent, you're agreeing to rent the apartment if the landlord accepts your application. Unfortunately in my experience, there wasn't much responsibility on the landlord's side to respond as fast as possible so it means that you're locked in for a while and you might loose other opportunities.
 
-### Contract and Moving In
+### Contract
 
 #### Contract Types
 
 In the Netherlands, there are three types of contracts (A, B, and C) varying in their duration and flexibility. You can also find more information about it on [here](https://www.government.nl/topics/housing/rented-housing). Type C gives more rights to the owner and is usually used for short term rentals. Type B usually has a duration of 2 years and would convert to type A in case of renewal, which means if you have a type B, the landlord would not renew your contract after 2 years. Type A's term is indefinite.
 
-#### Moving In
+## Moving In
 
-In the day you move in, you need to do a through inspection of the apartment (and the furniture in case of a furnished apartment) and take pictures and write down any damages that you find. You need to send this list to the landlord and keep a copy for yourself. If a real estate agent is involved, they will also document this and would send you a copy. This is important because when you move out, the landlord will do an inspection and if they find any damages that are not on the list, they will charge you for it.
+On the day you move in, you need to do a thorough inspection of the apartment (and the furniture in case of a furnished apartment) and take pictures and write down any damages that you find. You need to send this list to the landlord and keep a copy for yourself. If a real estate agent is involved, they will also document this and will send you a copy. This is important because when you move out, the landlord will do an inspection and if they find any damages that are not on the list, they will charge you for it.
+
+### Registering Your Move
+
+If this is not the first time you're moving in the Netherlands, you need to register your move with the municipality of your new city. You can do this online on the municipality's website. If this is your first time moving in the Netherlands, you need to register your move in person at the municipality's office. There's more information about first time registration in [here](./legally-settling-in.md#registration).
+
+### Utilities
+
+If your contract doesn't include utilities, you need to get them yourself. You can get multiple utilities from a provider in a bundle package or use one provider for each of them. Depending on the apartment, you might need to get the following utilities:
+- **Electricity**: You can compare different providers on [energievergelijk](https://www.energievergelijk.nl/english)
+- **Gas**: [easyswitch](https://www.easyswitch.nl/) is a good place to compare different providers.
+- **Water**: Usually there's only one provider for water in your city. [Waternet](https://www.waternet.nl/en/) is the provider for Amsterdam.
+- **District Heating**: I don't have any experience with this, but AFAIK you only can get district heating from [vattenfall](https://www.vattenfall.nl/).
+
+### Taxes and Levies
+
+You need to pay the following taxes and levies:
+- **Municipal Taxes**: You need to pay municipal taxes for garbage collection and sewage. Your municipality will send you a letter with the amount you need to pay and the payment details.
+- **Water Board Tax**: You need to pay water board tax for water management. You'll receive a letter from the water board with the amount you need to pay and the payment details.

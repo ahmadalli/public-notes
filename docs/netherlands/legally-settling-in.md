@@ -41,7 +41,7 @@ You need to bring some **legalized** documents with you to the Netherlands. Thes
 - Driver's license (if applicable)
 - University degree (if applicable)
 
-These documents will be used when you're [registering](#Registration) at the municipality.
+These documents will be used when you're [registering](#registration) at the municipality.
 
 Also if your employer is going to apply for a 30% ruling for you, they'll give you a list of documents that you need to bring with you. Also some documents can help you if the process 30% doesn't go smoothly. These include:
 
@@ -55,7 +55,7 @@ Also if your employer is going to apply for a 30% ruling for you, they'll give y
 
 ### Phone Number
 
-You need a phone number to be able to do a lot of things like opening a bank account. You can start with a prepaid sim card from [Lebara](https://mobile.lebara.com/nl/en) or [Lyca](https://www.lycamobile.nl/en/). You can find more information about this in the [Phone Number](phone-number.md) section.
+You need a phone number to be able to do a lot of things like opening a bank account. You can start with a prepaid sim card from [Lebara](https://mobile.lebara.com/nl/en) or [Lyca](https://www.lycamobile.nl/en/). You can switch to a better plan later after you've got your [bank account](#bank-account).
 
 ### Bank Account
 

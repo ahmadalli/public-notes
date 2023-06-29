@@ -70,6 +70,10 @@ If you travel with NS at least once a month, check out [NS Flex][ns-flex] plans.
 
 Off-peak group tickets are also a good option if you're traveling with a group of people. You can buy them from the [NS website][ns-offpeak-ticket] or NS app.
 
+#### Supplements
+
+Some NS trains like Intercity Direct and Intercity Berlin require a supplement. These are usually the trains that only have two or three stops and you can also see the supplement requirement on the NS app when you're planning your trip. You can either buy the supplement from the NS website or NS app or for Intercity Direct, you can pay it on the Intercity direct supplement lines that are on the same track as your train.
+
 #### OV-Fiets
 
 OV-Fiets is a daily bike rental service from NS. It can be useful if you'd like to check out a place by bike.

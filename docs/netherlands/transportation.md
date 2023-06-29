@@ -24,7 +24,9 @@ But also, you have to get lucky to get a bike that runs smoothly. Most of the bi
 
 ### Google Maps Pitfalls
 
-Unfortunately, Google Maps doesn't always have a good understanding of the bike paths in the Netherlands and it's the only viable option for navigation with a bike. So, it's a good idea to make sure you're on the right path by looking at the signs on the road and check if you're riding on bike paths and be prepared to take a different route if Google Maps tells you to go somewhere that doesn't look like a bike path.
+Unfortunately, Google Maps doesn't always have a good understanding of the bike paths in the Netherlands and it's the only viable option for navigation with a bike.
+
+So, it's a good idea to make sure you're on the right path by looking at the signs on the road and check if you're riding on bike paths and be prepared to take a different route if Google Maps tells you to go somewhere that doesn't look like a bike path.
 
 ## Public Transportation
 

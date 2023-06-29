@@ -72,7 +72,11 @@ Off-peak group tickets are also a good option if you're traveling with a group o
 
 #### Supplements
 
-Some NS trains like Intercity Direct and Intercity Berlin require a supplement. These are usually the trains that only have two or three stops and you can also see the supplement requirement on the NS app when you're planning your trip. You can either buy the supplement from the NS website or NS app or for Intercity Direct, you can pay it on the Intercity direct supplement lines that are on the same track as your train.
+Some NS trains like Intercity Direct and Intercity Berlin require a supplement in which you should buy separately.
+
+The NS app shows this requirement when you're planning your trip but usually the routes that only have two or three stops Like `Amsterdam <-> Schiphol <-> Rotterdam` require a supplement.
+
+You can either buy the supplement from the NS website or NS app or for Intercity Direct, you can pay it on the Intercity direct supplement lines that are on the same track as your train.
 
 #### OV-Fiets
 

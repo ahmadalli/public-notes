@@ -100,6 +100,25 @@ When you're switching between different public transport companies, you need to 
 - [NS Off-peak group tickets][ns-offpeak-ticket]
 - [NS Bike in the train tickets][ns-bike-in-train-ticket]
 
+## Moped Sharing
+
+You can use moped sharing services if your destination is within or close to the service area of these companies. I've used the following services and I'm happy with them:
+
+- [Felyx][felyx]
+- [Check][check]
+
+:::tip
+
+Some areas in Amsterdam do not have dedicated parking spots for mopeds. You can park them in the sidewalk as long as there aren't signs that prohibit this and you don't block the way.
+
+:::
+
+:::caution
+
+You are not allowed to ride mopeds on most of the bike paths in Amsterdam. There are some exceptions and you should look for the blue signs that show which vehicles are allowed on the bike path.
+
+:::
+
 ## Car Sharing
 
 If you don't want to use public transportation, and [if you don't own a car](https://youtu.be/OObwqreAJ48) you can use car sharing services. I couldn't find a shared list of services used by NotJustBikes and I'd like to share the list of services I use or I'm aware of:
@@ -109,6 +128,12 @@ If you don't want to use public transportation, and [if you don't own a car](htt
 - [MyWheels][mywheels]
 - [Green Mobility][green-mobility]
 - [SnappCar][snappcar]
+
+:::tip
+
+Most of these companies give you rewards if you charge the car when you're done with it. So, if you're done with the car and you're close to a charging station, it's a good idea to charge the car.
+
+:::
 
 
 [swapfiets]: https://swapfiets.nl/en/
@@ -125,3 +150,5 @@ If you don't want to use public transportation, and [if you don't own a car](htt
 [mywheels]: https://mywheels.nl/
 [green-mobility]: https://greenmobility.com/
 [snappcar]: https://www.snappcar.nl/
+[felyx]: https://felyx.nl/
+[check]: https://ridecheck.app/

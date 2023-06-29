@@ -51,6 +51,16 @@ Also if your employer is going to apply for a 30% ruling for you, they'll give y
 - Bank statements of the last two years
 - Proof of your previous address
 
+### Visa
+
+If you're not coming from an EU country, you need to have a visa sponsor (usually your employer or university) to open and application for a visa for you and your family members on IND. It would take some time for IND to process your application, based on my experience, between ten days to a month depending on the case.
+
+After IND approves your application, they'll send you a letter with your visa details. You need to take this letter with you to the embassy of the Netherlands in your country to get your visa. You usually need to schedule and appointment with them for MVV visa.
+
+### Legalization
+
+If your visa sponsor is also applying for your family members on your behalf, they might need some extra information from you before they can submit the application to IND. Therefore you might need to schedule a legalization appointment with the embassy of the Netherlands in your country as well before your IND application is submitted.
+
 ## After You Arrive
 
 ### Phone Number
@@ -74,7 +84,7 @@ As an expat, you might not have a residential address when you arrive. There are
 
 ### Residence Permit
 
-If you're not an EU citizen, you need to have a visa sponsor (usually your employer or university) to apply for a visa for you and your family members. After your arrival, you need to collect your residence permit from IND desk of the place your visa sponsor is located. Your visa sponsor should provide you with the address of the IND desk. You can schedule an appointment with the IND desk [here](https://ind.nl/en/service-contact/make-an-appointment-with-the-ind).
+If you're not an EU citizen, you need to collect your residence permit from IND desk. Your visa sponsor should provide you with the address of the IND desk. You can schedule an appointment with the IND desk [here](https://ind.nl/en/service-contact/make-an-appointment-with-the-ind).
 
 ### Health Insurance
 

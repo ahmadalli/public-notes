@@ -24,7 +24,7 @@ If you like biking, it's good to be as close as possible to work and your [third
 
 ### Price
 
-Landlords don't accept your application if the rent is more than 30% of your income.
+Landlords don't accept your application if the rent is more than 30% of your gross income.
 
 ### Neighborhood
 

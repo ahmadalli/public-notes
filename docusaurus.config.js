@@ -6,12 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "The Manuscript",
+  title: "Public Notes",
   tagline: "Ahmadali's personal notes, a blog in docs format",
   favicon: "img/logo.png",
 
   // Set the production url of your site here
-  url: "https://manuscript.ahmadalli.me",
+  url: "https://publicnotes.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "ahmadalli", // Usually your GitHub org/user name.
-  projectName: "manuscript", // Usually your repo name.
+  projectName: "public-notes", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -40,7 +40,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
-          editUrl: "https://github.com/ahmadalli/manuscript/edit/main/",
+          editUrl: "https://github.com/ahmadalli/public-notes/edit/main/",
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
         },
@@ -61,14 +61,14 @@ const config = {
       // Replace with your project's social card
       image: "img/logo.png",
       navbar: {
-        title: "The Manuscript",
+        title: "Public Notes",
         logo: {
           alt: "Logo",
           src: "img/logo.png",
         },
         items: [
           {
-            href: "https://github.com/ahmadalli/manuscript",
+            href: "https://github.com/ahmadalli/public-notes",
             label: "GitHub",
             position: "right",
           },

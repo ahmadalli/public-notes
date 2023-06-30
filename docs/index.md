@@ -4,8 +4,6 @@ sidebar_position: 10
 
 # Intro
 
-Hello :) This ia The Manuscript. A place where I write about things I like to share, my thoughts, my opinions, and generally things that I care about.
-
 ## Why
 
 ### Why not a blog?

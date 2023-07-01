@@ -4,6 +4,8 @@ sidebar_position: 10
 
 # Intro
 
+This a blog, but in documentation format.
+
 ## Why
 
 ### Why not a blog?

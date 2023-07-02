@@ -102,7 +102,7 @@ On the day you move in, you need to do a thorough inspection of the apartment (a
 
 ### Registering Your Move
 
-If this is not the first time you're moving in the Netherlands, you need to register your move with the municipality of your new city. You can do this online on the municipality's website. If this is your first time moving in the Netherlands, you need to register your move in person at the municipality's office. There's more information about first time registration in [here](./legally-settling-in.md#registration).
+If this is not the first time you're moving in the Netherlands, you need to register your move with the municipality of your new city. You can do this online on the municipality's website. If this is your first time moving in the Netherlands, you need to register your move in person at the municipality's office. There's more information about first time registration in [here](./010-legally-settling-in.md#registration).
 
 ### Utilities
 

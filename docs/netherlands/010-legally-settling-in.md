@@ -73,6 +73,8 @@ After you arrived, you need to be able to pay for stuff (including short stay or
 
 On the other hand most banks require your `BSN` upon opening a bank account, which you get the first time you register at the municipality. This chicken and egg problem doesn't always have a straight forward solution specially if you don't have a temporary address. But if you have temporary address, some banks like [ABN AMRO](https://www.abnamro.nl/en/personal/specially-for/expats/international-clients-desk.html) and [Revolut](https://revolut.com) allow you to open a bank account without a `BSN` and give you eight weeks to provide it.
 
+You can read more about banking in [Banking](./040-banking.md).
+
 ### Registration
 
 If you're living more than 4 months in the Netherlands, you need to register at the municipality of your residential address. Your residential address must have free capacity for registration. Each municipality has a different rule for the maximum number of people that can live (and therefore register) in each address. You can find the municipality of your residential address [here](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en) by selecting `Transport region municipalities`.

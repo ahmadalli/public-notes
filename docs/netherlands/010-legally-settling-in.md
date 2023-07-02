@@ -80,7 +80,7 @@ If you're living more than 4 months in the Netherlands, you need to register at 
 As an expat, you might not have a residential address when you arrive. There are two ways to tackle this problem:
 - Your employer might be able to provide you with a temporary address, usually the office address. You need to ask HR about this and get proper documents from them.
 - The place you're staying at might also be able to provide you with a temporary address. We stayed on [the student hotel](https://www.thestudenthotel.com/) which was able to provide us with a temporary address.
-- You need to rent a place first before you can register. You can find more information about this in the [Renting An Apartment](renting-an-apartment.md).
+- You need to rent a place first before you can register. You can find more information about this in the [Renting An Apartment](./020-renting-an-apartment.md).
 
 ### Residence Permit
 

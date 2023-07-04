@@ -84,6 +84,24 @@ As an expat, you might not have a residential address when you arrive. There are
 - The place you're staying at might also be able to provide you with a temporary address. We stayed on [the student hotel](https://www.thestudenthotel.com/) which was able to provide us with a temporary address.
 - You need to rent a place first before you can register. You can find more information about this in the [Renting An Apartment](./020-renting-an-apartment.md).
 
+### DigiD
+
+DigiD is a digital identity that you can use to access online services of the Dutch government. You can apply for a DigiD [here](https://www.digid.nl/en/). You can log into every service that requires your identity (like your health insurance provider, IND, etc.) via DigiD.
+
+#### ID Check
+
+Some services require you to do an ID check on DigiD before you can use them. You need a document that has your BSN on it (like your driver's license) to do the ID check on DigiD app.
+
+:::info
+
+Your first residence permit is not acceptable for ID check on DigiD.
+
+:::
+
+### MijnOverheid
+
+MijnOverheid is a website that you can use to access your information from the Dutch government. You can access your tax information, your health insurance information, etc. on MijnOverheid. You can log into [MijnOverheid](https://mijn.overheid.nl) with your DigiD. You need to select the services that you want to use on MijnOverheid.
+
 ### Residence Permit
 
 If you're not an EU citizen, you need to collect your residence permit from IND desk. Your visa sponsor should provide you with the address of the IND desk. You can schedule an appointment with the IND desk [here](https://ind.nl/en/service-contact/make-an-appointment-with-the-ind).

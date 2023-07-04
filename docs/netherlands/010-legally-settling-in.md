@@ -9,6 +9,7 @@ As an expat, you need to do some paperwork to legally settle in the Netherlands.
 ## Your Legal Identity
 
 Your legal identity in the Netherlands comes from a combination of identities that you have. These include:
+
 - Your birthday
 - Your passport number
 - Your v-number, which is a assigned to you by the IND (the immigration office)
@@ -26,7 +27,6 @@ Other than `BSN`, you obtain the rest of your identities before you arrive in th
 
 `BSN` is the most important one. It's used for everything from opening a bank account, health insurance and taxation. You can get a `BSN` by registering at the municipality. You can find more information about this in the [Registration](#Registration) section.
 
-
 ## Before You Arrive
 
 :::note
@@ -36,6 +36,7 @@ These are based on my experience coming from Iran. If you're coming from a diffe
 :::
 
 You need to bring some **legalized** documents with you to the Netherlands. These include:
+
 - Birth certificate
 - Marriage certificate (if applicable)
 - Driver's license (if applicable)
@@ -80,6 +81,7 @@ You can read more about banking in [Banking](./040-banking.md).
 If you're living more than 4 months in the Netherlands, you need to register at the municipality of your residential address. Your residential address must have free capacity for registration. Each municipality has a different rule for the maximum number of people that can live (and therefore register) in each address. You can find the municipality of your residential address [here](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en) by selecting `Transport region municipalities`.
 
 As an expat, you might not have a residential address when you arrive. There are two ways to tackle this problem:
+
 - Your employer might be able to provide you with a temporary address, usually the office address. You need to ask HR about this and get proper documents from them.
 - The place you're staying at might also be able to provide you with a temporary address. We stayed on [the student hotel](https://www.thestudenthotel.com/) which was able to provide us with a temporary address.
 - You need to rent a place first before you can register. You can find more information about this in the [Renting An Apartment](./020-renting-an-apartment.md).

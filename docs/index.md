@@ -12,6 +12,7 @@ This a blog, but in documentation format.
 
 It's not the first time that I'm writing. I always like the idea of sharing things and I find it valuable to share them publicly, because [there are limited number of keystrokes that you get in life](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes). I tried blogging multiple times, but recently It's been hard for me to express myself in linear format and I find blogging limiting in some areas:
 
+- I find it more acceptable to having documentation entries that are incomplete and constantly changing, but it's not the case for blog posts unless it's explicitly stated on the post. Having this freedom allows me to iterate and improve the content without worrying too much about completeness of the content.
 - The linear format is limiting where there are lots of different areas that I'd like to write about. Having a two-dimensional structure seems more appropriate for this.
 - A timeline format doesn't reflect the importance of stuff. There are things that reflect my core belief and would be written earlier but get less visibility because newer posts get their place on top of the timeline.
 

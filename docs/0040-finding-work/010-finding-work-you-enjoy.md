@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Finding your Niche
+# Finding Work You Enjoy
 
 ## Finding your Motivations
 

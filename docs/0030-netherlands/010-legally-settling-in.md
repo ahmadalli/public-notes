@@ -149,7 +149,7 @@ You can read more about this on [Healthcare](./050-healthcare.md).
 
 If you're eligible for 30% ruling, your employer should apply for it within 4 months of your arrival. There's not much you can do about it yourself, but you can follow up the status of your application from Belastingdienst either from Twitter or by calling them like [this tweet](https://twitter.com/Belastingdienst/status/1673583382482001920):
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodmorning, of course I’ll guide you. Please call + 31 555 385 385 and press 2 for the english menu. After this, press 2 again. From this moment you can get an english speaking colleague on the phone. ^SH</p>&mdash; Belastingdienst (@Belastingdienst) <a href="https://twitter.com/Belastingdienst/status/1673583382482001920?ref_src=twsrc%5Etfw">June 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Goodmorning, of course I’ll guide you. Please call + 31 555 385 385 and press 2 for the english menu. After this, press 2 again. From this moment you can get an english speaking colleague on the phone. ^SH</p>&mdash; Belastingdienst (@Belastingdienst) <a href="https://twitter.com/Belastingdienst/status/1673583382482001920?ref_src=twsrc%5Etfw">June 27, 2023</a></blockquote>
 
 ## Other Useful Resources
 

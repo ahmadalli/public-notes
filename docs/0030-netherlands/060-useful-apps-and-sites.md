@@ -118,3 +118,4 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
   - [Android](https://play.google.com/store/apps/details?id=nl.rijksoverheid.mijngegevens.pub)
   - [iOS](https://apps.apple.com/nl/app/id1504052262)
 - [MyIND](https://ind.nl/en/my-ind)
+- [BKR](https://mijnkredietoverzicht.bkr.nl/): Check your ongoing loans

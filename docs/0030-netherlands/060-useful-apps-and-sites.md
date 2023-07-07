@@ -58,6 +58,36 @@ Personally I find route planning with dutch apps to be very similar to each othe
   - [Android](https://play.google.com/store/apps/details?id=app.ridecheck.android)
   - [iOS](https://apps.apple.com/us/app/check-shared-mobility/id1484477681)
 
+## Shopping
+
+- [Stocard](https://stocardapp.com/en/): Store all your loyalty cards in one app
+  - [Android](https://play.google.com/store/apps/details?id=de.stocard.stocard)
+  - [iOS](https://apps.apple.com/nl/app/id444578884)
+
+### Groceries
+
+- [Too Good To Go](https://toogoodtogo.nl/en): Buy food that would otherwise be thrown away
+  - [Android](https://play.google.com/store/apps/details?id=com.app.tgtg)
+  - [iOS](https://apps.apple.com/DK/app/id1060683933)
+- [Picnic](https://www.picnic.app/en/): Online supermarket.
+  - [Android](https://play.google.com/store/apps/details?id=com.picnic.android)
+  - [iOS](https://apps.apple.com/nl/app/picnic-online-boodschappen/id1018175041)
+- [Crisp](https://crisp.nl/): Online supermarket
+  - [Android](https://play.google.com/store/apps/details?id=com.freshfoodventures.crisp)
+  - [iOS](https://apps.apple.com/us/app/crisp-supermarkt/id1416625210)
+
+:::info
+
+Picnic doesn't have English support yet, so you need to screenshot and translate the app to use it.
+
+:::
+
+### Goods and Electronics
+
+- [Bol.com](https://www.bol.com/nl/): Online shopping
+- [Coolblue](https://www.coolblue.nl/en): Online shopping for electronics
+
+
 ## Banking
 
 - [Tikkie](https://www.tikkie.me/): This is a payment request app that is very popular in the Netherlands.

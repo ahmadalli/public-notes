@@ -144,3 +144,7 @@ If you're not an EU citizen, you need to collect your residence permit from IND 
 You have to get health insurance in the Netherlands within 4 months of your arrival. You can compare different health insurance providers and get health insurance on [independer](https://www.independer.nl).
 
 You can read more about this on [Healthcare](./050-healthcare.md).
+
+## Other Useful Resources
+
+- (In Persian ) [A guide to moving to the Netherlands](https://datachef.co/pdfs/immigration-to-netherlands/)

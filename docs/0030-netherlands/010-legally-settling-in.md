@@ -115,7 +115,7 @@ This requires the people on municipality to be willing to help you. I have not d
 
 :::
 
-If you've already have an appointment with the municipality not the right one, you can ask them to give you your BSN number without registration.
+If you've already have an appointment with the municipality not the right one, you can ask them to give you your BSN number without registration and they might be able to do that for you.
 
 ### DigiD
 

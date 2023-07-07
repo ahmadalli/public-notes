@@ -117,3 +117,17 @@ If your contract doesn't include utilities, you need to get them yourself. You c
 You need to pay the following taxes and levies:
 - **Municipal Taxes**: You need to pay municipal taxes for garbage collection and sewage. Your municipality will send you a letter with the amount you need to pay and the payment details.
 - **Water Board Tax**: You need to pay water board tax for water management. You'll receive a letter from the water board with the amount you need to pay and the payment details.
+
+## Other Scenarios
+
+### Changing Roommates
+
+When you're co-signing a contract with your roommate, you're creating a union with them. This means that you're both responsible for the contract and you both have the same rights.
+
+If either you or your roommate wants to move out, you can put your agreement on breaking the union in writing without the need to involve the landlord in this decision.
+
+To add roommates, you either need to have a contract that allows you to sublet, or you need to sign a new contract with the landlord.
+
+#### Sources and Related Links
+
+- [Reddit post on r/Netherlands](https://www.reddit.com/r/Netherlands/comments/11tqwfq/comment/jckdn70)

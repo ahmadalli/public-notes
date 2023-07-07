@@ -62,6 +62,27 @@ After IND approves your application, they'll send you a letter with your visa de
 
 If your visa sponsor is also applying for your family members on your behalf, they might need some extra information from you before they can submit the application to IND. Therefore you might need to schedule a legalization appointment with the embassy of the Netherlands in your country as well before your IND application is submitted.
 
+### Scheduling Appointments
+
+Sometimes due to high demand, it might take a while to get an appointments which can result in delays in other processes. Therefore it's important to schedule appointments as soon as possible:
+
+- The embassy of the Netherlands in your country
+- [**IND**](https://ind.nl/en/appointment-to-collect-residence-document): To collect your residence permit after you arrive in the Netherlands
+- **Municipality**: You need to **call** the municipality to schedule an appointment for registration. You can find the phone number of the municipality from google.
+  - For Amsterdam, you can find the phone number [here](https://www.amsterdam.nl/en/civil-affairs/first-registration/#hb1a261a3-9edf-4b03-b16b-82fae571425d).
+
+:::info
+
+AFAIK, you need to call for an appointment from the municipality of Amsterdam and they won't accept your online appointment. But you might [get your BSN from your online appointment](#getting-a-bsn-without-registration) without registration.
+
+:::
+
+:::tip
+
+You can also use [Iamsterdam](https://www.iamsterdam.com/en/live-work-study/in-amsterdam) services for registration and other things.
+
+:::
+
 ## After You Arrive
 
 ### Phone Number
@@ -85,6 +106,16 @@ As an expat, you might not have a residential address when you arrive. There are
 - Your employer might be able to provide you with a temporary address, usually the office address. You need to ask HR about this and get proper documents from them.
 - The place you're staying at might also be able to provide you with a temporary address. We stayed on [the student hotel](https://www.thestudenthotel.com/) which was able to provide us with a temporary address.
 - You need to rent a place first before you can register. You can find more information about this in the [Renting An Apartment](./020-renting-an-apartment.md).
+
+#### Getting a BSN without Registration
+
+:::info
+
+This requires the people on municipality to be willing to help you. I have not done this myself and I don't have full information and details about it but it's worth a try.
+
+:::
+
+If you've already have an appointment with the municipality not the right one, you can ask them to give you your BSN number without registration.
 
 ### DigiD
 

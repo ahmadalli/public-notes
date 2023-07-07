@@ -39,6 +39,7 @@ This wasn't a problem for me, so, most of the following is based on my hypothesi
 Now that you have a list of areas that motivate you, we need to find jobs that match these areas, if you don't already know them. As I didn't have this problem, I can only hypothesize about the solution and I would start with the following if I wanted to solve it and would iterate from there:
 
 - Look for social media groups and forums that are active in these areas.
+- Look for and ask people in your network that are active in these areas or might know someone who is.
 - Look for events and meetups that are active in these areas. Check out the material and speak to the people at these events.
 - Look for **companies** and **people** that are active in the areas that you're interested in. You can find them on social media, blogs, podcasts, etc by searching via related keywords.
 - Look at **jobs** and **activities** that these companies and people are doing.

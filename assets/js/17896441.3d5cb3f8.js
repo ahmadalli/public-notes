@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic_notes=self.webpackChunkpublic_notes||[]).push([[918],{1769:(s,c,e)=>{e.d(c,{Z:()=>b});e(7294);var n=e(9297),u=e(7814),p=e(3636),t=e(3024),a=e(9417);p.vI.add(t.vnX,a.mRB);const b={...n.Z,icon:u.G}}}]);

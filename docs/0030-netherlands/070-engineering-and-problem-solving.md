@@ -8,11 +8,9 @@ I like the way the Dutch approach engineering and enjoy observing their approach
 
 ## Water Management
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdVEVP9mRRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Dutch Waterworks Series on History Scope
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8ir1Vj1D930" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B-M2sORduKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSxw_OLJxQj3VeMHA6LtJtNym0Jh-t5Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Incident Investigation, Analysis and Follow-up
 

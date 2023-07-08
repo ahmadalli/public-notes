@@ -10,7 +10,7 @@ sidebar_position: 30
 
 This vide from Not Just Bikes explains the differences between Dutch bikes and other bikes:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aESqrP3hfi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/aESqrP3hfi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Swapfiets
 

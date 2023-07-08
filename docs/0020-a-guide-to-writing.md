@@ -10,7 +10,8 @@ Most of the content on this page is derived from my learnings at the O'Reilly ev
 
 ### Type of writing
 
-Before we start writing, we need to figure out what is type of our writing. There are four types of writing:
+Before we start writing, we need to figure out the type of our writing. There are four types of writing:
+
 - **Reference**: The goal is to transfer information, like the documentation of a library or a framework.
 - **Tutorials**: The goal is to transfer skills, like the tutorials on the official website of a library or a framework.
 - **Pitch**: The goal is to cause action, like a marketing email or a job application.
@@ -20,13 +21,13 @@ Writings usually have a combination of these types. For example, a tutorial can 
 
 ### Audience
 
-It's also important to know who we are writing for. For example, in these documents, I'm mostly writing for myself and people who are like-minded. It's important to clarify the audience because so that the writing would not be a waste of time for both the writer and the reader.
+It's also important to know for whom we are writing. For example, in these documents, I'm mostly writing for myself and people who are like-minded. It's important to clarify the audience so that the writing would not be a waste of time for both the writer and the reader.
 
 ## Step 1: Creating the components of the writing
 
 To get started we need to have some components, which are the things we want to write about. These components can come from various places. At this stage we don't care about the order of the content, we just want to get the ideas out of our head.
 
-This part is adapted from Aristotle's [Art of Rhetoric](https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)) book. There are three places where we can get ideas from for writing:
+This part is adapted from Aristotle's [Art of Rhetoric](<https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)>) book. There are three places where we can get ideas from for writing:
 
 - **Head**
 - **Heart**
@@ -34,7 +35,7 @@ This part is adapted from Aristotle's [Art of Rhetoric](https://en.wikipedia.org
 
 ### Head
 
-Answering `6w`s (actually `5w`s and `2h`s 😄) about the topic gives us some ideas about the writing:
+Answering `6w`s (actually `5w`s and `2h`s) about the topic gives us some ideas about the writing:
 
 - **What**: the nature of the topic.
 - **Who**: the target audience of the topic.
@@ -49,7 +50,8 @@ Ideas can come from the emotions that are involved in the topic. [There are 8 ba
 
 ### Behaviors
 
-Behaviors that are involved in the topic can also be a source of ideas. These behaviors usually come from:
+Behaviors associated with the topic can also be a source of ideas. These behaviors usually come from:
+
 - Personalities and characters
 - Ethics and values
 - Habits and routines
@@ -62,7 +64,7 @@ As we don't care about the order of the content at this stage, mindmap is a usef
 
 ### Example
 
-*TBD*
+_TBD_
 
 ## Step 2: Motivating the audience
 
@@ -74,7 +76,7 @@ So, the next step is to associate each component we've created in the previous s
 
 ### Example
 
-*TBD*
+_TBD_
 
 ## Step 3: Creating the outline
 
@@ -97,11 +99,11 @@ At this stage, it's important to not get into the details of the writing. The go
 
 ### Example
 
-*TBD*
+_TBD_
 
 ## Step 4: Refinement
 
-At this stage, we have much more content than we need. So, we need to refine the content to make it more concise and to the point. We go through these steps to do this:
+At this stage, we have much more content than we need. We need to refine the content to make it more concise and to the point. We go through these steps to do this:
 
 ### Audience's attention span
 
@@ -119,7 +121,7 @@ The **Demote** components would be appendices or footnotes on the book or docume
 
 ### Example
 
-*TBD*
+_TBD_
 
 ## Step 5: Writing up
 
@@ -130,6 +132,7 @@ It's time to write up the content of each component. We've selected the componen
 We can use the "tent pole" method to write up the content of each component. The "tent pole" method is a method that is used in writing screenplays. It's a method for writing the key points of each scene in the screenplay. We can use this method to write the key points of each component.
 
 So, we can do the following for each component:
+
 1. Write the key points of each stage of the OODA loop.
 2. Write a paragraph for each key point.
 
@@ -157,7 +160,7 @@ A good example of structured writing can be found in tabloid newspapers and maga
 
 ### Fighting the writer's block
 
-These might be the reasons why writing would feel impossible:
+These might be reasons why writing feels difficult or impossible:
 
 #### Lack of interest
 
@@ -165,7 +168,7 @@ If there's a lack of interest in writing, maybe it's because the problem is not 
 
 #### Fear of failure
 
-Fearing failure is a common reason for not being able to write. We can **start with writing a bad version in purpose** to overcome this block.
+Fear of failure is a common blocker to writing. We can **start by intentionally writing a poor version** to overcome this block.
 
 It'll have two benefits:
 

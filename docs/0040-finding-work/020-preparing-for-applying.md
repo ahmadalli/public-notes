@@ -16,7 +16,7 @@ Since you're preparing for the applying process, you should mainly focus on the 
 - Hiring Managers
 - People on your level who recently applied for similar positions
 
-## Prioritizing Requirements
+## Prioritizing and Preparing Requirements
 
 Since we don't have unlimited time, we need to prioritize the requirements that you need to work on and prepare for. Based on the career paths of people in your desired field, you can prioritize the necessary requirements to apply for the jobs you're interested in. This can be a combination of the following **especially if you're applying for entry-level positions**:
 
@@ -30,6 +30,22 @@ If you're applying for entry-level positions, you need to put in more effort to 
 
 :::
 
+:::info
+
+Creating a portfolio is an iterative process. It doesn't matter if your initial work is not up to your standards. It's more important to get started, gather feedback as soon as possible, and define your roadmap based on that.
+
+:::
+
+## Showcasing Your Work
+
+If you're creating a portfolio, it's important to showcase your work as well. This not only aids in improving your work, but also increases your visibility, thus boosting your chances of getting hired. You can use the following channels to showcase your work:
+
+- Personal Blogs or Medium
+- Platforms like Kaggle, Devpost, etc. that are relevant to your domain
+- Social Media, especially Twitter and LinkedIn
+- GitHub
+- YouTube
+
 ## Creating Connections
 
 :::tip
@@ -39,6 +55,17 @@ Applying for jobs with a referral is the best way to get a job. Based on my expe
 :::
 
 Aside from asking your network for referrals, I don't have additional suggestions. The more connections you have, the better your chances of obtaining a referral.
+
+## Finding Open Positions
+
+In addition to reaching out to your network, you can also look for companies that are hiring. You can use the following resources to find open positions:
+
+- Job boards like LinkedIn, Indeed, Glassdoor, etc
+- Companies that have a presence in your desired domains
+  - Companies specializing in your desired domain
+  - Companies with a presence at events within your desired domain
+  - Growing companies and startups within your desired domain
+- Public lists of companies that are hiring like [<icon icon="fa-brands fa-github" size="lg" /> this Github repo](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians)
 
 ## Preparing your Resume
 

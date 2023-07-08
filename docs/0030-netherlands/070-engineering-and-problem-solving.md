@@ -4,7 +4,7 @@ sidebar_position: 60
 
 # Engineering and Problem Solving
 
-I like the way the Dutch approach engineering and enjoy observing their approach to problem solving. I'm putting together a collection of videos that I think are interesting.
+I like the way the Dutch approach engineering and enjoy observing their systematic approach to problem solving. I'm putting together a collection of videos that I think are interesting.
 
 ## Water Management
 

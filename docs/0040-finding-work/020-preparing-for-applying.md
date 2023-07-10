@@ -69,22 +69,31 @@ In addition to reaching out to your network, you can also look for companies tha
 
 ## Preparing your Resume
 
-There are lots of good resources on this topic. Personally, I recommend ensuring your resume adheres to the following rules:
+In a perfect world, we would have a well written resume with eye-catching style that includes plenty of impactful experiences. But, we need to work with what we have. From previous experience, I take an iterative approach to improve my resume. I start with **structure**, then **wording and formatting**, and finally **content**. There are lots of useful resources on these topics. Here are some tips that I've found useful:
 
-- Use STAR method to describe your experience
+### Structure
+
+- Keep the resume under two pages. You can use two column layouts to make it more compact
+- Put more essential information at the top of your resume
+- Use common resume templates, and preferably LaTeX. This would make your resume more compatible with ATS systems
+- Use a template that supports rating your skills
+- Review spacing and alignment
+
+### Wording and Formatting
+
+- Be concise when writing your position titles, descriptions, and bullet points
+- Review your wording and grammar. **Grammatical mistakes are a big red flag for recruiters.** Tools like Grammarly can be helpful in checking your wording and grammar
+- Don't use adjectives to describe yourself and your skills. Quantify your proficiency in a skill by using numbers. For example, use "I'm 80% proficient in Python" instead of "I'm a good programmer"
+- Don't repeat yourself
+
+### Content
+
 - Make sure you include the keywords that are mentioned in the job description
-- Use common resume templates, and preferably LaTeX. This would make your resume more compatible with ATS systems.
-- Make sure your resume is not longer than 2 pages. You can use two column layout to make it more compact.
-- Review your wording and grammar. **Grammatical mistakes are a big red flag for recruiters.**
+- Use STAR method to describe your experience
 
 :::tip
 
-Recruiters usually spend less than 10 seconds on your resume. So make sure your content is easy to read and the important parts are highlighted. These rules might be helpful:
-
-- Review spacing and alignment
-- Be concise with position titles, descriptions, and bullet points
-- Put more important information at the top of your resume
-- Try not to repeat yourself
+Recruiters usually spend less than 10 seconds reviewing a resume. So, make sure your content is easy to read and the important parts are highlighted.
 
 :::
 
@@ -100,7 +109,7 @@ I'm writing an item for <X> section of my resume. Ask me some questions about it
 
 :::note
 
-In a perfect world, we would have plenty of impactful experiences to put on our resume. But in reality, we need to work with what we have. So don't worry if you don't have lots of experience to put on your resume. Your resume is just one part of the recruitment process. As long as you can convince recruiters that you're a good fit for the job, you can compensate for this in other parts of the process.
+Don't worry if you don't have a _perfect_ resume. Your resume is just one part of the recruitment process. As long as you can convince recruiters that you're a good fit for the job, you can compensate for this in other parts of the process.
 
 :::
 

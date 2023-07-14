@@ -10,6 +10,12 @@ sidebar_position: 60
   - [Android](https://play.google.com/store/apps/details?id=com.supportware.Buienradar)
   - [iOS](https://apps.apple.com/nl/app/buienradar-weer/id621542526)
 
+:::tip
+
+Based on my experience, Buienradar is the most accurate weather app for the Netherlands and it's more reliable than the common weather apps.
+
+:::
+
 ## Public Transportation
 
 - [NS](https://www.ns.nl/en)
@@ -119,3 +125,7 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
   - [iOS](https://apps.apple.com/nl/app/id1504052262)
 - [MyIND](https://ind.nl/en/my-ind)
 - [BKR](https://mijnkredietoverzicht.bkr.nl/): Check your ongoing loans
+
+### Legal Advice
+
+- [Het Juridisch Loket](https://www.juridischloket.nl/)

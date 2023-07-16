@@ -27,6 +27,8 @@ I aim to achieve the following goals with this project:
 
 ## How
 
+Notes related to the project itself will be documented in [here](./0070-projects/010-public-notes.md).
+
 ### Structure
 
 To prevent my tendencies towards perfectionism from hindering my writing, I'll start with a basic document structure and refine it as necessary. Things will move around every once in a while, but I'll try to keep the links intact.
@@ -36,12 +38,3 @@ To prevent my tendencies towards perfectionism from hindering my writing, I'll s
 ### Consistency
 
 One of the challenges of writing is that the content often does not fully capture my evolving thoughts. As thoughts and beliefs are constantly changing, some of these changes are reflected here while others are not. It's not a problem to solve, but it's something to keep in mind.
-
-### Technical Challenges
-
-- Keeping people updated on changes and new entries is not as easy as when there's a timeline.
-- It's not possible to have comments and discussions here.
-- Documents don't have unique IDs. If they did, moving them would be much easier and the links to them would be more robust.
-- Relocating documents breaks their links.
-- Markdown links can derive their titles from the linked document, similar to the functionality provided by Confluence.
-- If we can track a document, then we can create an update history for it.

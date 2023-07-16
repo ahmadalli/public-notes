@@ -12,7 +12,7 @@ Your legal identity in the Netherlands comes from a combination of identities th
 
 - Your birthday
 - Your passport number
-- Your v-number, which is a assigned to you by the IND (the immigration office)
+- Your v-number, which is assigned to you by the IND (the immigration office)
 - Your `BSN`, which is assigned to you by the municipality
 
 :::caution

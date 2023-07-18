@@ -145,6 +145,11 @@ There are some resources that can help you prepare for this interview:
 
 - [<icon icon="fa-brands fa-github" size="lg" /> System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [<icon icon="fa-brands fa-github" size="lg" /> System Design Resources on Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide#system-design)
+- [<icon icon="fa-brands fa-github" size="lg" /> System Design Course](https://github.com/karanpratapsingh/system-design)
+- [ByteByteGo](https://bytebytego.com/)
+- [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+  - [Grokking The System Design Interview PDF](https://www.scribd.com/document/457318780/Grokking-the-System-Design-Interview-pdf)
+- [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview/)
 - System design videos on YouTube
 
 #### Their Questions
@@ -170,6 +175,15 @@ This is a good chance to get to know the engineering culture of the company sinc
 - Service support model: How do service owners support their services?
 - Big tech initiatives currently in progress
 - State of documentation and knowledge sharing in the company
+
+### Field Specific Technical Interview
+
+Some companies might have a technical interview that is specific to your field.
+
+#### Preparing for SRE Technical Interview
+
+- [<icon icon="fa-brands fa-github" size="lg" /> System Design Resources on Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide#system-design)
+- [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
 
 ## Behavioral Interview
 

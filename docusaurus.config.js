@@ -79,7 +79,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://ahmadalli.rocks">Ahmadali Shafiee</a>. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://ahmadalli.rocks">Ahmadali Shafiee</a>. Built with Docusaurus. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`,
       },
       colorMode: {
         defaultMode: "dark",

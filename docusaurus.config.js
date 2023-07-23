@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Public Notes",
-  tagline: "Ahmadali's personal notes, a blog in docs format",
+  tagline: "documentation of ideas, thoughts, and experiences",
   favicon: "img/logo.png",
 
   // Set the production url of your site here

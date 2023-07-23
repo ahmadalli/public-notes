@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Intro
 
-This is a blog, but in documentation format.
+This is documentation of my ideas, thoughts, and experiences.
 
 ## Why
 

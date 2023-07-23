@@ -38,3 +38,7 @@ To prevent my tendencies towards perfectionism from hindering my writing, I'll s
 ### Consistency
 
 One of the challenges of writing is that the content often does not fully capture my evolving thoughts. As thoughts and beliefs are constantly changing, some of these changes are reflected here while others are not. It's not a problem to solve, but it's something to keep in mind.
+
+## Getting Updates
+
+If you'd like to get updates when I publish new content, you can subscribe to [RSS feed](/blog/rss.xml) or [my substack](https://ahmadallish.substack.com).

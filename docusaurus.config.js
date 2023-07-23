@@ -82,6 +82,11 @@ const config = {
             position: "left",
           },
           {
+            href: "https://ahmadallish.substack.com",
+            label: "Substack",
+            position: "right",
+          },
+          {
             href: "https://github.com/ahmadalli/public-notes",
             label: "GitHub",
             position: "right",

@@ -54,5 +54,5 @@ I got some ideas from this video:
 [hg-toilet-inside]: https://www.gamma.nl/assortiment/hg-toiletgel-hygienisch-500-ml/p/B151966
 [hg-toilet-inside-extra]: https://www.gamma.nl/assortiment/hg-toiletgel-extra-sterk-500-ml/p/B411644
 [cleaning-vinegar]: https://www.gamma.nl/assortiment/rio-schoonmaakazijn-5-liter/p/B235829
-[goscrub](https://www.bol.com/nl/nl/p/goscrub-elektrische-schoonmaakborstel-elektrische-schrobber-schrobborstel-voor-badkamer-of-keuken-schrobber-met-steel-luiwagen-polijstmachine-roze/9300000127262158/?s2a=&bltgh=rDM4JIKw3cMewVMBtgBI-Q.2_28_29.30.FeatureOption#productTitle)
+[goscrub]: https://www.bol.com/nl/nl/p/goscrub-elektrische-schoonmaakborstel-elektrische-schrobber-schrobborstel-voor-badkamer-of-keuken-schrobber-met-steel-luiwagen-polijstmachine-roze/9300000127262158/?s2a=&bltgh=rDM4JIKw3cMewVMBtgBI-Q.2_28_29.30.FeatureOption#productTitle
 [hg-mold-moisture]: https://www.gamma.nl/assortiment/hg-schimmel-vocht-en-weerplekkenreiniger-500-ml/p/B412466

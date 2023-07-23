@@ -33,7 +33,7 @@ Direct debit is a common way of paying for subscriptions in the Netherlands. The
 
 ## Cash Exchange
 
-GWK Travelex has a lot of branches but their exchange rates are **not good**. I've found [Pott Change][pott-change] to have better rates.
+GWK Travelex has a lot of branches but their exchange rates and fees are **not good**. I've found [Pott Change][pott-change] to have better rates.
 
 [Revolut]: https://www.revolut.com/
 [geldmaat]: https://www.geldmaat.nl/

@@ -27,6 +27,11 @@ Direct debit is a common way of paying for subscriptions in the Netherlands. The
 - **iDeal**
 - **SEPA Direct Debit**: You can set up SEPA Direct Debit by providing your IBAN to the company.
 
+## ATMs
 
+[geldmaat][geldmaat] is the common ATM in the Netherlands. You can use it to withdraw cash from your bank account or [deposit cash][geldmaat-deposit] to your bank account if your bank supports it. You can use [their location guide][geldmaat-locations] to find the nearest ATMs and their supported services.
 
 [Revolut]: https://www.revolut.com/
+[geldmaat]: https://www.geldmaat.nl/
+[geldmaat-deposit]: https://www.geldmaat.nl/geldautomaten/biljetten-storten
+[geldmaat-locations]: https://www.locatiewijzer.geldmaat.nl/en/

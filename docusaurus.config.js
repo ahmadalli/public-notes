@@ -46,6 +46,13 @@ const config = {
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
         },
+        blog: {
+          blogTitle: "Blog",
+          routeBasePath: "/blog",
+          editUrl: "https://github.com/ahmadalli/public-notes/edit/main/",
+          showReadingTime: true,
+          postsPerPage: 10,
+        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -69,6 +76,11 @@ const config = {
           src: "img/logo.png",
         },
         items: [
+          {
+            to: "blog",
+            label: "Blog",
+            position: "left",
+          },
           {
             href: "https://github.com/ahmadalli/public-notes",
             label: "GitHub",

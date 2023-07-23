@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://publicnotes.io/blog</id>
+    <title>Public Notes Blog</title>
+    <updated>2023-07-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://publicnotes.io/blog"/>
+    <subtitle>Public Notes Blog</subtitle>
+    <icon>https://publicnotes.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Public Notes Changelog: Week 30 of 2023]]></title>
+        <id>https://publicnotes.io/blog/2023/07/23/public-notes-2023W30-changelog</id>
+        <link href="https://publicnotes.io/blog/2023/07/23/public-notes-2023W30-changelog"/>
+        <updated>2023-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the first changelog, so here's the top level categories that I've created from the beginning:]]></summary>
+        <content type="html"><![CDATA[<p>This is the first changelog, so here's the top level categories that I've created from the beginning:</p><ul><li><a href="/">Intro</a></li><li><a href="/a-guide-to-writing/">A Guide to Writing</a></li><li><a href="/netherlands/">Netherlands</a></li><li><a href="/finding-work/">Finding Work</a></li><li><a href="/problem-solving/">Problem Solving</a></li><li><a href="/home-errands/">Home Errands</a></li><li><a href="/projects/">Projects</a></li><li><a href="/phenomena/">Phenomena</a></li><li><a href="/soft-skills/">Soft Skills</a></li></ul>]]></content>
+        <author>
+            <name>Ahmadali</name>
+            <email>mail@ahmadalli.net</email>
+            <uri>https://ahmadalli.rocks</uri>
+        </author>
+    </entry>
+</feed>

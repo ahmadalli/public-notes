@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Public Notes Blog</title>
+        <link>https://publicnotes.io/blog</link>
+        <description>Public Notes Blog</description>
+        <lastBuildDate>Sun, 23 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Public Notes Changelog: Week 30 of 2023]]></title>
+            <link>https://publicnotes.io/blog/2023/07/23/public-notes-2023W30-changelog</link>
+            <guid>https://publicnotes.io/blog/2023/07/23/public-notes-2023W30-changelog</guid>
+            <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the first changelog, so here's the top level categories that I've created from the beginning:]]></description>
+            <content:encoded><![CDATA[<p>This is the first changelog, so here's the top level categories that I've created from the beginning:</p><ul><li><a href="/">Intro</a></li><li><a href="/a-guide-to-writing/">A Guide to Writing</a></li><li><a href="/netherlands/">Netherlands</a></li><li><a href="/finding-work/">Finding Work</a></li><li><a href="/problem-solving/">Problem Solving</a></li><li><a href="/home-errands/">Home Errands</a></li><li><a href="/projects/">Projects</a></li><li><a href="/phenomena/">Phenomena</a></li><li><a href="/soft-skills/">Soft Skills</a></li></ul>]]></content:encoded>
+            <author>mail@ahmadalli.net (Ahmadali)</author>
+        </item>
+    </channel>
+</rss>

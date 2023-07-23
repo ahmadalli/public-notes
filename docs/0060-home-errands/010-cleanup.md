@@ -8,7 +8,7 @@ sidebar_position: 10
 
 ### Surfaces
 
-For surfaces, all in one products work fine. I'd just spray the whole bathroom with it and then wipe it off with a cloth. I use [this HG product][hg-toilet-general] for this.
+For surfaces, 'all-in-one' cleaning products like this [this one][hg-toilet-general] work effectively. I usually spray the whole bathroom with it and then wipe it off with a cloth.
 
 ### Sink
 
@@ -25,19 +25,25 @@ By [Bbypnda](https://commons.wikimedia.org/w/index.php?title=User:Bbypnda&amp;am
 </figcaption>
 </figure>
 
-I've used [this HG product][hg-sink-lime] to remove hard water stains and lime scale from the sink. Just spray it on, let it sit for some time, and then wipe it off with a cloth.
+I use [this product][hg-sink-lime] to remove hard water stains and lime scale from the sink. Spray it on, let it sit for some time, and then wipe it off with a cloth.
 
-I've also read that vinegar or lemon juice can be used to remove lime scale by soaking a cloth in it and then wrapping it around the faucet. I got [this cleaning vinegar][cleaning-vinegar] for general cleaning purposes, but I haven't tried it yet on the sink yet.
+Vinegar or lemon juice can be used to remove lime scale by soaking a cloth in it and then wrapping it around the faucet. I got [this cleaning vinegar][cleaning-vinegar] for general cleaning purposes, but I haven't tried it on the faucet yet.
 
 ### Inside of the Toilet
 
-For the inside of the toilet: [this HG product][hg-toilet-inside] or if it's been a while since last cleaning: [this HG product][hg-toilet-inside-extra]
+For the inside of the toilet: [this product][hg-toilet-inside] or if it's been a while since last cleaning: [this product][hg-toilet-inside-extra]
 
-### Floors and Walls
+### Ceramic Floors and Walls
 
-I've been looking for a good way to clean the floors and walls with minimal effort. So I looked for products like electric toothbrushes, but for cleaning. There are drill attachments for this, but I don't have a drill so I got this [product][goscrub] instead. It's not perfect, but it's better than nothing.
+#### Tools
 
-But this needs some cleaning solution to be applied on the surface to be useful, and I tried vinegar, but it didn't work well especially when the surfaces haven't been cleaned for a while. A whitening solution works best for this, and [this HG product][hg-mold-moisture] worked well in this case.
+Instead of wiping the floors and walls with a cloth, you can utilize a tool like a [drill brush][drill-brush]and if you don't have a drill, a product like [this one][goscrub] can be used instead.
+
+While these tools can be useful, they are not perfect. Unlike an electric toothbrush that uses a back-and-forth motion, these tools operate in a circular motion. This requires additional effort to counteract the circular motion when you need to scrub in a back-and-forth manner.
+
+#### Cleaning Solutions
+
+I tried vinegar, but it didn't work well especially when the surfaces haven't been cleaned for a while. A solution that contains whitener compounds works best for this, and [this product][hg-mold-moisture] worked well in this case.
 
 ### Mirror
 
@@ -56,3 +62,4 @@ I got some ideas from this video:
 [cleaning-vinegar]: https://www.gamma.nl/assortiment/rio-schoonmaakazijn-5-liter/p/B235829
 [goscrub]: https://www.bol.com/nl/nl/p/goscrub-elektrische-schoonmaakborstel-elektrische-schrobber-schrobborstel-voor-badkamer-of-keuken-schrobber-met-steel-luiwagen-polijstmachine-roze/9300000127262158/?s2a=&bltgh=rDM4JIKw3cMewVMBtgBI-Q.2_28_29.30.FeatureOption#productTitle
 [hg-mold-moisture]: https://www.gamma.nl/assortiment/hg-schimmel-vocht-en-weerplekkenreiniger-500-ml/p/B412466
+[drill-brush]: https://www.amazon.com/Drillbrush-Bathroom-Surfaces-Scrubber-Cleaning/dp/B01MRLZ43B

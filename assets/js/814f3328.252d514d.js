@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpublic_notes=self.webpackChunkpublic_notes||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Public Notes Changelog: Week 30 of 2023","permalink":"/blog/2023/07/23/public-notes-2023W30-changelog"}]}')}}]);

@@ -77,6 +77,11 @@ const config = {
         },
         items: [
           {
+            to: "/",
+            label: "Notes",
+            position: "left",
+          },
+          {
             to: "blog",
             label: "Blog",
             position: "left",

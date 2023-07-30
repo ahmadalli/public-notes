@@ -1,6 +1,7 @@
 ---
 sidebar_position: 10
 ---
+import WikimediaToMarkdown from '@site/src/components/wikimedia-markdown';
 
 # Wikimedia Embedding in Markdown
 
@@ -24,9 +25,5 @@ The embed code from the `Media Viewer` includes the attribution. while the embed
 ## The Tool
 
 Enter the HTML code in the text area below:
-
-````mdx-code-block
-import WikimediaToMarkdown from '@site/src/components/wikimedia-markdown';
-````
 
 <WikimediaToMarkdown />

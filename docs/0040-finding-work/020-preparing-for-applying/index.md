@@ -8,7 +8,7 @@ The next step is to prioritize the requirements that you need to fulfill in orde
 
 ## Finding Positions and People
 
-Before you start preparing, you need to understand the requirements that you need to work on. You can use the same channels that we've discussed in [Finding Jobs that Match your Motivations](./010-finding-work-you-enjoy.md/#finding-jobs-that-match-your-motivations) to find relevant people, positions and activities.
+Before you start preparing, you need to understand the requirements that you need to work on. You can use the same channels that we've discussed in [Finding Jobs that Match your Motivations](../010-finding-work-you-enjoy.md/#finding-jobs-that-match-your-motivations) to find relevant people, positions and activities.
 
 Since you're preparing for the applying process, you should mainly focus on the input you get from the following sources:
 
@@ -69,49 +69,9 @@ In addition to reaching out to your network, you can also look for companies tha
 
 ## Preparing your Resume
 
-In a perfect world, we would have a well written resume with eye-catching style that includes plenty of impactful experiences. But, we need to work with what we have. From previous experience, I take an iterative approach to improve my resume. I start with **structure**, then **wording and formatting**, and finally **content**. There are lots of useful resources on these topics. Here are some tips that I've found useful:
+In a perfect world, we would have a well written resume with eye-catching style that includes plenty of impactful experiences. But, we need to work with what we have. Don't worry if you don't have a _perfect_ resume. Your resume is just one part of the recruitment process. As long as you can convince recruiters that you're a good fit for the job, you can compensate for this in other parts of the process.
 
-### Structure
-
-- Keep the resume under two pages. You can use two column layouts to make it more compact
-- Put more essential information at the top of your resume
-- Use common resume templates, and preferably LaTeX. This would make your resume more compatible with ATS systems
-- Use a template that supports rating your skills
-- Review spacing and alignment
-
-### Wording and Formatting
-
-- Be concise when writing your position titles, descriptions, and bullet points
-- Review your wording and grammar. **Grammatical mistakes are a big red flag for recruiters.** Tools like Grammarly can be helpful in checking your wording and grammar
-- Don't use adjectives to describe yourself and your skills. Quantify your proficiency in a skill by using numbers. For example, use "I'm 80% proficient in Python" instead of "I'm a good programmer"
-- Don't repeat yourself
-
-### Content
-
-- Make sure you include the keywords that are mentioned in the job description
-- Use STAR method to describe your experience
-
-:::tip
-
-Recruiters usually spend less than 10 seconds reviewing a resume. So, make sure your content is easy to read and the important parts are highlighted.
-
-:::
-
-:::tip
-
-You can get help from ChatGPT to write sections of your resume. It's not perfect, but it can give you some ideas and starting points. You can start with the following command:
-
-```
-I'm writing an item for <X> section of my resume. Ask me some questions about it then write it for me. Follow STAR method.
-```
-
-:::
-
-:::note
-
-Don't worry if you don't have a _perfect_ resume. Your resume is just one part of the recruitment process. As long as you can convince recruiters that you're a good fit for the job, you can compensate for this in other parts of the process.
-
-:::
+Take a look at [Resume](./010-resume.md) for more information on how to prepare your resume.
 
 ## Cover Letter
 

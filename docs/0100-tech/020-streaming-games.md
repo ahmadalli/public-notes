@@ -29,11 +29,11 @@ You can manage your Sunshine applications and configurations from its web UI at 
 
 ### Network Bandwidth
 
-I assumed that my relatively new TV would have a 1Gbit Ethernet port, but it only has a 100Mbit port. This is not enough to stream games at 1080p 60fps. I'm currently using lower bitrates to compensate for this.
+TVs usually have a 100Mbit port instead of 1Gbit. This is not enough to stream games at 1080p 60fps.
 
 #### Solutions
 
-- Find a USB 3 dongle that adds a 1Gbit Ethernet port to my TV. I've tried TP-Link UE306 and ISY IAD-1010-A and they both didn't work. I'm going to try TP-Link UE300 as [<icon icon="fa-brands fa-reddit" size="lg" /> it seems to be working unlike UE306](https://www.reddit.com/r/bravia/comments/qdrgjl/usb_ethernet/)
+- Use a USB 3 dongle that supports Android TV devices like TP-Link UE300. ([<icon icon="fa-brands fa-reddit" size="lg" /> UE305 or UE306 don't work](https://www.reddit.com/r/bravia/comments/qdrgjl/usb_ethernet/))
 - Use a device that has a 1Gbit Ethernet port.
   - Raspberry Pi 4 if you want to DIY the whole thing
   - Nvidia Shield TV if you want a more polished experience

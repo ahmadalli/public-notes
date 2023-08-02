@@ -86,6 +86,22 @@ OV-Fiets is a daily bike rental service from NS. It can be useful if you'd like 
 
 You can [buy a day ticket][ns-bike-in-train-ticket] and take your bike with you in the train on off-peak hours. Trains usually have a special compartment for bikes at both ends.
 
+### GVB
+
+[GVB][gvb] is the public transport company of Amsterdam. You can use GVB to travel within Amsterdam. You can buy tickets from the [GVB website][gvb] or GVB app.
+
+:::tip
+
+Check out [GVB's website][gvb] for latest information about route timetables, changes and disruptions.
+
+:::
+
+If you're regularly using GBV services, check out [Season ticker advice][gvb-season-ticket-advice] to find out which season ticket is the best for you.
+
+### Costs
+
+You can get an estimate on how much your travel costs by using the [NS Travel Planner][ns-travel-planner]. You can also check out the [NS website][ns] for more information about the costs. Travel planner doesn't show the discounts you might have from your subscriptions.
+
 ### Other Public Transport Companies
 
 There are other public transport companies like GVB in Amsterdam or RET. These companies have their own rates and some offer subscriptions. You can check out their websites for more information.
@@ -156,3 +172,6 @@ Most of these companies give you rewards if you charge the car when you're done 
 [snappcar]: https://www.snappcar.nl/
 [felyx]: https://felyx.nl/
 [check]: https://ridecheck.app/
+[gvb]: https://www.gvb.nl/en
+[gvb-season-ticket-advice]: https://reisproducten.gvb.nl/en/abonnement-advies
+[ns-travel-planner]: https://www.ns.nl/en/journeyplanner/

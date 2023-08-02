@@ -8,13 +8,17 @@ sidebar_position: 40
 
 Compared to Iran, and what I've seen on other countries, there are some differences in the banking system in the Netherlands. The main difference is **credit cards are not common in here** and people mostly use debit cards.
 
-The second difference is that Dutch banks used to use Maestro instead of Visa and Mastercard and because of that, [iDeal](#ideal) is the common payment gateway in the Netherlands. MasterCard is replacing Maestro in the Netherlands from July 2023 though.
+The second difference is that Dutch banks used to use Maestro instead of Visa and Mastercard and because of that, [iDeal](#ideal) is the common payment gateway in the Netherlands. MasterCard is planned to be replacing Maestro from July 2023.
 
 ## iDeal
 
 In the absence of Visa and Mastercard, iDeal is the payment gateway in the Netherlands. It doesn't abstract away the bank from the payment process, so the payment site you're using must also support your bank as well. And so you need to select your bank from the list of banks when you're paying with iDeal.
 
 It wouldn't be a problem with common Dutch banks but for banks like [Revolut][Revolut], I've seen places that did not support it when I didn't have a Dutch bank as my primary bank.
+
+## Tikkie
+
+[Tikkie][tikkie] is a payment service that is used to send payment requests to other people. It's mostly used to split bills between friends or transfer small amounts of money to each other.
 
 ## International Payments
 
@@ -40,3 +44,4 @@ GWK Travelex has a lot of branches but their exchange rates and fees are **not g
 [geldmaat-deposit]: https://www.geldmaat.nl/geldautomaten/biljetten-storten
 [geldmaat-locations]: https://www.locatiewijzer.geldmaat.nl/en/
 [pott-change]: https://www.pottchange.com/en/
+[tikkie]: https://www.tikkie.me/

@@ -176,15 +176,6 @@ This is a good chance to get to know the engineering culture of the company sinc
 - Big tech initiatives currently in progress
 - State of documentation and knowledge sharing in the company
 
-### Field Specific Technical Interview
-
-Some companies might have a technical interview that is specific to your field.
-
-#### Preparing for SRE Technical Interview
-
-- [<icon icon="fa-brands fa-github" size="lg" /> System Design Resources on Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide#system-design)
-- [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
-
 ## Behavioral Interview
 
 Behavioral interviews or cultural fit interviews are used to evaluate your professional skills and your personality and how well you fit in the company. These interviews are usually done by the hiring manager or an engineering manager.
@@ -248,10 +239,3 @@ This is the best chance for you to get to know the position, team, and day-to-da
 - The team's technical debt and toil
 - The team's impact on the company and business
 - Any unanswered questions from your [recruiter interview](#recruiter-interview-your-questions)
-
-## Useful Resources
-
-### For Site Reliability Engineering (SRE) Interviews
-
-- [<icon icon="fa-brands fa-github" size="lg" /> SRE Interviewing Questions](https://github.com/michaelkkehoe/sre-interview)
-- [<icon icon="fa-brands fa-github" size="lg" /> Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)

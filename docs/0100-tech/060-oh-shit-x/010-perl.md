@@ -77,8 +77,8 @@ my @sorted = sort { $a <=> $b } @unsorted;
   my %var = ("a" => 1, "b" => 2, "c" => 3);
   my $var = "scalar";
 
-  print "\$var{a} = $var{a}\n"; # prints 1
-  print "\$var[0] = $var[0]\n"; # prints a
-  print qq/\@var{"a", "b"} = @var{a, b}\n/; # prints 1 2
-  print qq/\%var[0,1] = %var{"a", "b"}\n/; # prints 0 => a, 1 => b
+  print "\$var{a} = $var{a}\n"; # prints 1, returns scalar from hash
+  print "\$var[0] = $var[0]\n"; # prints a, returns scalar from array
+  print qq/\@var{"a", "b"} = @var{a, b}\n/; # prints 1 2, returns array (because of @) from hash (because of {})
+  print qq/\%var[0,1] = %var{"a", "b"}\n/; # prints 0 => a, 1 => b, returns hash (because of %) from array (because of [])
   ```

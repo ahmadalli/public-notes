@@ -2,6 +2,8 @@
 
 set -eou pipefail
 
+GPT_MODEL="gpt-4-0314"
+
 changelog_id="$(date +%Y%m%d%H%M%S)"
 perfile_changelog_filename="changelog-$changelog_id.md"
 refine_changelog_filename="changelog-$changelog_id.refined.md"
@@ -30,10 +32,10 @@ for doc_file in $changed_docs; do
     commit_diffs+=$'\n\n'
   done
 
-  file_changelog=$(sgpt --model gpt-4 "Write less than 100 characters and concise high-level description for a non-technical audience of changes that have been made to this documentation page from git diff. Document Path: $doc_file, Changes: " <<<"$commit_diffs")
+  file_changelog=$(sgpt --model $GPT_MODEL "Write less than 100 characters and concise high-level description for a non-technical audience of changes that have been made to this documentation page from git diff. Document Path: $doc_file, Changes: " <<<"$commit_diffs")
   echo "[$relative_url](https://publicnotes.io/$relative_url): $file_changelog" >>"$perfile_changelog_filename"
 done
 
-sgpt --model gpt-4 "Refine the following changelog for the release. Make sure the writing is consistent and change as few words as possible." <"$perfile_changelog_filename" >>"$refine_changelog_filename"
-sgpt --model gpt-4 "Write less than 500 characters highlights of the changes that's been done in the past week in markdown format with proper headings from the changelog file: " <"$refine_changelog_filename" >>"$highlights_changelog_filename"
-sgpt --model gpt-4 "Refine the following highlights for the release. Remove duplicates, make sure the writing is consistent and change as few words as possible." <"$highlights_changelog_filename" >>"$highlights_refined_changelog_filename"
+sgpt --model $GPT_MODEL "Refine the following changelog for the release. Make sure the writing is consistent and change as few words as possible." <"$perfile_changelog_filename" >>"$refine_changelog_filename"
+sgpt --model $GPT_MODEL "Write less than 500 characters highlights of the changes that's been done in the past week in markdown format with proper headings from the changelog file: " <"$refine_changelog_filename" >>"$highlights_changelog_filename"
+sgpt --model $GPT_MODEL "Refine the following highlights for the release. Remove duplicates, make sure the writing is consistent and change as few words as possible." <"$highlights_changelog_filename" >>"$highlights_refined_changelog_filename"

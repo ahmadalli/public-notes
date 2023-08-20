@@ -4,7 +4,7 @@ authors: ahmadalli
 
 # Public Notes Changelog: Week 34 of 2023
 
-In the past few weeks I've been busy with [my on-boarding at Booking.com 😄](https://www.linkedin.com/posts/ahmadalli_im-happy-to-share-that-im-starting-a-new-activity-7093953424672579584-5ViF) and leaning Perl, which lead me to buy ohshitperl.com and start writing about its quirks.
+In the past few weeks, I've been busy with [my on-boarding at Booking.com 😄](https://www.linkedin.com/posts/ahmadalli_im-happy-to-share-that-im-starting-a-new-activity-7093953424672579584-5ViF) and leaning Perl, which lead me to buy [ohshitperl.com](https://ohshitperl.com) and write about its quirks.
 
 ## Full Changelog
 
@@ -16,4 +16,4 @@ In the past few weeks I've been busy with [my on-boarding at Booking.com 😄](h
 - [tech/streaming-games](https://publicnotes.io/tech/streaming-games): Updated TV port info and recommended USB dongle for streaming games at 1080p 60fps.
 - [tech/oh-shit-x/perl](https://publicnotes.io/tech/oh-shit-x/perl): Added information on Perl operators, arrays, hashes, lists, flow control, subroutines, and classes.
 - [tech/oh-shit-x/](https://publicnotes.io/tech/oh-shit-x/): Added a new documentation page titled "Oh Shit, X" inspired by "Oh Shit, Git!?".
-- [problems-and-questions](https://publicnotes.io/problems-and-questions): Added a new documentation page discussing problems and a questions I encounter.
+- [problems-and-questions](https://publicnotes.io/problems-and-questions): Added a new documentation page discussing problems and questions I encounter.

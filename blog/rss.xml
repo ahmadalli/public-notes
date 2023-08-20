@@ -4,10 +4,19 @@
         <title>Public Notes Blog</title>
         <link>https://publicnotes.io/blog</link>
         <description>Public Notes Blog</description>
-        <lastBuildDate>Mon, 31 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Public Notes Changelog: Week 34 of 2023]]></title>
+            <link>https://publicnotes.io/blog/2023/08/20/public-notes-2023w34-changelog</link>
+            <guid>https://publicnotes.io/blog/2023/08/20/public-notes-2023w34-changelog</guid>
+            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the past few weeks I've been busy with my on-boarding at Booking.com 😄 and leaning Perl, which lead me to buy ohshitperl.com and start writing about its quirks.]]></description>
+            <content:encoded><![CDATA[<p>In the past few weeks I've been busy with <a href="https://www.linkedin.com/posts/ahmadalli_im-happy-to-share-that-im-starting-a-new-activity-7093953424672579584-5ViF" target="_blank" rel="noopener noreferrer">my on-boarding at Booking.com 😄</a> and leaning Perl, which lead me to buy ohshitperl.com and start writing about its quirks.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="full-changelog">Full Changelog<a href="#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog">​</a></h2><ul><li><a href="https://publicnotes.io/netherlands/renting-an-apartment" target="_blank" rel="noopener noreferrer">netherlands/renting-an-apartment</a>: Added a tip about apartment search in bigger cities and public transportation.</li><li><a href="https://publicnotes.io/netherlands/transportation" target="_blank" rel="noopener noreferrer">netherlands/transportation</a>: Added a section about GVB public transport in Amsterdam, updated costs information.</li><li><a href="https://publicnotes.io/netherlands/banking" target="_blank" rel="noopener noreferrer">netherlands/banking</a>: Added Tikkie payment service info and updated MasterCard replacing Maestro details.</li><li><a href="https://publicnotes.io/finding-work/interviewing/sre-interview-materials" target="_blank" rel="noopener noreferrer">finding-work/interviewing/sre-interview-materials</a>: Added a new page for SRE interview materials and moved related content from the main interviewing page.</li><li><a href="https://publicnotes.io/finding-work/interviewing/" target="_blank" rel="noopener noreferrer">finding-work/interviewing/</a>: Added a new SRE Interview Materials page and moved related resources to it.</li><li><a href="https://publicnotes.io/tech/streaming-games" target="_blank" rel="noopener noreferrer">tech/streaming-games</a>: Updated TV port info and recommended USB dongle for streaming games at 1080p 60fps.</li><li><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/perl</a>: Added information on Perl operators, arrays, hashes, lists, flow control, subroutines, and classes.</li><li><a href="https://publicnotes.io/tech/oh-shit-x/" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/</a>: Added a new documentation page titled "Oh Shit, X" inspired by "Oh Shit, Git!?".</li><li><a href="https://publicnotes.io/problems-and-questions" target="_blank" rel="noopener noreferrer">problems-and-questions</a>: Added a new documentation page discussing problems and a questions I encounter.</li></ul>]]></content:encoded>
+            <author>mail@ahmadalli.net (Ahmadali)</author>
+        </item>
         <item>
             <title><![CDATA[Public Notes Changelog: Week 31 of 2023]]></title>
             <link>https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog</link>

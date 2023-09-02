@@ -14,6 +14,6 @@
 
 ## Projects
 
-[<icon icon="fa-solid fa-at" size="lg" /> Public Notes](https://publicnotes.io/)
+[<icon icon="fa-solid fa-at" size="lg" /> Public Notes](https://publicnotes.io/) <icon icon="fa-solid fa-chevron-right" size="sm" /> [Project Docs](/projects/public-notes/)
 
-[<icon icon="fa-solid fa-comment" size="lg" /> CleverMessages](https://clevermsg.io/)
+[<icon icon="fa-solid fa-comment" size="lg" /> CleverMessages](https://clevermsg.io/) <icon icon="fa-solid fa-chevron-right" size="sm" /> [Project Docs](/projects/clever-messages/)

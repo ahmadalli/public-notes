@@ -5,6 +5,12 @@ toc_max_heading_level: 4
 
 # Oh Shit, Python
 
+:::info
+
+You can access to this page from [ohshitpython.com](https://ohshitpython.com), [ohshit.foo/python](https://ohshit.foo/python) or [ohshit.bar/python](https://ohshit.bar/python).
+
+:::
+
 ## TLDR
 
 - Beware of [GIL](#global-interpreter-lock-gil).

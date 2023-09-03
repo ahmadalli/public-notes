@@ -4,6 +4,12 @@ sidebar_position: 10
 
 # Oh Shit, Perl
 
+:::info
+
+You can access to this page from [ohshitperl.com](https://ohshitperl.com), [ohshit.foo/perl](https://ohshit.foo/perl) or [ohshit.bar/perl](https://ohshit.bar/perl).
+
+:::
+
 ## Operators
 
 Perl has [a lot of operators](https://perldoc.perl.org/perlop), and some of them are a bit weird. Here are some of them:

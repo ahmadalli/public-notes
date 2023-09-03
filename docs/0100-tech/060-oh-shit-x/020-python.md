@@ -175,3 +175,8 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
 Check out [Super considered super! talk by Raymond Hettinger](https://www.youtube.com/watch?v=EiOglTERPEo) for more information about classes.
 
 :::
+
+## More Resources
+
+- [<icon icon="fa-brands fa-github" size="lg" /> What the f*ck Python! 😱](https://github.com/satwikkansal/wtfpython)
+  - [<icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37281692)

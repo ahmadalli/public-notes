@@ -10,6 +10,7 @@ toc_max_heading_level: 4
 - Beware of [GIL](#global-interpreter-lock-gil).
 - Don't give default values to mutable variables, either in [function parameters](#functions) or [classes](#classes).
 - In contrast to `using` in C# or `include` in C++, [`import`](#modules-and-packages) executes modules and allows you to have interdependent modules. Make sure you understand how [Modules and Packages](#modules-and-packages) work before using them.
+- Python offers a variety of syntactic sugars, such as the ability to view class attributes through the `__dict__` attribute and the use of `@property` decorators for getter and setter methods. However, these features, if misused, can make it easier to bypass certain limitations and safeguards, potentially leading to less predictable code.
 
 ## Objects
 

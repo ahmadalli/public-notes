@@ -12,3 +12,5 @@ sidebar_position: 10
 - Relocating documents breaks their links.
 - Markdown links can derive their titles from the linked document, similar to the functionality provided by Confluence.
 - If we can track a document, then we can create an update history for it.
+- Keeping writing format consistent. E.g. period at the end of a sentence, capitalization, etc.
+- Automatically add icons to external links.

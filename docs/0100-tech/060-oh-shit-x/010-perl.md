@@ -291,3 +291,8 @@ This function creates a lot of confusion because there's no guarantee that the f
 - **Other than scalar, array, and hash, there are no other data structures in Perl.**
 - Object oriented programming is not built into the language, and you need to use modules to implement it. [An Object is Simply a Data Structure](https://perldoc.perl.org/perlobj#An-Object-is-Simply-a-Data-Structure).
   - There's no reserved name for constructors, and you can use any name you want. `new` is just a convention.
+
+## More Resources
+
+- [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/): Rakudo is a Perl 6 implementation.
+  - [<icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37040681)

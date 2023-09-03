@@ -77,7 +77,7 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
     """This is a test function"""
     return 1
 
-  print(test.__doc__)
+  print(test.__doc__) # prints "This is a test function"
   ```
 
 ### Dictionaries
@@ -121,9 +121,9 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
     a.append(1)
     print(a)
 
-  test()
-  test()
-  test()
+  test() # prints [1]
+  test() # prints [1, 1]
+  test() # prints [1, 1, 1]
   ```
 
   For this reason, you should use immutable (types like `None` in this case) as default arguments. You can read more about this in [here](https://docs.python-guide.org/writing/gotchas/#mutable-default-arguments).

@@ -71,16 +71,18 @@ When I play casual, I peak the season's operator and for the opposite side, to c
 
 This approach is more challenging for support operators like Clash but it's fun nonetheless.
 
-## Generic Strategies
+## Strategies
 
-### Offense
+### Generic
+
+#### Offense
 
 - At least one hard breacher.
 - At least one soft breacher.
 - Gather intel at all stages of the game. It's rarely a good idea to rush in blindly.
 - If you're carrying the defuser, don't rush in and stick with your team.
 
-### Defense
+#### Defense
 
 - At least player should be able to make rotation.
 - At least one player roam and reinforce hatches.
@@ -88,3 +90,24 @@ This approach is more challenging for support operators like Clash but it's fun 
 - If there's a wall facing outside, it should be electrified.
 - If there's Mira in the team, coordinate with her before reinforcing walls.
 - There should be a balance between anchors and roamers.
+
+### Generic Operator Ban
+
+Operator ban depends on the map on most cases, but in case I don't have a specific ban in mind, I ban the following operators:
+
+#### Defense
+
+- Clash: She can block off and hold a path by herself.
+- Mira: She can block off and hold a path by herself.
+- Caveira: She's annoying to deal with 😄
+
+#### Offense
+
+- Jackal: He can track roamers and make it difficult for them to flank.
+- Dokkaebi: She can hack cameras and make it difficult for roamers to flank.
+
+### Map Specific Operator Ban
+
+#### Villa
+
+- Thatcher: He can disable the electrified walls on the basement.

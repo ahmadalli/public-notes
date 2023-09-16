@@ -26,6 +26,12 @@ Since we don't have unlimited time, we need to prioritize the requirements that 
 
 :::tip
 
+You can use [roadmap.sh](https://roadmap.sh/) to get a general idea of the skills that you need to learn for your desired career path.
+
+:::
+
+:::tip
+
 If you're applying for entry-level positions, you need to put in more effort to convince recruiters that you're a good fit for the job. You need some material to pass the first filter of the recruitment process.
 
 :::

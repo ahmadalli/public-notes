@@ -12,6 +12,7 @@ highlights_refined_changelog_filename="changelog-$changelog_id.highlights.refine
 touch "$perfile_changelog_filename"
 
 last_tag=$(git describe --tags --abbrev=0)
+commits_since_last_tag=$(git rev-list "$last_tag"..HEAD)
 
 changed_docs=$(git diff --name-only "$last_tag"..HEAD | grep -E '^docs/.*')
 
@@ -24,7 +25,7 @@ for doc_file in $changed_docs; do
   commit_diffs=""
 
   for commit in $(git rev-list HEAD -- "$doc_file"); do
-    if [ "$commit" == "$last_tag" ]; then
+    if ! grep -q "$commit" <<<"$commits_since_last_tag"; then
       break
     fi
 

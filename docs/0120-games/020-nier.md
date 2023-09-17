@@ -36,6 +36,12 @@ I like the way Nier:Replicant mixes up "good and evil" and create an antagonist 
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/GOtBB7RQWVI?si=6Hot8LElafGWYOIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Soundtracks
+
+Nier:Replicant and Nier:Automata have amazing soundtracks and I still regularly listen to them. This video is a good explanation of the soundtracks:
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/6R8EdPvX0ZY?si=UlkjBU6PVAVgoMrT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I've also enjoyed watching [<icon icon="fa-brands fa-youtube" size="lg" /> @JonathanBarouch](https://www.youtube.com/@JonathanBarouch/)'s breakdown of the game's soundtracks. I've created a playlist of the videos:
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/videoseries?list=PL-5husw7cnE3ew91ubShAhtW8Q4LWQPwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

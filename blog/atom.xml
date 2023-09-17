@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publicnotes.io/blog</id>
     <title>Public Notes Blog</title>
-    <updated>2023-09-03T00:00:00.000Z</updated>
+    <updated>2023-09-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://publicnotes.io/blog"/>
     <subtitle>Public Notes Blog</subtitle>
     <icon>https://publicnotes.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Public Notes Changelog: Week 38 of 2023]]></title>
+        <id>https://publicnotes.io/blog/2023/09/17/public-notes-2023w38-changelog</id>
+        <link href="https://publicnotes.io/blog/2023/09/17/public-notes-2023w38-changelog"/>
+        <updated>2023-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This week I got my drone pilot license 🎉 and I took the opportunity and documented the process in Legal Preparation page.]]></summary>
+        <content type="html"><![CDATA[<p>This week I got my drone pilot license 🎉 and I took the opportunity and documented the process in <a href="https://publicnotes.io/drones/legal-preparations" target="_blank" rel="noopener noreferrer">Legal Preparation</a> page.</p><p>Another topic is the games I like and enjoy. I started with <a href="https://publicnotes.io/games/nier" target="_blank" rel="noopener noreferrer">Nier Series</a>, which I strongly recommend you to play and <a href="https://publicnotes.io/games/rainbow-six" target="_blank" rel="noopener noreferrer">Rainbow Six Siege</a>, my favorite FPS game.</p><p>I also played Super Mario on the Casio Prizm. Additionally, there have been some small updates on other pages, which you can find in the changelog below:</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="full-changelog">Full Changelog<a href="#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog">​</a></h2><ul><li><a href="https://publicnotes.io/netherlands/useful-apps-and-sites" target="_blank" rel="noopener noreferrer">netherlands/useful-apps-and-sites</a>: Added a link for reporting stolen bikes.</li><li><a href="https://publicnotes.io/finding-work/preparing-for-applying" target="_blank" rel="noopener noreferrer">finding-work/preparing-for-applying</a>: Included a tip on using roadmap.sh for prioritizing career path skills.</li><li><a href="https://publicnotes.io/projects/public-notes" target="_blank" rel="noopener noreferrer">projects/public-notes</a>: Updated the page with detailed challenges, proposed solutions, and a new to-do section.</li><li><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/perl</a>: Added a "More Resources" section with a link to an article about Raku and related discussion.</li><li><a href="https://publicnotes.io/tech/oh-shit-x/python" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/python</a>: Introduced a "More Resources" section with a link to the <code>What the f*ck Python?</code> GitHub repository and related discussion.</li><li><a href="https://publicnotes.io/tech/casio-prizm-gaming" target="_blank" rel="noopener noreferrer">tech/casio-prizm-gaming</a>: Created a new page on gaming with the Casio Prizm calculator, including game and emulator links.</li><li><a href="https://publicnotes.io/games/rainbow-six" target="_blank" rel="noopener noreferrer">games/rainbow-six</a>: Reorganized Rainbow Six Siege strategies and added sections on operator bans.</li><li><a href="https://publicnotes.io/games/nier" target="_blank" rel="noopener noreferrer">games/nier</a>: Included sections on Nier:Replicant and Nier:Automata soundtracks, along with a YouTube video breakdown.</li><li><a href="https://publicnotes.io/drones/legal-preparations" target="_blank" rel="noopener noreferrer">drones/legal-preparations</a>: Added a new page on legal preparations for flying drones in EU.</li></ul>]]></content>
+        <author>
+            <name>Ahmadali</name>
+            <email>mail@ahmadalli.net</email>
+            <uri>https://ahmadalli.rocks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public Notes Changelog: Week 36 of 2023]]></title>
         <id>https://publicnotes.io/blog/2023/09/03/public-notes-2023w36-changelog</id>

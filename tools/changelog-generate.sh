@@ -2,7 +2,7 @@
 
 set -eou pipefail
 
-GPT_MODEL="gpt-4-0314"
+GPT_MODEL="gpt-4"
 
 changelog_id="$(date +%Y%m%d%H%M%S)"
 perfile_changelog_filename="changelog-$changelog_id.md"

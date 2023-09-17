@@ -294,5 +294,5 @@ This function creates a lot of confusion because there's no guarantee that the f
 
 ## More Resources
 
-- [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/): Rakudo is a Perl 6 implementation.
+- [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
   - [<icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37040681)

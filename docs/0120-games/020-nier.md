@@ -36,6 +36,10 @@ I like the way Nier:Replicant mixes up "good and evil" and create an antagonist 
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/GOtBB7RQWVI?si=6Hot8LElafGWYOIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+I've also enjoyed watching [<icon icon="fa-brands fa-youtube" size="lg" /> @JonathanBarouch](https://www.youtube.com/@JonathanBarouch/)'s breakdown of the game's soundtracks. I've created a playlist of the videos:
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/videoseries?list=PL-5husw7cnE3ew91ubShAhtW8Q4LWQPwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Drankengard Series and Other Questions
 
 I'm really curious about the connection between Drakengard and Nier story lines, things that happened in the year 6000, Accord and what's happening in the dark side of the earth. There are some details about this in this part of the 6 hour video:

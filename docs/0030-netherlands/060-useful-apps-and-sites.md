@@ -125,6 +125,7 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
   - [iOS](https://apps.apple.com/nl/app/id1504052262)
 - [MyIND](https://ind.nl/en/my-ind)
 - [BKR](https://mijnkredietoverzicht.bkr.nl/): Check your ongoing loans
+- [Report Stollen Bike](https://www.politie.nl/aangifte-of-melding-doen/aangifte-van-diefstal-fiets.html)
 
 ### Legal Advice
 

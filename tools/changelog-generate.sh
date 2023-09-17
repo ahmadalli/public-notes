@@ -28,8 +28,7 @@ for doc_file in $changed_docs; do
     if ! grep -q "$commit" <<<"$commits_since_last_tag"; then
       break
     fi
-
-    commit_diffs+=$(git diff "$commit^" "$commit")
+    commit_diffs+=$(git diff --unified=0 "$commit^" "$commit")
     commit_diffs+=$'\n\n'
   done
 

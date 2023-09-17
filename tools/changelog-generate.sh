@@ -36,6 +36,6 @@ for doc_file in $changed_docs; do
   echo "[$relative_url](https://publicnotes.io/$relative_url): $file_changelog" >>"$perfile_changelog_filename"
 done
 
-sgpt --model $GPT_MODEL "Refine the following changelog for the release. Make sure the writing is consistent and change as few words as possible." <"$perfile_changelog_filename" >>"$refine_changelog_filename"
+sgpt --model $GPT_MODEL "Refine the following changelog for the release. Keep the format and links. Make sure the writing is consistent and change as few words as possible." <"$perfile_changelog_filename" >>"$refine_changelog_filename"
 sgpt --model $GPT_MODEL "Write less than 500 characters highlights of the changes that's been done in the past week in markdown format with proper headings from the changelog file: " <"$refine_changelog_filename" >>"$highlights_changelog_filename"
 sgpt --model $GPT_MODEL "Refine the following highlights for the release. Remove duplicates, make sure the writing is consistent and change as few words as possible." <"$highlights_changelog_filename" >>"$highlights_refined_changelog_filename"

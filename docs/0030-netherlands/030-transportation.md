@@ -145,8 +145,8 @@ If you don't want to use public transportation, and [if you don't own a car](htt
 
 - [Sixt Share][sixt-share] (Used)
 - [Share Now][share-now] (Used)
-- [MyWheels][mywheels]
-- [Green Mobility][green-mobility]
+- [MyWheels][mywheels] (Used)
+- [Green Mobility][green-mobility] (Used)
 - [SnappCar][snappcar]
 
 :::tip

@@ -104,6 +104,7 @@ Operator ban depends on the map on most cases, but in case I don't have a specif
 #### Offense
 
 - Jackal: He can track roamers and make it difficult for them to flank.
+- Thatcher: He can disable the electrified walls.
 - Dokkaebi: She can hack cameras and make it difficult for roamers to flank.
 
 ### Map Specific Operator Ban

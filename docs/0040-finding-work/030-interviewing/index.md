@@ -143,9 +143,9 @@ Make sure that you're familiar with the common drawing platforms like Miro, Draw
 
 There are some resources that can help you prepare for this interview:
 
-- [<icon icon="fa-brands fa-github" size="lg" /> System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [<icon icon="fa-brands fa-github" size="lg" /> System Design Resources on Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide#system-design)
-- [<icon icon="fa-brands fa-github" size="lg" /> System Design Course](https://github.com/karanpratapsingh/system-design)
+- [<Icon icon="fa-brands fa-github" size="lg" /> System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [<Icon icon="fa-brands fa-github" size="lg" /> System Design Resources on Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide#system-design)
+- [<Icon icon="fa-brands fa-github" size="lg" /> System Design Course](https://github.com/karanpratapsingh/system-design)
 - [ByteByteGo](https://bytebytego.com/)
 - [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
   - [Grokking The System Design Interview PDF](https://www.scribd.com/document/457318780/Grokking-the-System-Design-Interview-pdf)
@@ -182,7 +182,7 @@ Behavioral interviews or cultural fit interviews are used to evaluate your profe
 
 ### Preparing for Behavioral Interview
 
-You can prepare for this interview by thinking about your previous experiences and how you handled them. There are also some lists of common behavioral questions that you can find online like [<icon icon="fa-brands fa-github" size="lg" /> this one](https://github.com/michaelkkehoe/sre-interview/blob/master/culture.md)
+You can prepare for this interview by thinking about your previous experiences and how you handled them. There are also some lists of common behavioral questions that you can find online like [<Icon icon="fa-brands fa-github" size="lg" /> this one](https://github.com/michaelkkehoe/sre-interview/blob/master/culture.md)
 
 You can do some preparation for the interview as well:
 

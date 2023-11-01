@@ -52,7 +52,7 @@ You can access to this page from [ohshitpython.com](https://ohshitpython.com), [
   sys.getrefcount("import")
   ```
 
-  [<icon icon="fa-brands fa-stack-overflow" size="lg" /> There are other ways to count references as well.](https://stackoverflow.com/q/510406/1003464)
+  [<Icon icon="fa-brands fa-stack-overflow" size="lg" /> There are other ways to count references as well.](https://stackoverflow.com/q/510406/1003464)
 
 ### Global Interpreter Lock (GIL)
 
@@ -75,7 +75,7 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
   - You can do `if "ello" in "hello": print("yes")`
   - You can iterate over them: `for c in "hello": print(c)`
   - You can slice them with indexes `"hello"[1:]`
-- Multiline strings are used for multiline comments. [<icon icon="fa-brands fa-twitter" size="lg" /> @gvanrossum's tweet](https://twitter.com/gvanrossum/status/112670605505077248)
+- Multiline strings are used for multiline comments. [<Icon icon="fa-brands fa-twitter" size="lg" /> @gvanrossum's tweet](https://twitter.com/gvanrossum/status/112670605505077248)
 - When used as docstrings, multiline strings are parsed and become accessible through the `__doc__` property of the object.
 
   ```python
@@ -148,8 +148,8 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
 - Classes in Python are dictionaries with syntactic sugar. You can access class attributes with `__dict__` property.
   - This means that private attributes are not really private. You can access them with `instance._Class__private_attribute` syntax.
   - To optimize memory usage, you can utilize [`__slots__`](https://wiki.python.org/moin/UsingSlots) to specify a set of valid attribute names.
-- [<icon icon="fa-brands fa-stack-overflow" size="lg" /> `__init__` is not a constructor](https://stackoverflow.com/a/28791753/1003464).
-- [<icon icon="fa-brands fa-stack-overflow" size="lg" /> `super` isn't like `base` on C family languages.](https://stackoverflow.com/a/21639994/1003464). It doesn't call the parent but the next class in the [method resolution order](https://www.python.org/download/releases/2.3/mro/).
+- [<Icon icon="fa-brands fa-stack-overflow" size="lg" /> `__init__` is not a constructor](https://stackoverflow.com/a/28791753/1003464).
+- [<Icon icon="fa-brands fa-stack-overflow" size="lg" /> `super` isn't like `base` on C family languages.](https://stackoverflow.com/a/21639994/1003464). It doesn't call the parent but the next class in the [method resolution order](https://www.python.org/download/releases/2.3/mro/).
 - If `get_<property_name>` and `set_<property_name>` methods are defined, they'd be used when you work with `instance.<property_name>`. See [here](https://docs.python.org/3/reference/datamodel.html#customizing-attribute-access) for more information.
 - Variables that are defined under the class definition are class properties. They are shared between instances. **Mutable class properties are disasters waiting to happen.**
   ```python
@@ -167,7 +167,7 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
   ```
 
 - Class properties and methods don't need an instance to be accessed. You can access them with `Class.<property_name>` or `Class.<method_name>()`.
-- Methods that are defined under the class definition with `@staticmethod` decorator are static methods. They don't have access to the class or the instance. They are just like regular functions that are defined inside the class. You can read more about the differences between class methods and static methods in [<icon icon="fa-brands fa-stack-overflow" size="lg" /> this StackOverflow answer](https://stackoverflow.com/a/1950927/1003464).
+- Methods that are defined under the class definition with `@staticmethod` decorator are static methods. They don't have access to the class or the instance. They are just like regular functions that are defined inside the class. You can read more about the differences between class methods and static methods in [<Icon icon="fa-brands fa-stack-overflow" size="lg" /> this StackOverflow answer](https://stackoverflow.com/a/1950927/1003464).
 - [`Dataclasses`](https://docs.python.org/3/library/dataclasses.html) define classes that are used to store data. They are like `struct`s in C.
 
 :::note
@@ -178,5 +178,5 @@ Check out [Super considered super! talk by Raymond Hettinger](https://www.youtub
 
 ## More Resources
 
-- [<icon icon="fa-brands fa-github" size="lg" /> What the f*ck Python! 😱](https://github.com/satwikkansal/wtfpython)
-  - [<icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37281692)
+- [<Icon icon="fa-brands fa-github" size="lg" /> What the f*ck Python! 😱](https://github.com/satwikkansal/wtfpython)
+  - [<Icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37281692)

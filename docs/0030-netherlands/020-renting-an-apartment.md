@@ -64,7 +64,7 @@ Most of the listings are posted in the morning. So, it's a good idea to check th
 
 Some property managers like [holland2stay](https://holland2stay.com/) and building complexes don't list their apartments on Funda or Pararius. They have their own websites and you can apply for their apartments through their websites. Here are some of them.
 
-I haven't found a way to search for these websites directly other than looking up the building's name on Google and see if they have a website, but if you don't have a neighborhood in mind, from a [<icon icon="fa-brands fa-reddit" size="lg" /> quick search](https://www.reddit.com/r/Netherlands/comments/j34m54/apt_rental_websites_nl/), these sites look promising:
+I haven't found a way to search for these websites directly other than looking up the building's name on Google and see if they have a website, but if you don't have a neighborhood in mind, from a [<Icon icon="fa-brands fa-reddit" size="lg" /> quick search](https://www.reddit.com/r/Netherlands/comments/j34m54/apt_rental_websites_nl/), these sites look promising:
 
 - [holland2stay](https://holland2stay.com/)
 - [Vesteda](https://www.vesteda.com/en)
@@ -136,4 +136,4 @@ To add roommates, you either need to have a contract that allows you to sublet, 
 
 #### Sources and Related Links
 
-- [<icon icon="fa-brands fa-reddit" size="lg" /> post on r/Netherlands](https://www.reddit.com/r/Netherlands/comments/11tqwfq/comment/jckdn70)
+- [<Icon icon="fa-brands fa-reddit" size="lg" /> post on r/Netherlands](https://www.reddit.com/r/Netherlands/comments/11tqwfq/comment/jckdn70)

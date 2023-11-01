@@ -14,4 +14,4 @@ By compounding the results of each iteration, and gathering feedback as fast as 
 
 ## Judging Other People's Work
 
-Understanding iteration and iterative process and detecting it in other people's work can be helpful when we're judging their work. For example, when we're observing [<icon icon="fa-brands fa-wikipedia" size="lg" /> early works of an artist](https://en.wikipedia.org/wiki/Early_works_of_Vincent_van_Gogh), understanding that they're going through an iterative process can help us to be more forgiving and understanding of their work.
+Understanding iteration and iterative process and detecting it in other people's work can be helpful when we're judging their work. For example, when we're observing [<Icon icon="fa-brands fa-wikipedia" size="lg" /> early works of an artist](https://en.wikipedia.org/wiki/Early_works_of_Vincent_van_Gogh), understanding that they're going through an iterative process can help us to be more forgiving and understanding of their work.

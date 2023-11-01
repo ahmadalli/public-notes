@@ -8,7 +8,7 @@ From previous experience, I take an iterative approach to improve my resume. I s
 
 ## File Format
 
-I recommend using LaTeX for writing your resume. It's easy to use, and it's compatible with most ATS systems. You can use [<icon icon="fa-brands fa-github" size="lg" /> jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) template to get started.
+I recommend using LaTeX for writing your resume. It's easy to use, and it's compatible with most ATS systems. You can use [<Icon icon="fa-brands fa-github" size="lg" /> jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) template to get started.
 
 ## Structure and Layout
 

@@ -33,7 +33,7 @@ TVs usually have a 100Mbit port instead of 1Gbit. This is not enough to stream g
 
 #### Solutions
 
-- Use a USB 3 dongle that supports Android TV devices like TP-Link UE300. ([<icon icon="fa-brands fa-reddit" size="lg" /> UE305 or UE306 don't work](https://www.reddit.com/r/bravia/comments/qdrgjl/usb_ethernet/))
+- Use a USB 3 dongle that supports Android TV devices like TP-Link UE300. ([<Icon icon="fa-brands fa-reddit" size="lg" /> UE305 or UE306 don't work](https://www.reddit.com/r/bravia/comments/qdrgjl/usb_ethernet/))
 - Use a device that has a 1Gbit Ethernet port.
   - Raspberry Pi 4 if you want to DIY the whole thing
   - Nvidia Shield TV if you want a more polished experience

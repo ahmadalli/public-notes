@@ -37,9 +37,9 @@ This happens because `==` is for numbers only, and strings without any numbers i
 print "123aaa" + 2; # this will return 125
 ```
 
-[<icon icon="fa-brands fa-stack-overflow" size="lg" /> This is used](https://stackoverflow.com/a/8539065/1003464) to convert strings to int as well.
+[<Icon icon="fa-brands fa-stack-overflow" size="lg" /> This is used](https://stackoverflow.com/a/8539065/1003464) to convert strings to int as well.
 
-### q and qq
+### `q` and `qq`
 
 You can change `'` and `"` using `q` and `qq` operator:
 
@@ -49,7 +49,7 @@ my $easy_var = qq\Hello World from "$_"\;
 my $weird_syntax = qq qHello World from \qq;
 ```
 
-### <=>
+### `<=>`
 
 The `<=>` (which could be a method, like `CompareTo` in C#) returns `-1`, `0`, or `1` based on the comparison result. It's used to compare numbers, and it's used in `sort` method.
 
@@ -57,7 +57,7 @@ The `<=>` (which could be a method, like `CompareTo` in C#) returns `-1`, `0`, o
 my @sorted = sort { $a <=> $b } @unsorted;
 ```
 
-### => (Fat Comma) and ,=> (Winking Fat Comma)
+### `=>` (Fat Comma) and `,=>` (Winking Fat Comma)
 
 `=>`, called fat command has similar functionality to `,` (comma), with additional functionality of automatically quoting the left side. It's a syntactic sugar used for hashes:
 
@@ -68,7 +68,7 @@ my @array = (a => b => c => d); # there's nothing special about =>, it's just a 
 
 and if you don't want the left side to be quoted, you can use `,=>` (winking fat comma).
 
-### =~
+### `=~`
 
 `=~` doesn't have a consistent behavior. It returns a list of matches when used with `m/.../` to match the left side with the regex on the right side, but it's a binding operator when used with `s/.../.../` to replace the left side with the right side.
 
@@ -84,7 +84,7 @@ while ($str =~ /(\w+)/g) {
 ### Precedence
 
 - [Operator Precedence and Associativity](https://perldoc.perl.org/perlop#Operator-Precedence-and-Associativity)
-- [<icon icon="fa-brands fa-stack-overflow" size="lg" /> Why do Perl's logical operators &&, ||, ! take precedence over and, or, and not?](https://stackoverflow.com/q/15193327/1003464)
+- [<Icon icon="fa-brands fa-stack-overflow" size="lg" /> Why do Perl's logical operators &&, ||, ! take precedence over and, or, and not?](https://stackoverflow.com/q/15193327/1003464)
 
 ### Secret Operators
 
@@ -295,4 +295,4 @@ This function creates a lot of confusion because there's no guarantee that the f
 ## More Resources
 
 - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
-  - [<icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37040681)
+  - [<Icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37040681)

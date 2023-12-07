@@ -37,7 +37,7 @@ You need to add your license number to the drone. Your operator license follows 
 
 :::note
 
-It's been stated in [RDW Guide](https://www.rdw.nl/en/drone/applying-for-a-pilot-licence-or-operator-number-for-a-drone) (in the `Next steps` section) and the EuroControl course content states that the last 3 letters are not needed to be added to the drone's configuration and  However, the [EASA FAQ](https://www.easa.europa.eu/en/the-agency/faqs/drones-uas) doesn't mention this and I'm a bit confused about it. Personally, I'll follow the RDW guide and keep the last 3 letters private.
+It's been stated in [RDW Guide](https://www.rdw.nl/en/drone/applying-for-a-pilot-licence-or-operator-number-for-a-drone) (in the `Next steps` section) and the EuroControl course content states that the last 3 letters are not needed to be added to the drone's configuration but this depends on the drone's manufacturer. For example, DJI drones require the full license number to be added to the configuration.
 
 :::
 

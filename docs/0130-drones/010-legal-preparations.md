@@ -61,3 +61,13 @@ The process is pretty straight forward and you can get your license in a few day
 - Do not fly over people or above 120m.
 - Respect people's privacy. Get consent if capturing identifiable individuals.
   - People might be identifiable by their faces, location, or any other means.
+
+## Q/A
+
+### Can I fly a drone at night?
+
+I couldn't find any restrictions on flying drones at night in the EASA documentations and the Netherlands' local regulations refer to the EASA documentations. So to the best of my knowledge, there's no restriction on flying drones at night.
+
+### Do I need a license to fly a C0 drone even if it has a camera?
+
+No, according to [the EASA documentations](https://www.easa.europa.eu/en/domains/civil-drones/drones-regulatory-framework-background/open-category-civil-drones) you don't need a license to fly a C0 drone. You only need to register as an operator.

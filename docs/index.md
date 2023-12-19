@@ -6,6 +6,12 @@ sidebar_position: 10
 
 This is documentation of my ideas, thoughts, and experiences.
 
+:::note
+
+I'm not an expert in anything. I'm just a curious person who likes to learn and share what I learn. What I write here is from my limited exposure to the topics and they barely scratch the surface. Everything I write here is just a starting point and will always remain a work in progress.
+
+:::
+
 ## Why
 
 ### Why Not a Blog?

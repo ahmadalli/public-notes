@@ -1,7 +1,5 @@
 # Avatar
 
-Here's a list of places where I set my avatar:
-
 - [Gravatar](https://en.gravatar.com/)
 - [GitHub](https://github.com/settings/profile)
 - [Google Account](https://myaccount.google.com/)
@@ -14,7 +12,7 @@ Here's a list of places where I set my avatar:
 - [Reddit](https://www.reddit.com/settings/profile)
   :::note
 
-  Reddit [<icon icon="fa-brands fa-reddit" size="lg" /> might crop the avatar](https://www.reddit.com/r/help/comments/zkhub6/reddit_keeps_uncentering_my_profile_picture/). This can be fixed by resizing the image to 256x256 pixels.
+  Reddit [<icon icon="fa-brands fa-reddit" size="lg" /> might crop the avatar](https://www.reddit.com/r/help/comments/zkhub6/reddit_keeps_uncentering_my_profile_picture/). You can fix it by resizing the image to 256x256 pixels.
 
   :::
 - [Spotify](https://open.spotify.com/)

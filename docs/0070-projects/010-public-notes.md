@@ -45,3 +45,7 @@ sidebar_position: 10
 #### Actions
 
 - Add a search solution from [the available options](https://docusaurus.io/docs/search).
+
+### Vale
+
+- Use packages instead of loading the styles into the repository.

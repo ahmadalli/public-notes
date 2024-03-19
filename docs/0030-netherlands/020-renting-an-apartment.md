@@ -34,7 +34,7 @@ To get the vibe of the neighborhood:
   - Check out neighborhood's shopping center and its shops
 - Check out related websites
   - [Amsterdam neighborhood names](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en)
-  - Search for the neighborhood or the region on reddit. e.g., `Amsterdam Watergraafsmeer reddit`.
+  - Search for the neighborhood or the region on Reddit. e.g., `Amsterdam Watergraafsmeer reddit`.
   - [Check out stats of the postcode area](https://allecijfers.nl/postcode/)
   - [This](https://hoodmaps.com/amsterdam-neighborhood-map) is judgmental maps of Amsterdam neighborhoods
 
@@ -48,7 +48,7 @@ Like every other country, bigger cities have more demand for apartments which ma
 
 ### Online Sources
 
-It's a good idea to look online (specially reddit) for online places to look for apartments. Here are some of them that I found useful:
+It's a good idea to look online (specially Reddit) for online places to look for apartments. Here are some of them that I found useful:
 
 #### Funda and Pararius
 

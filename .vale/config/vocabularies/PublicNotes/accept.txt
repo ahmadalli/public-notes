@@ -1,5 +1,33 @@
 Gravatar
 Goodreads
-Spotifty
 Docusaurus
+Spotify
+Wikimedia
+Funda
+Pararius
+Albert Heijn
+Lepaya
+Nvidia
+QRes
+XBox
+CPython
+Prizm
+Flappy Bird
+Hettinger
+
+UIDs
+APIs
+LLMs
+Podcasters
+
 repo
+[aA]udiobook
+bitrate
+boolean
+multithreaded
+multithreading
+multiline
+docstrings
+[aA]utoregressive
+
+RSS

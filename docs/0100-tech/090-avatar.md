@@ -17,4 +17,4 @@ Here's a list of places where I set my avatar:
   Reddit [<icon icon="fa-brands fa-reddit" size="lg" /> might crop the avatar](https://www.reddit.com/r/help/comments/zkhub6/reddit_keeps_uncentering_my_profile_picture/). This can be fixed by resizing the image to 256x256 pixels.
 
   :::
-- [Spotifty](https://open.spotify.com/)
+- [Spotify](https://open.spotify.com/)

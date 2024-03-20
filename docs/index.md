@@ -47,4 +47,4 @@ One of the challenges of writing is that the content often does not fully captur
 
 ## Getting Updates
 
-If you'd like to get updates when I publish new content, you can subscribe to [RSS feed](/blog/rss.xml) or [my substack](https://ahmadallish.substack.com).
+If you'd like to get updates when I publish new content, you can subscribe to [the blog](/blog/)'s RSS feed or [my substack](https://ahmadallish.substack.com).

@@ -42,7 +42,7 @@ To get the vibe of the neighborhood:
 
 :::tip
 
-Like every other country, bigger cities have more demand for apartments which makes it harder to find one. Netherlands has a well delivered [public transportation system](./030-transportation.md/#public-transportation), so it's also possible to look for apartments in other cities [if it stasfies your criteria](#criteria).
+Like every other country, bigger cities have more demand for apartments which makes it harder to find one. Netherlands has a well delivered [public transportation system](./030-transportation.md#public-transportation), so it's also possible to look for apartments in other cities [if it stasfies your criteria](#criteria).
 
 :::
 

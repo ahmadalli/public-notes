@@ -66,12 +66,14 @@ Aside from asking your network for referrals, I don't have additional suggestion
 
 In addition to reaching out to your network, you can also look for companies that are hiring. You can use the following resources to find open positions:
 
-- Job boards like LinkedIn, Indeed, Glassdoor, etc
+- Companies that participated in events that's related to your desired domain or expertise
+  - Look for local or regional events
 - Companies that have a presence in your desired domains
   - Companies specializing in your desired domain
   - Companies with a presence at events within your desired domain
   - Growing companies and startups within your desired domain
 - Public lists of companies that are hiring like [<icon icon="fa-brands fa-github" size="lg" /> this Github repo](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians)
+- Job boards like LinkedIn, Indeed, Glassdoor, etc
 
 ## Preparing your Resume
 

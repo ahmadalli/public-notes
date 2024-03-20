@@ -8,7 +8,7 @@ The next step is to prioritize the requirements that you need to fulfill in orde
 
 ## Finding Positions and People
 
-Before you start preparing, you need to understand the requirements that you need to work on. You can use the same channels that we've discussed in [Finding Jobs that Match your Motivations](../010-finding-work-you-enjoy.md/#finding-jobs-that-match-your-motivations) to find relevant people, positions and activities.
+Before you start preparing, you need to understand the requirements that you need to work on. You can use the same channels that we've discussed in [Finding Jobs that Match your Motivations](../010-finding-work-you-enjoy.md#finding-jobs-that-match-your-motivations) to find relevant people, positions and activities.
 
 Since you're preparing for the applying process, you should mainly focus on the input you get from the following sources:
 

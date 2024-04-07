@@ -8,7 +8,7 @@ This is documentation of my ideas, thoughts, and experiences.
 
 :::note
 
-I'm not an expert in anything. I'm just a curious person who likes to learn and share what I learn. What I write here is from my limited exposure to the topics and they barely scratch the surface. Everything I write here is just a starting point and will always remain a work in progress.
+The content here are reflections of my thoughts and experiences. They are not meant to be taken as advice or guidance. Consider them as a starting point for your own research and understanding and consult with professionals when needed.
 
 :::
 

@@ -2,6 +2,12 @@
 
 ## Excluding Folders From Sync
 
+:::info
+
+After wasting a few hours trying to find ways to exclude `node_modules` from syncing, I failed to find a working solution other than manually excluding the folder from the OneDrive settings. The following methods are the ones I found during my research.
+
+:::
+
 ### Symbolic Links
 
 :::warning
@@ -19,6 +25,12 @@ mklink /J src\node_modules dst\node_modules
 ```
 
 ### Group Policy
+
+:::warning
+
+This method doesn't work for personal OneDrive accounts.
+
+:::
 
 You can use [`Exclude specific kinds of folders from being uploaded`](https://learn.microsoft.com/en-us/sharepoint/use-group-policy#exclude-specific-kinds-of-folders-from-being-uploaded) policy:
 

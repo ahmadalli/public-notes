@@ -25,7 +25,7 @@ To protect your identity, it's important to keep at least your birthday and `BSN
 
 Other than `BSN`, you obtain the rest of your identities before you arrive in the Netherlands. You can find your `v-number` on your IND letter. We'll go through the process of getting a `BSN` in later sections.
 
-`BSN` is the most important one. It's used for everything from opening a bank account, health insurance and taxation. You can get a `BSN` by registering at the municipality. You can find more information about this in the [Registration](#Registration) section.
+`BSN` is the most important one. It's used for everything from opening a bank account, health insurance and taxation. You can get a `BSN` by registering at the municipality. You can find more information about this in the [Registration](#registration) section.
 
 ## Before You Arrive
 

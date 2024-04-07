@@ -52,7 +52,7 @@ It's a good idea to look online (specially Reddit) for online places to look for
 
 #### Funda and Pararius
 
-[Funda](https://www.funda.nl/en/) and [Pararius](https://www.pararius.com/) are the most popular websites for searching for apartments. It's good to note that these websites, similar to job postings on LinkedIn, are not the first places that the landlords and real estate agents post their listings. They usually post on their own websites or other private places first. On top of that there's a lot of competition on these websites. So, to get a visit you need to be the first ones to apply or [have an agent](#Agents).
+[Funda](https://www.funda.nl/en/) and [Pararius](https://www.pararius.com/) are the most popular websites for searching for apartments. It's good to note that these websites, similar to job postings on LinkedIn, are not the first places that the landlords and real estate agents post their listings. They usually post on their own websites or other private places first. On top of that there's a lot of competition on these websites. So, to get a visit you need to be the first ones to apply or [have an agent](#agents).
 
 :::tip
 

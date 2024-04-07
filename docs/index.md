@@ -8,7 +8,7 @@ This is documentation of my ideas, thoughts, and experiences.
 
 :::note
 
-The content here are reflections of my thoughts and experiences. They are not meant to be taken as advice or guidance. Consider them as a starting point for your own research and understanding and consult with professionals when needed.
+The content here are reflections of my thoughts and experiences. You shouldn't take them as professional advice or guidance. Consider them as a starting point for your own research and understanding and consult with professionals when needed.
 
 :::
 

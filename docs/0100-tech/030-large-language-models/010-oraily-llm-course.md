@@ -1,7 +1,3 @@
----
-sidebar_position: 30
----
-
 # O'Reilly Large Language Models and ChatGPT in 3 Weeks Course
 
 Here's my LLM usage workflow based on my personal experience and my takes on the [Large Language Models and ChatGPT in 3 Weeks](https://learning.oreilly.com/live-events/large-language-models-and-chatgpt-in-3-weeks/0636920090988/0636920090987/) event.

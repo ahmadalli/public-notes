@@ -34,7 +34,7 @@ To get the vibe of the neighborhood:
   - Check out neighborhood's shopping center and its shops
 - Check out related websites
   - [Amsterdam neighborhood names](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en)
-  - Search for the neighborhood or the region on Reddit. e.g., `Amsterdam Watergraafsmeer reddit`.
+  - Search for the neighborhood or the region on Reddit. for example `Amsterdam Watergraafsmeer reddit`.
   - [Check out stats of the postcode area](https://allecijfers.nl/postcode/)
   - [This](https://hoodmaps.com/amsterdam-neighborhood-map) is judgmental maps of Amsterdam neighborhoods
 
@@ -52,11 +52,11 @@ It's a good idea to look online (specially Reddit) for online places to look for
 
 #### Funda and Pararius
 
-[Funda](https://www.funda.nl/en/) and [Pararius](https://www.pararius.com/) are the most popular websites for searching for apartments. It's good to note that these websites, similar to job postings on LinkedIn, are not the first places that the landlords and real estate agents post their listings. They usually post on their own websites or other private places first. On top of that there's a lot of competition on these websites. So, to get a visit you need to be the first ones to apply or [have an agent](#agents).
+[Funda](https://www.funda.nl/en/) and [Pararius](https://www.pararius.com/) are the most popular websites for searching for apartments. It's good to note that these websites, similar to job postings on LinkedIn, aren't the first places that the landlords and real estate agents post their listings. They usually post on their own websites or other private places first. On top of that there's a lot of competition on these websites. So, to get a visit you need to be the first ones to apply or [have an agent](#agents).
 
 :::tip
 
-Most of the listings are posted in the morning. So, it's a good idea to check the websites in the beginning of the day.
+Most agencies post their listings in the morning. So, it's a good idea to check the websites in the beginning of the day.
 
 :::
 
@@ -80,13 +80,13 @@ You can also find listings on social groups like Facebook groups.
 
 :::caution
 
-Listing on social groups or listings directly from the landlords has the higher risk of problems in the future since there's no middleman (like a real estate agent) to keep both parties in check.
+Beware of listing on social groups or listings directly from the landlords. They have higher risk of problems in the future because there's no third party (like a real estate agent) to keep both parties in check.
 
 :::
 
 ### Agents
 
-You can hire an agent to help you in the process of finding and applying for apartments. They usually have access to listings that are not available to the public. They also help you with getting a visit appointment as they have a relationship with other real estate agents. This process costs about the same as one month of rent and some companies offer to pay this as part of the relocation package.
+You can hire an agent to help you in the process of finding and applying for apartments. They usually have access to listings that aren't available to the public. They also help you with getting a visit appointment as they have a relationship with other real estate agents. This process costs about the same as one month of rent and some companies offer to pay this as part of the relocation package.
 
 ## Applying for an Apartment
 
@@ -94,7 +94,7 @@ You can hire an agent to help you in the process of finding and applying for apa
 
 When you apply for an apartment, you usually have to write a letter of intent. This is a letter that you write to the landlord to tell them why you want to rent their apartment. You can get help from ChatGPT to write this letter.
 
-On some high demand markets, by signing the letter of intent, you're agreeing to rent the apartment if the landlord accepts your application. Unfortunately in my experience, there wasn't much responsibility on the landlord's side to respond as fast as possible so it means that you're locked in for a while and you might loose other opportunities.
+On some high demand markets, by signing the letter of intent, you're agreeing to rent the apartment if the landlord accepts your application. In my experience, there wasn't much responsibility on the landlord's side to respond as fast as possible so it means that you're locked in for a while and you might loose other opportunities.
 
 ### Contract
 
@@ -104,7 +104,7 @@ In the Netherlands, there are three types of contracts (A, B, and C) varying in 
 
 ## Moving In
 
-On the day you move in, you need to do a thorough inspection of the apartment (and the furniture in case of a furnished apartment) and take pictures and write down any damages that you find. You need to send this list to the landlord and keep a copy for yourself. If a real estate agent is involved, they will also document this and will send you a copy. This is important because when you move out, the landlord will do an inspection and if they find any damages that are not on the list, they will charge you for it.
+On the day you move in, you need to do a thorough inspection of the apartment (and the furniture in case of a furnished apartment) and take pictures and write down any damages that you find. You need to send this list to the landlord and keep a copy for yourself. If a real estate agent is involved, they will also document this and will send you a copy. This is important because when you move out, the landlord will do an inspection and if they find any damages that aren't on the list, they will charge you for it.
 
 ### Registering Your Move
 

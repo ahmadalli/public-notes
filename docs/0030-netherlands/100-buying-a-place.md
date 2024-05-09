@@ -8,6 +8,7 @@ You can consult with a mortgage advisor for free to get a better understanding o
 
 ## Useful Links
 
+- [Neighborhood Information](./060-useful-apps-and-sites.md#neighborhoods-information) sites.
 - [Buying a House in Amsterdam](https://www.peterfabor.com/posts/buying-house-amsterdam)
 
 ## Overview

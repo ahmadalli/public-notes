@@ -32,11 +32,7 @@ To get the vibe of the neighborhood:
 - Visit the neighborhood
   - Wander around by bike or on foot
   - Check out neighborhood's shopping center and its shops
-- Check out related websites
-  - [Amsterdam neighborhood names](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en)
-  - Search for the neighborhood or the region on Reddit. for example `Amsterdam Watergraafsmeer reddit`.
-  - [Check out stats of the postcode area](https://allecijfers.nl/postcode/)
-  - [This](https://hoodmaps.com/amsterdam-neighborhood-map) is judgmental maps of Amsterdam neighborhoods
+- Use [Neighborhood Information](./060-useful-apps-and-sites.md#neighborhoods-information) sites to get a better understanding of the neighborhood.
 
 ## Searching
 

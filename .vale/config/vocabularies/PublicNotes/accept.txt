@@ -34,5 +34,6 @@ docstrings
 RSS
 
 blissy
+(?i)Liveability
 
 Enshittified

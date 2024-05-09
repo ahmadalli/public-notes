@@ -130,3 +130,12 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
 ### Legal Advice
 
 - [Het Juridisch Loket](https://www.juridischloket.nl/)
+
+## Neighborhoods Information
+
+- [Liveability meter](https://www.leefbaarometer.nl/home.php): Online information about the quality of life in all neighborhoods and districts
+- [Statistics of the postcode area](https://allecijfers.nl/postcode/)
+- [Amsterdam key metrics dashboard](https://onderzoek.amsterdam.nl/interactief/dashboard-kerncijfers)
+- [Amsterdam neighborhood names](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en)
+- Search for the neighborhood or the region on Reddit. for example search `Amsterdam Watergraafsmeer reddit` in Google.
+- [A judgmental maps of Amsterdam neighborhoods](https://hoodmaps.com/amsterdam-neighborhood-map)

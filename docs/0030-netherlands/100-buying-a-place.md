@@ -1,6 +1,6 @@
 # Buying a Place
 
-::: tip
+:::tip
 
 You can consult with a mortgage advisor for free to get a better understanding of the process and the costs involved. [Expat Mortgages](https://www.expatmortgages.nl/) specialists were helpful and professional.
 

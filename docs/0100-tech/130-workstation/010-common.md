@@ -13,6 +13,8 @@
 
 - Bash
   - bash-completion
+- Git
+- GitHub Desktop
 - Ansible
 - Terraform
 - Docker

@@ -3,10 +3,11 @@
 ## Software
 
 - Microsoft Edge
-- VS Code
+- Visual Studio Code
 - Bitwarden
+- Logitech Options+
 - Microsoft Office Suite
-- Cascadia Code Fo
+- Cascadia Code Font
 
 ### Development Software
 

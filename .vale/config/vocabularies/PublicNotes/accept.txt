@@ -15,6 +15,7 @@ Prizm
 Flappy Bird
 Hettinger
 O'Reilly
+Bitwarden
 
 UIDs
 APIs
@@ -30,6 +31,7 @@ multithreading
 multiline
 docstrings
 [aA]utoregressive
+zsh
 
 RSS
 

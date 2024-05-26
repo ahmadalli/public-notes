@@ -52,6 +52,7 @@
 #### Zoom
 
 - Set `Stop when joining` on `Audio` and `Video` settings
+- Enable `Automatically join computer audio when joining` on `Audio` settings
 - Disable `Ask me to confirm when I leave a meeting`
 
 ### Visual Studio Code

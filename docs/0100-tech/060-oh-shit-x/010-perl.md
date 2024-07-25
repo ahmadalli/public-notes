@@ -6,7 +6,7 @@ sidebar_position: 10
 
 :::info
 
-You can access to this page from [ohshitperl.com](https://ohshitperl.com), [ohshit.foo/perl](https://ohshit.foo/perl) or [ohshit.bar/perl](https://ohshit.bar/perl).
+You can access to this page from [ohshitperl.com](https://ohshitperl.com) or [ohshit.foo/perl](https://ohshit.foo/perl).
 
 :::
 

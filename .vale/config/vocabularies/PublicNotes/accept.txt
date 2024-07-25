@@ -40,3 +40,7 @@ blissy
 (?i)Liveability
 
 Enshittified
+
+ohshit
+ohshitperl
+ohshitpython

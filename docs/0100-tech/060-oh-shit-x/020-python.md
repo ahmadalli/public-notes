@@ -6,7 +6,7 @@ toc_max_heading_level: 4
 
 :::info
 
-You can access to this page from [ohshitpython.com](https://ohshitpython.com), [ohshit.foo/python](https://ohshit.foo/python) or [ohshit.bar/python](https://ohshit.bar/python).
+You can access to this page from [ohshitpython.com](https://ohshitpython.com) or [ohshit.foo/python](https://ohshit.foo/python).
 
 :::
 

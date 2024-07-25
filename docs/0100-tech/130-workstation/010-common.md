@@ -8,6 +8,7 @@
 - Logitech Options+
 - Microsoft Office Suite
 - Cascadia Code Font
+- Spotify
 
 ### Development Software
 

@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Oh Shit, Perl
+# Oh Shit, Perl!
 
 :::info
 

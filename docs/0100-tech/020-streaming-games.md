@@ -44,9 +44,16 @@ I'm using a 21:9 monitor, but my TV is 16:9. This means that I have to change th
 
 #### Solutions
 
-Use `Do Command` and `Undo Command` functionality of Sunshine Applications combined with a resolution management software to automate this process. You can find proper commands on [the Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/app_examples.html).
+Use `Do Command` and `Undo Command` functionality of Sunshine Applications combined with a resolution management software to automate this process. You can find proper commands on [the Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/guides/app_examples.html#changing-resolution-and-refresh-rate).
 
 You can download QRes for Windows from [here](https://www.majorgeeks.com/files/details/qres.html).
+
+For Windows, you can use the following commands:
+
+*Change the resolutions and refresh rate based on your display settings*
+
+- `Do Command`: `cmd /C D:\Programs\qres\QRes.exe /x:2560 /y:1440 /r:100`
+- `Undo Command`: `cmd /C D:\Programs\qres\QRes.exe /x:3440 /y:1440 /r:165`
 
 ### Controller Connectivity
 

@@ -100,7 +100,7 @@ const config: Config = {
           href: "https://rsshub.app/github/file/ahmadalli/public-notes/main/docs",
           label: "Note Commits RSS",
           position: "right",
-        }
+        },
       ],
     },
     footer: {
@@ -117,6 +117,14 @@ const config: Config = {
       additionalLanguages: ["python", "perl"],
     },
   } satisfies Preset.ThemeConfig,
+  plugins: [
+    [
+      "docusaurus-lunr-search",
+      {
+        indexBaseUrl: true,
+      },
+    ],
+  ],
 };
 
 export default config;

@@ -10,6 +10,8 @@ Another topic is the games I like and enjoy. I started with [Nier Series](https:
 
 I also played Super Mario on the Casio Prizm. Additionally, there have been some small updates on other pages, which you can find in the changelog below:
 
+<!-- truncate -->
+
 ## Full Changelog
 
 - [netherlands/useful-apps-and-sites](https://publicnotes.io/netherlands/useful-apps-and-sites): Added a link for reporting stolen bikes.

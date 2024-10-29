@@ -17,6 +17,7 @@ Hettinger
 O'Reilly
 Bitwarden
 KGB
+Playnite
 
 UIDs
 APIs

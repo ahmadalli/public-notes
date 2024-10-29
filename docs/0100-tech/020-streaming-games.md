@@ -10,12 +10,12 @@ To stream games from your PC to another device, like your TV or your phone.
 
 - [Sunshine Requirements](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/overview.html#system-requirements)
 - A reliable network connection between your PC and the device you want to stream to
-  > Both devices should be connected to the same network, preferably via Ethernet
+  > Both devices should be on the same network, preferably via Ethernet
 - (optional) Steam: It provides a nice UI for launching games and Sunshine can automatically add your Steam games to its library
 
 ## Setup
 
-- [Steam](https://store.steampowered.com/about/) would be used to launch games
+- [Steam](https://store.steampowered.com/about/) or [Playnite](https://playnite.link/) is the game launcher. It should be installed on the PC you want to stream games from.
 - [Sunshine](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/installation.html) is the streaming server. It should be installed on the PC you want to stream games from
 - [Moonlight](https://moonlight-stream.org/) is the streaming client. It should be installed on the device you want to stream games to
 
@@ -25,11 +25,15 @@ You can manage your Sunshine applications and configurations from its web UI at 
 
 :::
 
+### Sunshine Applications
+
+- [Playnite](https://playnite.link/): I use the full screen mode to launch Playnite from Moonlight.
+
 ## Challenges
 
 ### Network Bandwidth
 
-TVs usually have a 100Mbit port instead of 1Gbit. This is not enough to stream games at 1080p 60fps.
+TVs usually have a 100Mbit port instead of 1Gbit. This isn't enough to stream games at 1080p 60fps.
 
 #### Solutions
 
@@ -52,12 +56,12 @@ For Windows, you can use the following commands:
 
 *Change the resolutions and refresh rate based on your display settings*
 
-- `Do Command`: `cmd /C D:\Programs\qres\QRes.exe /x:2560 /y:1440 /r:100`
-- `Undo Command`: `cmd /C D:\Programs\qres\QRes.exe /x:3440 /y:1440 /r:165`
+- `Do Command`: `cmd /C D:\Programs\qres\QRes.exe /x:1920 /y:1080 /r:60`
+- `Undo Command`: `cmd /C D:\Programs\qres\QRes.exe /x:1920 /y:1200 /r:60`
 
 ### Controller Connectivity
 
-The XBox wireless dongle doesn't work with Android TV. I'm using bluetooth instead which has a bit of input lag.
+The XBox wireless dongle doesn't work with Android TV. I'm using Bluetooth instead which has a bit of input lag.
 
 ### Video Stuttering
 

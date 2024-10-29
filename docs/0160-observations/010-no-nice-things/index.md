@@ -13,7 +13,7 @@ You can access to this page from [nonicethings.com](https://nonicethings.com).
 
 ## TLDR
 
-We can't have nice things because others want nice things too. And sometimes these wants aren't aligned.
+We can't have nice things because others want nice things too. And sometimes these wants aren't aligned resulting in complex situations with wired outcomes.
 
 ## What's in Here?
 

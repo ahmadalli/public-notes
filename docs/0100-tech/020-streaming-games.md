@@ -66,3 +66,7 @@ The XBox wireless dongle doesn't work with Android TV. I'm using Bluetooth inste
 ### Video Stuttering
 
 Even after reducing the bitrate, I'm still getting some stuttering. I'm not sure if this is because of the network bandwidth or the TV itself. I'm going to investigate this further after I fixed the network bandwidth issue.
+
+### Controller Haptic Feedback
+
+Haptic feedback doesn't work in the XBox controller when connected to the TV.

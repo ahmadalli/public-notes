@@ -63,30 +63,14 @@ const ChildPages: React.FC<ChildPagesProps> = ({ depth = 1 }) => {
   var docsSidebar = null;
   try {
     docsSidebar = useDocsSidebar();
-  } catch (error) {
-    console.log("Failed to get docsSidebar:", error);
-  }
-
-  var activeDocContext = null;
-  try {
-    activeDocContext = useActiveDocContext();
-  } catch (error) {
-    console.log("Failed to get activeDocContext:", error);
-  }
+  } catch {}
 
   var currentSidebarCategory = null;
   try {
     currentSidebarCategory = useCurrentSidebarCategory();
-  } catch (error) {
-    console.log("Failed to get currentSidebarCategory:", error);
-  }
+  } catch {}
 
   useEffect(() => {
-    console.log("docsSidebar:", docsSidebar);
-    console.log("activeDocContext:", activeDocContext);
-    console.log("currentSidebarCategory:", currentSidebarCategory);
-
-    // Extract recent changes from front matter
     const fetchChildPages = () => {
       var sidebarItems = null;
 
@@ -97,14 +81,11 @@ const ChildPages: React.FC<ChildPagesProps> = ({ depth = 1 }) => {
       }
 
       const treeItems = getTreeItems(sidebarItems, 0, depth);
-      console.log("treeItems:", treeItems);
       setChildPages(treeItems);
     };
 
     fetchChildPages();
   }, [docsSidebar, currentSidebarCategory, depth]);
-
-
 
   return <div>{renderTreeItems(childPages)}</div>;
 };

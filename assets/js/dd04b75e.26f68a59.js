@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpublic_notes=self.webpackChunkpublic_notes||[]).push([[1672],{643:a=>{a.exports=JSON.parse('{"authors":[{"name":"Ahmadali","url":"https://ahmadalli.rocks","image":"https://gravatar.com/avatar/1a9310ef421c7cc67650f46f17e3f936","email":"mail@ahmadalli.net","key":"ahmadalli","page":null,"count":5}]}')}}]);

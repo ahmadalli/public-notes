@@ -1,3 +1,5 @@
+import ChildPages from '@site/src/components/child-pages';
+
 # Why Can't We Have Nice Things
 
 > This is why we can't have nice things.
@@ -18,3 +20,7 @@ We can't have nice things because others want nice things too. And sometimes the
 ## What's in Here?
 
 Different instances where needs and wants of different groups are conflicting, resulting in suboptimal outcomes for everyone.
+
+## Table of Contents
+
+<ChildPages depth={2} />

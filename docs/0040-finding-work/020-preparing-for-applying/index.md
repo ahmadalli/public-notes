@@ -1,6 +1,4 @@
----
-sidebar_position: 20
----
+import ChildPages from '@site/src/components/child-pages';
 
 # Preparing for Applying
 
@@ -87,3 +85,7 @@ I'm not good with cover letters and so far, I got away with not writing one. How
 
 - ChatGPT 😄
 - [Yale's Cover Letter Guide](https://your.yale.edu/sites/default/files/maximizing_your_coverletter_guide_2016.pdf)
+
+## Read More
+
+<ChildPages depth={2} />

@@ -1,7 +1,7 @@
 ---
-sidebar_position: 30
 toc_max_heading_level: 4
 ---
+import ChildPages from '@site/src/components/child-pages';
 
 # Interviewing
 
@@ -239,3 +239,7 @@ This is the best chance for you to get to know the position, team, and day-to-da
 - The team's technical debt and toil
 - The team's impact on the company and business
 - Any unanswered questions from your [recruiter interview](#recruiter-interview-your-questions)
+
+## Read More
+
+<ChildPages depth={2} />

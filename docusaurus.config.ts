@@ -93,14 +93,9 @@ const config: Config = {
         },
         {
           href: "https://github.com/ahmadalli/public-notes",
-          label: "GitHub",
+          label: "Hosted on GitHub",
           position: "right",
-        },
-        {
-          href: "https://rsshub.app/github/file/ahmadalli/public-notes/main/docs",
-          label: "Note Commits RSS",
-          position: "right",
-        },
+        }
       ],
     },
     footer: {

@@ -18,6 +18,9 @@ O'Reilly
 Bitwarden
 KGB
 Playnite
+DJI
+RYZE
+Tello
 
 UIDs
 APIs

@@ -1,3 +1,5 @@
+import ChildPages from '@site/src/components/child-pages';
+
 # Picture Post-Processing
 
 The goal of post-processing is to enhance the image to tell the story you want to tell. It's not about making the image look good, but rather to make it look the way you want it to look. Usually, you want to put more emphasis on the subject and use the other elements to support it.
@@ -48,3 +50,7 @@ Most of the items in here should be changed in the way that best serves the stor
 You can speed up the process by creating presets for each step and applying them to the images.
 
 :::
+
+## Read More
+
+<ChildPages depth={2} />

@@ -8,7 +8,7 @@ sidebar_position: 10
 
 ### Surfaces
 
-For surfaces, 'all-in-one' cleaning products like this [this one][hg-toilet-general] work effectively. I usually spray the whole bathroom with it and then wipe it off with a cloth.
+For surfaces, 'all-in-one' cleaning products like [this one][hg-toilet-general] work effectively. I usually spray the whole bathroom with it and then wipe it off with a cloth.
 
 ### Sink
 

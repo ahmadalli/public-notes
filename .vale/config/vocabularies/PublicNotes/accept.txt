@@ -21,6 +21,7 @@ Playnite
 DJI
 RYZE
 Tello
+Lightroom
 
 UIDs
 APIs

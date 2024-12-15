@@ -15,11 +15,32 @@ You can consult with a mortgage advisor for free to get a better understanding o
 
 ## Overview
 
-This is the process of buying a place in the Netherlands:
-
 1. **Consult with a mortgage advisor**
 1. **Find a place**
 1. **Make an offer**
 1. **Sign the purchase agreement**
 1. **Finalize the mortgage**
-1. **Transfer the ownership**
+1. **Key handover and transfer the ownership in the notary**
+
+## Costs
+
+This is the **estimated** cost of the process based on my experience:
+
+- **Mortgage Advisor**: €2000
+- **Legal Services from Mortgage Advisor**: €500
+- **Technical Inspection**: €600
+- **Home Price Evaluation**: €750
+- **Notary**
+  - **Transfer Tax**: If you're a first time buyer, you might be exempt from this tax depending on the price of the place and your age. This changes every year so check the latest information.
+  - **Interpreter for Non-Dutch Speakers**: €250
+  - **Deed of Transfer Fee**: €750
+  - **Mortgage Deed Fee**: €750
+  - **Other Costs**: €400
+  - Some of these services will have VAT (21%) on top of the price.
+  - You must pay the remaining taxes and levies of the place from the time you get the keys until the end of the year which the previous owner payed already to the notary as well.
+
+## FAQ
+
+### Language Barrier
+
+Except for the transfer of the ownership in the notary, you can do everything in English. The transfer of the ownership is in Dutch but the notary is required to provide an interpreter for non-Dutch speakers in their preferred language.

@@ -22,6 +22,9 @@ DJI
 RYZE
 Tello
 Lightroom
+hackster
+ESPHome
+VSCode
 
 UIDs
 APIs

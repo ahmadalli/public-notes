@@ -136,8 +136,14 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
 
 - [Liveability meter](https://www.leefbaarometer.nl/home.php): Online information about the quality of life in all neighborhoods and districts
 - [Statistics of the postcode area](https://allecijfers.nl/postcode/)
+- [Police Neighborhood Information](https://www.politie.nl/mijn-buurt)
+  - [Crime map](https://www.politie.nl/mijn-buurt/misdaad-in-kaart)
+- [Numbeo Crime Index](https://www.numbeo.com/crime/country_result.jsp?country=Netherlands)
+- Search for the neighborhood or the region on Reddit. for example search `Amsterdam Watergraafsmeer reddit` in Google.
+- [Address Climate Proof Test](https://app.nos.nl/op3/stresstest-voor-je-adres/): Climate risks for the neighborhood in 2050
+
+### Amsterdam
+
 - [Amsterdam key metrics dashboard](https://onderzoek.amsterdam.nl/interactief/dashboard-kerncijfers)
 - [Amsterdam neighborhood names](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en)
-- Search for the neighborhood or the region on Reddit. for example search `Amsterdam Watergraafsmeer reddit` in Google.
 - [A judgmental maps of Amsterdam neighborhoods](https://hoodmaps.com/amsterdam-neighborhood-map)
-- [Address Climate Proof Test](https://app.nos.nl/op3/stresstest-voor-je-adres/): Climate risks for the neighborhood in 2050

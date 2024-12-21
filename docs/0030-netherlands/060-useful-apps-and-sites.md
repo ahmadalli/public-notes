@@ -140,3 +140,4 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
 - [Amsterdam neighborhood names](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en)
 - Search for the neighborhood or the region on Reddit. for example search `Amsterdam Watergraafsmeer reddit` in Google.
 - [A judgmental maps of Amsterdam neighborhoods](https://hoodmaps.com/amsterdam-neighborhood-map)
+- [Address Climate Proof Test](https://app.nos.nl/op3/stresstest-voor-je-adres/): Climate risks for the neighborhood in 2050

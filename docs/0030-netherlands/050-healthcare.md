@@ -75,7 +75,7 @@ When you register with a GP, they would also assign a pharmacy close to the GP o
 
 If you've got a prescription from outside the Netherlands, you need to either visit your GP and ask them to prescribe you the same medicine. If the prescription is not for you, for example in case a family member is visiting, your local pharmacy might be able to help you. Otherwise the [pharmacy that's located in Amsterdam Central Station][amsterdamcentralpharmacy] would be able to help you.
 
-## Visiting without Registration
+## Visiting Without Registration
 
 If you don't have insurance or you haven't registered with a GP yet, you can't visit just any GP. There are some GPs like [Central Doctors][centraldoctors] that accept patients without registration. You can call them and schedule an appointment with them.
 
@@ -114,6 +114,8 @@ So I've found some ways to make the experience a bit easier:
 - Get your GP as involved as possible. If something doesn't feel right for a while, call your GP and ask them to help you. Even if they just prescribe Paracetamol for you, it'll be part of your medical record and would help you in the future.
 - Let them know your previous medical history. This would help them to make a better decision in case you need medical help.
 - Be as clear as possible about your symptoms and prepare enough details about your situation before calling your GP or the After Hours GP. This would help them to assess your situation better.
+- If the issue persists, ask for a referral to a specialist. If your GP doesn't want to refer you to a specialist, you can change your GP.
+- Sometimes you need to be persistent and follow up on your situation to get the help that you need.
 
 [Independer]: https://www.independer.nl/
 [amsterdamcentralpharmacy]: https://www.amsterdamcentralpharmacy.nl/

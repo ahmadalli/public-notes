@@ -145,5 +145,6 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
 ### Amsterdam
 
 - [Amsterdam key metrics dashboard](https://onderzoek.amsterdam.nl/interactief/dashboard-kerncijfers)
+- [Amsterdam Housing Plans](https://maps.amsterdam.nl/woningbouwplannen/)
 - [Amsterdam neighborhood names](https://maps.amsterdam.nl/gebiedsindeling/?LANG=en)
 - [A judgmental maps of Amsterdam neighborhoods](https://hoodmaps.com/amsterdam-neighborhood-map)

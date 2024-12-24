@@ -25,6 +25,7 @@ Lightroom
 hackster
 ESPHome
 VSCode
+Maccy
 
 UIDs
 APIs
@@ -43,6 +44,7 @@ docstrings
 zsh
 
 RSS
+HDR
 
 blissy
 (?i)Liveability

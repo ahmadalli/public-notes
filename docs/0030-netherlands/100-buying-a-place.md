@@ -44,3 +44,20 @@ This is the **estimated** cost of the process based on my experience:
 ### Language Barrier
 
 Except for the transfer of the ownership in the notary, you can do everything in English. The transfer of the ownership is in Dutch but the notary is required to provide an interpreter for non-Dutch speakers in their preferred language.
+
+
+### Cancellation of Offer or the Purchase Agreement
+
+Offers are taken seriously and sending offers just to test the waters is frowned upon. If you're having an agent, they will make sure that you're serious about the offer before sending it from your behalf as it would affect their reputation as well.
+
+With that being said, you can take back your offer or if you've signed the purchase agreement, you can cancel it within three days without paying any penalties. After that, you can still cancel but you're obliged to pay the deposit which is usually 10% of the purchase price.
+
+Similarly if the seller cancels the agreement, they have to give you back the deposit and pay you the same amount as a penalty.
+
+Also, purchase agreements might have conditions like getting a mortgage or technical inspection. If the conditions aren't met, you can cancel the agreement without any penalties.
+
+:::tip
+
+Conditions in the offer and the purchase agreement increase the risk for the seller as they might lose other potential buyers while waiting for you to meet the conditions. Sellers might accept a lower offer without conditions over a higher offer with conditions. **This is not a financial advice. Consult with your mortgage advisor.**
+
+:::

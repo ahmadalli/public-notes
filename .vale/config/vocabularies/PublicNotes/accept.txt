@@ -26,6 +26,9 @@ hackster
 ESPHome
 VSCode
 Maccy
+Bambulab
+Ender
+Rocinante
 
 UIDs
 APIs
@@ -45,6 +48,9 @@ zsh
 
 RSS
 HDR
+PLA
+PETG
+LAN
 
 blissy
 (?i)Liveability

@@ -60,3 +60,5 @@ Enshittified
 ohshit
 ohshitperl
 ohshitpython
+
+Khoresh

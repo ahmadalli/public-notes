@@ -64,3 +64,8 @@
 ### Mozilla Firefox
 
 - Following [Sync custom preferences](https://support.mozilla.org/en-US/kb/sync-custom-preferences), set `services.sync.prefs.dangerously_allow_arbitrary` to true, sync, then set it back to false
+
+#### Common Configurations
+
+- `browser.tabs.insertAfterCurrent`: true
+- `sidebar.verticalTabs`: true

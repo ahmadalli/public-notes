@@ -69,3 +69,35 @@
 
 - `browser.tabs.insertAfterCurrent`: true
 - `sidebar.verticalTabs`: true
+- [Enable custom CSS loading](https://www.howtogeek.com/334716/how-to-customize-firefoxs-user-interface-with-userchrome.css/)
+
+##### Sidebery Tab Extension
+
+Having vertical tabs enabled in Firefox makes it easier to just hide the native tab bar and keep the other menus intact. The [`Sidebery`](https://github.com/mbnuqw/sidebery) extension is a good alternative to the native tab bar.
+
+###### Hiding the Sidebar
+
+Add the following to `userChrome.css`:
+```css
+#sidebar-box {
+  display: none !important;
+}
+```
+
+###### Auto Collapsing Sidebery Sidebar
+
+- [firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) inside the `chrome` folder
+- Add the following to `userChrome.css`, replacing the above code:
+  ```css
+  @import url(firefox-csshacks/chrome/autohide_sidebar.css);
+
+  #sidebar-main {
+    display: none !important;
+  }
+
+  #sidebar-box {
+    --uc-sidebar-width: 60px !important;
+    --uc-sidebar-hover-width: 300px !important;
+  }
+  ```
+- You can change the `--uc-sidebar-width` and `--uc-sidebar-hover-width` values to your liking

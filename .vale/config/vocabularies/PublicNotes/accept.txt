@@ -29,6 +29,7 @@ Maccy
 Bambulab
 Ender
 Rocinante
+Sidebery
 
 UIDs
 APIs

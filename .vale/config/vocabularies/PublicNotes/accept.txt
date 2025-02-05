@@ -30,6 +30,7 @@ Bambulab
 Ender
 Rocinante
 Sidebery
+uBlock
 
 UIDs
 APIs

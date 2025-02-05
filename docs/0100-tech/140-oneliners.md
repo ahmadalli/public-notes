@@ -52,3 +52,11 @@ while true; do
   done
 done
 ```
+
+## uBlock Origin
+
+### Blocking Markplaats Ads
+
+```css
+##li.hz-Listing--list-item.hz-Listing:has(.hz-Listing-seller-link > .hz-TextLink.hz-Listing-sellerCoverLink.hz-Link--isolated.hz-Link > span)
+```

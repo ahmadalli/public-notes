@@ -11,13 +11,39 @@ Lightroom doesn't support importing `.srt` (for telemetry) and `.lrf` (low resol
 SOURCE_DIR="<source>"
 DEST_DIR="<destination>"
 
-# Create destination directory structure and move files
 find "$SOURCE_DIR" -type f | while read -r FILE; do
-  MOD_DATE=$(stat -c "%y" "$FILE" | cut -d' ' -f1)  # Get file modification date
+  MOD_DATE=$(stat -c "%y" "$FILE" | cut -d' ' -f1)
   YEAR=$(echo "$MOD_DATE" | cut -d'-' -f1)
   DEST_PATH="$DEST_DIR/$YEAR/$MOD_DATE"
-  mkdir -p "$DEST_PATH"  # Create directory structure
-  mv "$FILE" "$DEST_PATH/"  # Move file, preserving the name
+  mkdir -p "$DEST_PATH"
+  if [ -f "$DEST_PATH/$(basename "$FILE")" ]; then
+    echo "File $FILE already exists in $DEST_PATH/"
+    echo "Source:"
+    # get file created date and size
+    stat -c "%n %y %z" "$FILE" # TODO: stat doesn't print size
+    echo "Destination:"
+    stat -c "%n %y %z" "$DEST_PATH/$(basename "$FILE")"
+    read -p "Do you want to check SHA? [y/N] " -r -n 1 </dev/tty
+    echo
+    if [[ $REPLY =~ ^[Yy]$ ]]; then
+      echo -n "SHA256:"
+      source_sha=$(sha256sum "$FILE" | cut -d' ' -f1)
+      dest_sha=$(sha256sum "$DEST_PATH/$(basename "$FILE")" | cut -d' ' -f1)
+      if [ "$source_sha" == "$dest_sha" ]; then
+        echo " Files are identical ✅"
+      else
+        echo " Files are different ❌"
+      fi
+    fi
+    read -p "Do you want to overwrite the file? [y/N] " -r -n 1 </dev/tty
+    echo
+    if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+      echo "Skipping $FILE"
+      continue
+    fi
+  fi
+  mv "$FILE" "$DEST_PATH/"
   echo "Moved $FILE to $DEST_PATH/"
 done
+
 ```

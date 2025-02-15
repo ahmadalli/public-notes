@@ -17,6 +17,13 @@ Consumer drones activities are regulated by the EASA under the [Open Category](h
 - [Drones - National Aviation Authorities](https://www.easa.europa.eu/en/domains/civil-drones/naa): It's a collection of links to each country's local licensing process and geographical restrictions.
 - [RDW Guide (For the Netherlands)](https://www.rdw.nl/en/drone/applying-for-a-pilot-licence-or-operator-number-for-a-drone)
 
+### Apps
+
+- Netherlands: [GoDrone](https://www.altitudeangel.com/solutions/godrone)
+- Luxembourg: [geoportail.lu](https://www.geoportail.lu/en/applications/mobile-apps/) -> The apps still seem to be supported and up to date and the Android app has a better UI compared to the web app in my phone.
+- Germany: [Droniq Maps](https://droniq.de/en/droniq-maps/)
+- France: Cartes IGN -> [Android](https://play.google.com/store/apps/details?id=fr.ign.geoportail), [iOS](https://apps.apple.com/nl/app/cartes-ign/id748345888)
+
 ## Flight License
 
 The first step is to get a flight license. The [RDW Guide](https://www.rdw.nl/particulier/voertuigen/drone/het-vliegbewijs-en-het-exploitantnummer-van-een-drone/aanvragen) provides links to recognized training organizations that you can choose from. There are also free options available for A1/A3 license:

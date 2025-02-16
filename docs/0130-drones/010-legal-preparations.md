@@ -24,6 +24,33 @@ Consumer drones activities are regulated by the EASA under the [Open Category](h
 - Germany: [Droniq Maps](https://droniq.de/en/droniq-maps/)
 - France: Cartes IGN -> [Android](https://play.google.com/store/apps/details?id=fr.ign.geoportail), [iOS](https://apps.apple.com/nl/app/cartes-ign/id748345888)
 
+### Country Specifics
+
+Some countries have more restrictions than the EASA regulations. You should check the local regulations for the country you're flying in.
+
+#### Netherlands
+
+##### Can I fly my drone at night?
+
+I couldn't find any restrictions on flying drones at night in the EASA documentations and the Netherlands' local regulations refer to the EASA documentations. So to the best of my knowledge, there's no restriction on flying drones at night.
+
+:::note
+
+This isn't the case for all countries. For example, [France](#france) has a restriction on flying drones at night.
+
+:::
+
+##### Do I need a license to fly a C0 drone even if it has a camera?
+
+No, according to [the EASA documentations](https://www.easa.europa.eu/en/domains/civil-drones/drones-regulatory-framework-background/open-category-civil-drones) you don't need a license to fly a C0 drone. You only need to register as an operator.
+
+#### France
+
+[This](https://www.ecologie.gouv.fr/politiques-publiques/exploitation-drones-categorie-ouverte?lang=en) page provides information on common rules for flying drones in France.
+
+- Flying drones at night isn't allowed.
+
+
 ## Flight License
 
 The first step is to get a flight license. The [RDW Guide](https://www.rdw.nl/particulier/voertuigen/drone/het-vliegbewijs-en-het-exploitantnummer-van-een-drone/aanvragen) provides links to recognized training organizations that you can choose from. There are also free options available for A1/A3 license:
@@ -68,13 +95,3 @@ The process is pretty straight forward and you can get your license in a few day
 - Do not fly over people or above 120m.
 - Respect people's privacy. Get consent if capturing identifiable individuals.
   - People might be identifiable by their faces, location, or any other means.
-
-## Q/A
-
-### Can I fly a drone at night?
-
-I couldn't find any restrictions on flying drones at night in the EASA documentations and the Netherlands' local regulations refer to the EASA documentations. So to the best of my knowledge, there's no restriction on flying drones at night.
-
-### Do I need a license to fly a C0 drone even if it has a camera?
-
-No, according to [the EASA documentations](https://www.easa.europa.eu/en/domains/civil-drones/drones-regulatory-framework-background/open-category-civil-drones) you don't need a license to fly a C0 drone. You only need to register as an operator.

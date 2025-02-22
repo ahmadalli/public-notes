@@ -8,9 +8,37 @@ I'm happy with my Bambulab A1. Compared to other entry level 3D printers like En
 - Fast Printing Speed
 - Multi Material Printing with AMS
 
+:::warning
+
+Bambulab has made changes to their services for security reasons, which suggests they might limit the device's capabilities in the future. Read more about it [here](https://www.reddit.com/r/BambuLab/comments/1i3gq1t/why_you_should_care_about_bambu_labs_removing/) ([archived](https://archive.is/CymOC)).
+
+At the moment there are no indications that Bambulab will limit more functionalities in the future, like the ability to use third party filaments, but it's something to keep in mind given the history of other companies in similar industries.
+
+I understand the security concern for the printers, as the hardware is capable of causing fire damage and having the printer exposed to the internet increases the security risks. But their solution doesn't seem to only be focused on security. You can switch to [LAN only mode](#lan-only-mode) to mitigate this risk, but you'll lose some functionalities.
+
+:::
+
+### Bambulab
+
+#### LAN Only Mode
+
+LAN only mode disconnects the printer from your Bambulab account and disables the cloud printing functionalities. Loosing cloud connectivity means loosing a few features:
+
+- Bambu Handy app: The app connects to the printer through cloud and doesn't support LAN only mode
+  - Cloud printing
+  - Printer monitoring
+  - Printer control
+- Skip object
+
+##### LAN Only Mode and Printer on a Separate Network
+
+Printer discovery only works when the printer and the computer are on the same network. BambuStudio (or OrcaSlicer) can't find the printer if they're on a separate networks even if these networks are connected to each other.
+
+To solve this, I use [this python code snippet](https://gist.github.com/Alex-Schaefer/72a9e2491a42da2ef99fb87601955cc3) to send the printer IP to the slicer.
+
 ## Slicer
 
-I use [BambuStudio](https://github.com/bambulab/BambuStudio/releases) that's a fork of PrusaSlicer. It's a good slicer and I'm happy with it. I've heard good things about [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) too but I haven't tried it yet.
+I used to use [BambuStudio](https://github.com/bambulab/BambuStudio/releases) that's a fork of PrusaSlicer, not I've switched to [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) as a precaution regarding potential changes that Bambulab might make to their software and enforcement of their ecosystem.
 
 ## Filament
 
@@ -56,12 +84,6 @@ If these settings wasn't helpful, you can check out [here](https://www.reddit.co
 Similar to [this discussion](https://www.reddit.com/r/BambuLab/comments/1dcaqad/comment/l7wxvr0/), I had issues printing with the Bambulab silver PLA. I made a mistake of buying this instead of gray PLA for Rocinante and noticed that the print quality isn't good with the silver filament.
 
 The solution is to use silk filament profile for this color.
-
-### LAN Only Mode and Printer on a Separate Network
-
-Printer discovery only works when the printer and the computer are on the same network. BambuStudio (or OrcaSlicer) can't find the printer if they're on a separate networks even if these networks are connected to each other.
-
-To solve this, I use [this python code snippet](https://gist.github.com/Alex-Schaefer/72a9e2491a42da2ef99fb87601955cc3) to send the printer IP to the slicer.
 
 ## Useful Resources
 

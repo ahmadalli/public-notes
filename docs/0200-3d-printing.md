@@ -62,6 +62,7 @@ You can mitigate this by coating the object with food safe epoxy resin.
 - [3D Print of a Brain from MRI Scan](https://www.reddit.com/r/neuro/comments/1amvsim/comment/kppe4q3/)
 - [Rocinante from The Expanse TV Series](https://makerworld.com/en/models/20204#profileId-38738)
 - [Home Assistant Integration](https://github.com/greghesp/ha-bambulab)
+- [Underware Cable Management Solution](https://handsonkatie.com/underware/)
 
 ## Device Maintenance
 

@@ -9,3 +9,7 @@ For longer term email addresses, there are some privacy focused forward email se
 - CloudFlare Email Forwarding: ❌ -> Constantly failing to deliver emails due to IP blacklisting
 - [ImprovMX](https://improvmx.com/): ✅ -> Testing it now, works well so far
 - [Forward Email](https://forwardemail.net/): ❔ -> Haven't tried it yet
+
+### Troubleshooting
+
+- Outlook rejects the email due to DMARC verification, you can add the source email to the `trusted senders` list in the settings to bypass this.

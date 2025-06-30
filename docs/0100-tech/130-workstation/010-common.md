@@ -86,6 +86,12 @@ Add the following to `userChrome.css`:
 
 ###### Auto Collapsing Sidebery Sidebar
 
+:::note
+
+You must keep firefox-csshacks up to data to keep this working.
+
+:::
+
 - [firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) inside the `chrome` folder
 - Add the following to `userChrome.css`, replacing the above code:
   ```css

@@ -60,3 +60,19 @@ done
 ```css
 ##li.hz-Listing--list-item.hz-Listing:has(.hz-Listing-seller-link > .hz-TextLink.hz-Listing-sellerCoverLink.hz-Link--isolated.hz-Link > span)
 ```
+
+## YouTube
+
+### Extract Transcript as Text
+
+You need [yt-dlp](https://github.com/yt-dlp/yt-dlp) for this:
+
+```shell
+$youtube_link=""
+
+yt-dlp --skip-download --write-subs --write-auto-subs --sub-lang en --sub-format ttml --convert-subs srt --output "transcript.%(ext)s" "$youtube_link"\
+&& sed -i '' -e '/^[0-9][0-9]:[0-9][0-9]:[0-9][0-9].[0-9][0-9][0-9] --> [0-9][0-9]:[0-9][0-9]:[0-9][0-9].[0-9][0-9][0-9]$/d' -e '/^[[:digit:]]\{1,3\}$/d' -e 's/<[^>]*>//g' ./transcript.en.srt\
+&& sed -e 's/<[^>]*>//g' -e '/^[[:space:]]*$/d' transcript.en.srt > output.txt\
+&& rm transcript.en.srt
+```
+

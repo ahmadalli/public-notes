@@ -61,6 +61,24 @@
 - Configure `Settings Sync`
 - Add `code` to PATH
 
+#### Useful Extensions
+
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
+  - I also override some configurations to prevent the extension to pollute the workspace:
+    ```json
+    "local-history.absolute": true,
+    "local-history.path": "/tmp/.vsfilehistory",
+    ```
+- [Markdown Snippets for MDX and Docusaurus](https://marketplace.visualstudio.com/items?itemName=MisterMunchkin.simple-markdown-snippets)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+
+#### Common Configurations
+
+- For C# development outside on other VS Code based extensions, see [Debugging Outside of Microsoft Ecosystem](../060-oh-shit-x/40-dotnet.md#debugging-outside-of-microsoft-ecosystem)
+
 ### Mozilla Firefox
 
 - Following [Sync custom preferences](https://support.mozilla.org/en-US/kb/sync-custom-preferences), set `services.sync.prefs.dangerously_allow_arbitrary` to true, sync, then set it back to false

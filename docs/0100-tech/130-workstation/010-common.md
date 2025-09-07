@@ -40,7 +40,7 @@
 
 #### Shell
 
-- *TODO: Common shell configs*
+- _TODO: Common shell configs_
   - Bash
   - PowerShell
 
@@ -78,6 +78,7 @@ Having vertical tabs enabled in Firefox makes it easier to just hide the native 
 ###### Hiding the Sidebar
 
 Add the following to `userChrome.css`:
+
 ```css
 #sidebar-box {
   display: none !important;
@@ -94,6 +95,7 @@ You must keep firefox-csshacks up to data to keep this working.
 
 - [firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) inside the `chrome` folder
 - Add the following to `userChrome.css`, replacing the above code:
+
   ```css
   @import url(firefox-csshacks/chrome/autohide_sidebar.css);
 
@@ -106,4 +108,5 @@ You must keep firefox-csshacks up to data to keep this working.
     --uc-sidebar-hover-width: 300px !important;
   }
   ```
+
 - You can change the `--uc-sidebar-width` and `--uc-sidebar-hover-width` values to your liking

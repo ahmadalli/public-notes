@@ -70,7 +70,7 @@ In addition to reaching out to your network, you can also look for companies tha
   - Companies specializing in your desired domain
   - Companies with a presence at events within your desired domain
   - Growing companies and startups within your desired domain
-- Public lists of companies that are hiring like [<icon icon="fa-brands fa-github" size="lg" /> this Github repo](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians)
+- Public lists of companies that are hiring like [<Icon icon="fa-brands fa-github" size="lg" /> this Github repo](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians)
 - Job boards like LinkedIn, Indeed, Glassdoor, etc
 
 ## Preparing your Resume

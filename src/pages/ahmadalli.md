@@ -2,17 +2,13 @@
 
 ## Social Links
 
+[<Icon icon="fa-brands fa-flickr" size="lg" /> Flickr](https://www.flickr.com/photos/ahmadallish/)
+
 [<Icon icon="fa-brands fa-linkedin" size="lg" /> LinkedIn](https://www.linkedin.com/in/ahmadalli/)
 
 [<Icon icon="fa-brands fa-github" size="lg" /> GitHub](https://github.com/ahmadalli)
 
 [<Icon icon="fa-sharp fa-bookmark" size="lg" /> Substack](https://ahmadallish.substack.com/)
-
-[<Icon icon="fa-brands fa-youtube" size="lg" /> YouTube](https://www.youtube.com/channel/UCpN2l-8TZV2PoLT33JOD6aA)
-
-[<Icon icon="fa-brands fa-flickr" size="lg" /> Flickr](https://www.flickr.com/photos/ahmadallish/)
-
-[<Icon icon="fa-brands fa-wordpress" size="lg" /> Blog in Farsi](https://ahmadalli.me)
 
 ---
 

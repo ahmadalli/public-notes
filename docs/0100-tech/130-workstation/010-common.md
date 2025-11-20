@@ -128,3 +128,17 @@ You must keep firefox-csshacks up to data to keep this working.
   ```
 
 - You can change the `--uc-sidebar-width` and `--uc-sidebar-hover-width` values to your liking
+
+#### Troubleshooting
+
+##### Translation target languages stuck
+
+If Firefox Translation keeps defaulting to unwanted languages, reset the `browser.translations.mostRecentTargetLanguages` preference:
+
+1. Open `about:config` in the address bar and accept the advanced configuration warning.
+2. Search for `browser.translations.mostRecentTargetLanguages`.
+3. Click the pencil icon to edit the value.
+4. Remove any two-letter language codes you do not want (e.g., `ES`, `RU`) and keep only the ones you prefer (e.g., `EN`).
+5. Save the preference with the checkmark, restart Firefox, and confirm the translation menu reflects the change.
+
+Source: [Reddit](https://www.reddit.com/r/firefox/comments/1k2bqkn/comment/n75tcjf/)

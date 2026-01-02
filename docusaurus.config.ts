@@ -11,6 +11,11 @@ const config: Config = {
   tagline: "documentation of ideas, thoughts, and experiences",
   favicon: "img/logo.png",
 
+  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
+  future: {
+    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+  },
+
   // Set the production url of your site here
   url: "https://publicnotes.io",
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -23,7 +28,6 @@ const config: Config = {
   projectName: "public-notes", // Usually your repo name.
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
 
   trailingSlash: true,
 
@@ -49,9 +53,16 @@ const config: Config = {
         blog: {
           blogTitle: "Blog",
           routeBasePath: "/blog",
-          editUrl: "https://github.com/ahmadalli/public-notes/edit/main/",
           showReadingTime: true,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          editUrl: "https://github.com/ahmadalli/public-notes/edit/main/",
           postsPerPage: 10,
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -112,6 +123,7 @@ const config: Config = {
       additionalLanguages: ["python", "perl"],
     },
   } satisfies Preset.ThemeConfig,
+
   plugins: [
     [
       "docusaurus-lunr-search",
@@ -120,6 +132,12 @@ const config: Config = {
       },
     ],
   ],
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    }
+  },
 };
 
 export default config;

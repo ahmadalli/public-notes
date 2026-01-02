@@ -76,3 +76,41 @@ yt-dlp --skip-download --write-subs --write-auto-subs --sub-lang en --sub-format
 && rm transcript.en.srt
 ```
 
+## Linkwarden
+
+### Merge Collections
+
+This script would effectively move all links from one collection to another, leaving links in the sub collections of the source collection intact.
+
+```shell
+LINKWARDEN_HOST=""
+LINKWARDEN_ACCESS_TOKEN=""
+SOURCE_COLLECTION_ID=""
+DESTINATION_COLLECTION_ID=""
+
+next_cursor=""
+while true; do
+  search_results=$(curl --silent --fail -H "Authorization: Bearer $LINKWARDEN_ACCESS_TOKEN" \
+    "$LINKWARDEN_HOST/api/v1/search?collectionId=$SOURCE_COLLECTION_ID&type=url&limit=100&cursor=$next_cursor")
+
+  batch_update_payload="{\"links\": $(echo "$search_results" | jq -c '[.data.links[] | { "id": .id }]'),\"newData\": {\"collectionId\": $DESTINATION_COLLECTION_ID, \"tags\": []}, \"removePreviousTags\": false}"
+
+  echo "The following links will be updated:"
+  echo "$search_results" | jq '[.data.links[] | { "id": .id, "name": .name, "url": .url }]'
+
+  curl --silent --fail -X PUT -H "Authorization: Bearer $LINKWARDEN_ACCESS_TOKEN" \
+    -H "Content-Type: application/json" \
+    -d "$batch_update_payload" \
+    "$LINKWARDEN_HOST/api/v1/links"
+
+  echo " - Done"
+
+  next_cursor=$(echo "$search_results" | jq -r '.data.nextCursor // empty')
+
+  if [ -z "$next_cursor" ]; then
+    break
+  fi
+done
+
+echo "Done"
+```

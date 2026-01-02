@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Public Notes Blog</title>
@@ -14,20 +14,20 @@
             <guid>https://publicnotes.io/blog/2023/09/17/public-notes-2023w38-changelog/</guid>
             <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[This week I got my drone pilot license 🎉 and I took the opportunity and documented the process in Legal Preparation page.]]></description>
-            <content:encoded><![CDATA[<p>This week I got my drone pilot license 🎉 and I took the opportunity and documented the process in <a href="https://publicnotes.io/drones/legal-preparations" target="_blank" rel="noopener noreferrer">Legal Preparation</a> page.</p>
-<p>Another topic is the games I like and enjoy. I started with <a href="https://publicnotes.io/games/nier" target="_blank" rel="noopener noreferrer">Nier Series</a>, which I strongly recommend you to play and <a href="https://publicnotes.io/games/rainbow-six" target="_blank" rel="noopener noreferrer">Rainbow Six Siege</a>, my favorite FPS game.</p>
+            <content:encoded><![CDATA[<p>This week I got my drone pilot license 🎉 and I took the opportunity and documented the process in <a href="https://publicnotes.io/drones/legal-preparations" target="_blank" rel="noopener noreferrer" class="">Legal Preparation</a> page.</p>
+<p>Another topic is the games I like and enjoy. I started with <a href="https://publicnotes.io/games/nier" target="_blank" rel="noopener noreferrer" class="">Nier Series</a>, which I strongly recommend you to play and <a href="https://publicnotes.io/games/rainbow-six" target="_blank" rel="noopener noreferrer" class="">Rainbow Six Siege</a>, my favorite FPS game.</p>
 <p>I also played Super Mario on the Casio Prizm. Additionally, there have been some small updates on other pages, which you can find in the changelog below:</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/09/17/public-notes-2023w38-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/09/17/public-notes-2023w38-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog" translate="no">​</a></h2>
 <ul>
-<li><a href="https://publicnotes.io/netherlands/useful-apps-and-sites" target="_blank" rel="noopener noreferrer">netherlands/useful-apps-and-sites</a>: Added a link for reporting stolen bikes.</li>
-<li><a href="https://publicnotes.io/finding-work/preparing-for-applying" target="_blank" rel="noopener noreferrer">finding-work/preparing-for-applying</a>: Included a tip on using roadmap.sh for prioritizing career path skills.</li>
-<li><a href="https://publicnotes.io/projects/public-notes" target="_blank" rel="noopener noreferrer">projects/public-notes</a>: Updated the page with detailed challenges, proposed solutions, and a new to-do section.</li>
-<li><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/perl</a>: Added a "More Resources" section with a link to an article about Raku and related discussion.</li>
-<li><a href="https://publicnotes.io/tech/oh-shit-x/python" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/python</a>: Introduced a "More Resources" section with a link to the <code>What the f*ck Python?</code> GitHub repository and related discussion.</li>
-<li><a href="https://publicnotes.io/tech/casio-prizm-gaming" target="_blank" rel="noopener noreferrer">tech/casio-prizm-gaming</a>: Created a new page on gaming with the Casio Prizm calculator, including game and emulator links.</li>
-<li><a href="https://publicnotes.io/games/rainbow-six" target="_blank" rel="noopener noreferrer">games/rainbow-six</a>: Reorganized Rainbow Six Siege strategies and added sections on operator bans.</li>
-<li><a href="https://publicnotes.io/games/nier" target="_blank" rel="noopener noreferrer">games/nier</a>: Included sections on Nier<!-- -->:Replicant<!-- --> and Nier<!-- -->:Automata<!-- --> soundtracks, along with a YouTube video breakdown.</li>
-<li><a href="https://publicnotes.io/drones/legal-preparations" target="_blank" rel="noopener noreferrer">drones/legal-preparations</a>: Added a new page on legal preparations for flying drones in EU.</li>
+<li class=""><a href="https://publicnotes.io/netherlands/useful-apps-and-sites" target="_blank" rel="noopener noreferrer" class="">netherlands/useful-apps-and-sites</a>: Added a link for reporting stolen bikes.</li>
+<li class=""><a href="https://publicnotes.io/finding-work/preparing-for-applying" target="_blank" rel="noopener noreferrer" class="">finding-work/preparing-for-applying</a>: Included a tip on using roadmap.sh for prioritizing career path skills.</li>
+<li class=""><a href="https://publicnotes.io/projects/public-notes" target="_blank" rel="noopener noreferrer" class="">projects/public-notes</a>: Updated the page with detailed challenges, proposed solutions, and a new to-do section.</li>
+<li class=""><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer" class="">tech/oh-shit-x/perl</a>: Added a "More Resources" section with a link to an article about Raku and related discussion.</li>
+<li class=""><a href="https://publicnotes.io/tech/oh-shit-x/python" target="_blank" rel="noopener noreferrer" class="">tech/oh-shit-x/python</a>: Introduced a "More Resources" section with a link to the <code>What the f*ck Python?</code> GitHub repository and related discussion.</li>
+<li class=""><a href="https://publicnotes.io/tech/casio-prizm-gaming" target="_blank" rel="noopener noreferrer" class="">tech/casio-prizm-gaming</a>: Created a new page on gaming with the Casio Prizm calculator, including game and emulator links.</li>
+<li class=""><a href="https://publicnotes.io/games/rainbow-six" target="_blank" rel="noopener noreferrer" class="">games/rainbow-six</a>: Reorganized Rainbow Six Siege strategies and added sections on operator bans.</li>
+<li class=""><a href="https://publicnotes.io/games/nier" target="_blank" rel="noopener noreferrer" class="">games/nier</a>: Included sections on Nier<!-- -->:Replicant<!-- --> and Nier<!-- -->:Automata<!-- --> soundtracks, along with a YouTube video breakdown.</li>
+<li class=""><a href="https://publicnotes.io/drones/legal-preparations" target="_blank" rel="noopener noreferrer" class="">drones/legal-preparations</a>: Added a new page on legal preparations for flying drones in EU.</li>
 </ul>]]></content:encoded>
             <author>mail@ahmadalli.net (Ahmadali)</author>
         </item>
@@ -37,15 +37,15 @@
             <guid>https://publicnotes.io/blog/2023/09/03/public-notes-2023w36-changelog/</guid>
             <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[In the past two weeks I was busy with creating The SRE Audiobook, its project docs, and ohshitpython.com.]]></description>
-            <content:encoded><![CDATA[<p>In the past two weeks I was busy with creating <a href="https://podcasters.spotify.com/pod/show/sre-audiobook" target="_blank" rel="noopener noreferrer">The SRE Audiobook</a>, <a href="https://publicnotes.io/projects/sre-audiobook/" target="_blank" rel="noopener noreferrer">its project docs</a>, and <a href="https://ohshitpython.com/" target="_blank" rel="noopener noreferrer">ohshitpython.com</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/09/03/public-notes-2023w36-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog">​</a></h2>
+            <content:encoded><![CDATA[<p>In the past two weeks I was busy with creating <a href="https://podcasters.spotify.com/pod/show/sre-audiobook" target="_blank" rel="noopener noreferrer" class="">The SRE Audiobook</a>, <a href="https://publicnotes.io/projects/sre-audiobook/" target="_blank" rel="noopener noreferrer" class="">its project docs</a>, and <a href="https://ohshitpython.com/" target="_blank" rel="noopener noreferrer" class="">ohshitpython.com</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/09/03/public-notes-2023w36-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog" translate="no">​</a></h2>
 <ul>
-<li><a href="https://publicnotes.io/projects/public-notes" target="_blank" rel="noopener noreferrer">projects/public-notes</a>: Added more technical challenges.</li>
-<li><a href="https://publicnotes.io/projects/sre-audiobook" target="_blank" rel="noopener noreferrer">projects/sre-audiobook</a>: Added new documentation page for SRE Audiobook project, including purpose, implementation, and challenges.</li>
-<li><a href="https://publicnotes.io/projects/clever-messages" target="_blank" rel="noopener noreferrer">projects/clever-messages</a>: Added Clever Messages project documentation with problem, solution, and challenges faced.</li>
-<li><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/perl</a>: Added dedicated domains for the page:  <a href="https://ohshitperl.com/" target="_blank" rel="noopener noreferrer">ohshitperl.com</a>, <a href="https://ohshit.foo/perl" target="_blank" rel="noopener noreferrer">ohshit.foo/perl</a>, and <a href="https://ohshit.bar/perl" target="_blank" rel="noopener noreferrer">ohshit.bar/perl</a>.</li>
-<li><a href="https://publicnotes.io/tech/oh-shit-x/python" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/python</a>: Published the Oh Shit, Python document.</li>
-<li><a href="https://publicnotes.io/tech/oh-shit-x/" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/</a>: Added dedicated domains for the page: <a href="https://ohshit.foo/" target="_blank" rel="noopener noreferrer">ohshit.foo</a> and <a href="https://ohshit.bar/" target="_blank" rel="noopener noreferrer">ohshit.bar</a>.</li>
+<li class=""><a href="https://publicnotes.io/projects/public-notes" target="_blank" rel="noopener noreferrer" class="">projects/public-notes</a>: Added more technical challenges.</li>
+<li class=""><a href="https://publicnotes.io/projects/sre-audiobook" target="_blank" rel="noopener noreferrer" class="">projects/sre-audiobook</a>: Added new documentation page for SRE Audiobook project, including purpose, implementation, and challenges.</li>
+<li class=""><a href="https://publicnotes.io/projects/clever-messages" target="_blank" rel="noopener noreferrer" class="">projects/clever-messages</a>: Added Clever Messages project documentation with problem, solution, and challenges faced.</li>
+<li class=""><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer" class="">tech/oh-shit-x/perl</a>: Added dedicated domains for the page:  <a href="https://ohshitperl.com/" target="_blank" rel="noopener noreferrer" class="">ohshitperl.com</a>, <a href="https://ohshit.foo/perl" target="_blank" rel="noopener noreferrer" class="">ohshit.foo/perl</a>, and <a href="https://ohshit.bar/perl" target="_blank" rel="noopener noreferrer" class="">ohshit.bar/perl</a>.</li>
+<li class=""><a href="https://publicnotes.io/tech/oh-shit-x/python" target="_blank" rel="noopener noreferrer" class="">tech/oh-shit-x/python</a>: Published the Oh Shit, Python document.</li>
+<li class=""><a href="https://publicnotes.io/tech/oh-shit-x/" target="_blank" rel="noopener noreferrer" class="">tech/oh-shit-x/</a>: Added dedicated domains for the page: <a href="https://ohshit.foo/" target="_blank" rel="noopener noreferrer" class="">ohshit.foo</a> and <a href="https://ohshit.bar/" target="_blank" rel="noopener noreferrer" class="">ohshit.bar</a>.</li>
 </ul>]]></content:encoded>
             <author>mail@ahmadalli.net (Ahmadali)</author>
         </item>
@@ -55,18 +55,18 @@
             <guid>https://publicnotes.io/blog/2023/08/20/public-notes-2023w34-changelog/</guid>
             <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[In the past few weeks, I've been busy with my on-boarding at Booking.com 😄 and leaning Perl, which lead me to buy ohshitperl.com and write about its quirks.]]></description>
-            <content:encoded><![CDATA[<p>In the past few weeks, I've been busy with <a href="https://www.linkedin.com/posts/ahmadalli_im-happy-to-share-that-im-starting-a-new-activity-7093953424672579584-5ViF" target="_blank" rel="noopener noreferrer">my on-boarding at Booking.com 😄</a> and leaning Perl, which lead me to buy <a href="https://ohshitperl.com/" target="_blank" rel="noopener noreferrer">ohshitperl.com</a> and write about its quirks.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/08/20/public-notes-2023w34-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog">​</a></h2>
+            <content:encoded><![CDATA[<p>In the past few weeks, I've been busy with <a href="https://www.linkedin.com/posts/ahmadalli_im-happy-to-share-that-im-starting-a-new-activity-7093953424672579584-5ViF" target="_blank" rel="noopener noreferrer" class="">my on-boarding at Booking.com 😄</a> and leaning Perl, which lead me to buy <a href="https://ohshitperl.com/" target="_blank" rel="noopener noreferrer" class="">ohshitperl.com</a> and write about its quirks.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/08/20/public-notes-2023w34-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog" translate="no">​</a></h2>
 <ul>
-<li><a href="https://publicnotes.io/netherlands/renting-an-apartment" target="_blank" rel="noopener noreferrer">netherlands/renting-an-apartment</a>: Added a tip about apartment search in bigger cities and public transportation.</li>
-<li><a href="https://publicnotes.io/netherlands/transportation" target="_blank" rel="noopener noreferrer">netherlands/transportation</a>: Added a section about GVB public transport in Amsterdam, updated costs information.</li>
-<li><a href="https://publicnotes.io/netherlands/banking" target="_blank" rel="noopener noreferrer">netherlands/banking</a>: Added Tikkie payment service info and updated MasterCard replacing Maestro details.</li>
-<li><a href="https://publicnotes.io/finding-work/interviewing/sre-interview-materials" target="_blank" rel="noopener noreferrer">finding-work/interviewing/sre-interview-materials</a>: Added a new page for SRE interview materials and moved related content from the main interviewing page.</li>
-<li><a href="https://publicnotes.io/finding-work/interviewing/" target="_blank" rel="noopener noreferrer">finding-work/interviewing/</a>: Added a new SRE Interview Materials page and moved related resources to it.</li>
-<li><a href="https://publicnotes.io/tech/streaming-games" target="_blank" rel="noopener noreferrer">tech/streaming-games</a>: Updated TV port info and recommended USB dongle for streaming games at 1080p 60fps.</li>
-<li><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/perl</a>: Added information on Perl operators, arrays, hashes, lists, flow control, subroutines, and classes.</li>
-<li><a href="https://publicnotes.io/tech/oh-shit-x/" target="_blank" rel="noopener noreferrer">tech/oh-shit-x/</a>: Added a new documentation page titled "Oh Shit, X" inspired by "Oh Shit, Git!?".</li>
-<li><a href="https://publicnotes.io/problems-and-questions" target="_blank" rel="noopener noreferrer">problems-and-questions</a>: Added a new documentation page discussing problems and questions I encounter.</li>
+<li class=""><a href="https://publicnotes.io/netherlands/renting-an-apartment" target="_blank" rel="noopener noreferrer" class="">netherlands/renting-an-apartment</a>: Added a tip about apartment search in bigger cities and public transportation.</li>
+<li class=""><a href="https://publicnotes.io/netherlands/transportation" target="_blank" rel="noopener noreferrer" class="">netherlands/transportation</a>: Added a section about GVB public transport in Amsterdam, updated costs information.</li>
+<li class=""><a href="https://publicnotes.io/netherlands/banking" target="_blank" rel="noopener noreferrer" class="">netherlands/banking</a>: Added Tikkie payment service info and updated MasterCard replacing Maestro details.</li>
+<li class=""><a href="https://publicnotes.io/finding-work/interviewing/sre-interview-materials" target="_blank" rel="noopener noreferrer" class="">finding-work/interviewing/sre-interview-materials</a>: Added a new page for SRE interview materials and moved related content from the main interviewing page.</li>
+<li class=""><a href="https://publicnotes.io/finding-work/interviewing/" target="_blank" rel="noopener noreferrer" class="">finding-work/interviewing/</a>: Added a new SRE Interview Materials page and moved related resources to it.</li>
+<li class=""><a href="https://publicnotes.io/tech/streaming-games" target="_blank" rel="noopener noreferrer" class="">tech/streaming-games</a>: Updated TV port info and recommended USB dongle for streaming games at 1080p 60fps.</li>
+<li class=""><a href="https://publicnotes.io/tech/oh-shit-x/perl" target="_blank" rel="noopener noreferrer" class="">tech/oh-shit-x/perl</a>: Added information on Perl operators, arrays, hashes, lists, flow control, subroutines, and classes.</li>
+<li class=""><a href="https://publicnotes.io/tech/oh-shit-x/" target="_blank" rel="noopener noreferrer" class="">tech/oh-shit-x/</a>: Added a new documentation page titled "Oh Shit, X" inspired by "Oh Shit, Git!?".</li>
+<li class=""><a href="https://publicnotes.io/problems-and-questions" target="_blank" rel="noopener noreferrer" class="">problems-and-questions</a>: Added a new documentation page discussing problems and questions I encounter.</li>
 </ul>]]></content:encoded>
             <author>mail@ahmadalli.net (Ahmadali)</author>
         </item>
@@ -76,38 +76,38 @@
             <guid>https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/</guid>
             <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Highlights]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="highlights">Highlights<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#highlights" class="hash-link" aria-label="Direct link to Highlights" title="Direct link to Highlights">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="finding-work">Finding Work<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#finding-work" class="hash-link" aria-label="Direct link to Finding Work" title="Direct link to Finding Work">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="highlights">Highlights<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#highlights" class="hash-link" aria-label="Direct link to Highlights" title="Direct link to Highlights" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="finding-work">Finding Work<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#finding-work" class="hash-link" aria-label="Direct link to Finding Work" title="Direct link to Finding Work" translate="no">​</a></h3>
 <p>I went through my own resume and based on the format, layout, and content created a detailed guide on resume preparation. I also added a new page on related Persian communities.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tech">Tech<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#tech" class="hash-link" aria-label="Direct link to Tech" title="Direct link to Tech">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="docusaurus">Docusaurus<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#docusaurus" class="hash-link" aria-label="Direct link to Docusaurus" title="Direct link to Docusaurus">​</a></h4>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="tech">Tech<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#tech" class="hash-link" aria-label="Direct link to Tech" title="Direct link to Tech" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="docusaurus">Docusaurus<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#docusaurus" class="hash-link" aria-label="Direct link to Docusaurus" title="Direct link to Docusaurus" translate="no">​</a></h4>
 <p>I wanted to add interactive components. I've written a short guide on creating and using a React component in Docusaurus.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="streaming-games">Streaming Games<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#streaming-games" class="hash-link" aria-label="Direct link to Streaming Games" title="Direct link to Streaming Games">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="streaming-games">Streaming Games<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#streaming-games" class="hash-link" aria-label="Direct link to Streaming Games" title="Direct link to Streaming Games" translate="no">​</a></h4>
 <p>Setting up moonlight was on my to-do list for a while. I finally got around to it this weekend and documented the process along with some challenges I faced.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="large-language-models">Large Language Models<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#large-language-models" class="hash-link" aria-label="Direct link to Large Language Models" title="Direct link to Large Language Models">​</a></h4>
-<p>I've documented my takes on the <a href="https://learning.oreilly.com/live-events/large-language-models-and-chatgpt-in-3-weeks/0636920090988/0636920090987/" target="_blank" rel="noopener noreferrer">Large Language Models and ChatGPT in 3 Weeks</a> event in addition to my personal experience with ChatGPT.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="other">Other<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#other" class="hash-link" aria-label="Direct link to Other" title="Direct link to Other">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="large-language-models">Large Language Models<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#large-language-models" class="hash-link" aria-label="Direct link to Large Language Models" title="Direct link to Large Language Models" translate="no">​</a></h4>
+<p>I've documented my takes on the <a href="https://learning.oreilly.com/live-events/large-language-models-and-chatgpt-in-3-weeks/0636920090988/0636920090987/" target="_blank" rel="noopener noreferrer" class="">Large Language Models and ChatGPT in 3 Weeks</a> event in addition to my personal experience with ChatGPT.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="other">Other<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#other" class="hash-link" aria-label="Direct link to Other" title="Direct link to Other" translate="no">​</a></h3>
 <ul>
-<li>I created a 'Datasets' page as a personal reference for datasets that can be used in machine learning projects</li>
-<li>In the LLM event I learned about <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer">Streamlit</a> and created a page to keep track of product prototyping tools. I might replace current implementation of <a href="https://clevermsg.io/" target="_blank" rel="noopener noreferrer">CleverMessages</a> with Streamlit in the future because I'm not happy with the current vue.js codebase</li>
-<li>I've published my internal utilities page with a guide on embedding Wikimedia media in Markdown</li>
-<li>I'm also working on a tool to help me generate changelogs. You can find it <a href="https://github.com/ahmadalli/public-notes/blob/318a9041bb0c5a51bfc514fa5cdb42e23485ed9b/tools/changelog-generate.sh" target="_blank" rel="noopener noreferrer">here</a></li>
+<li class="">I created a 'Datasets' page as a personal reference for datasets that can be used in machine learning projects</li>
+<li class="">In the LLM event I learned about <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer" class="">Streamlit</a> and created a page to keep track of product prototyping tools. I might replace current implementation of <a href="https://clevermsg.io/" target="_blank" rel="noopener noreferrer" class="">CleverMessages</a> with Streamlit in the future because I'm not happy with the current vue.js codebase</li>
+<li class="">I've published my internal utilities page with a guide on embedding Wikimedia media in Markdown</li>
+<li class="">I'm also working on a tool to help me generate changelogs. You can find it <a href="https://github.com/ahmadalli/public-notes/blob/318a9041bb0c5a51bfc514fa5cdb42e23485ed9b/tools/changelog-generate.sh" target="_blank" rel="noopener noreferrer" class="">here</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="full-changelog">Full Changelog<a href="https://publicnotes.io/blog/2023/07/31/public-notes-2023w31-changelog/#full-changelog" class="hash-link" aria-label="Direct link to Full Changelog" title="Direct link to Full Changelog" translate="no">​</a></h2>
 <ul>
-<li><a href="https://publicnotes.io/finding-work/preparing-for-applying/" target="_blank" rel="noopener noreferrer">finding-work/preparing-for-applying</a>: Content updated and restructured with the addition of a detailed resume preparation guide.</li>
-<li><a href="https://publicnotes.io/finding-work/preparing-for-applying/resume" target="_blank" rel="noopener noreferrer">finding-work/preparing-for-applying/resume</a>: Updated with a detailed guide on resume preparation and clarity improvements to existing content.</li>
-<li><a href="https://publicnotes.io/finding-work/preparing-for-applying/persian-communities" target="_blank" rel="noopener noreferrer">finding-work/preparing-for-applying/persian-communities</a>: New page added with information on related Persian communities.</li>
-<li><a href="https://publicnotes.io/tech/" target="_blank" rel="noopener noreferrer">tech</a>: Three new pages added on technical topics, Docusaurus, and custom React components.</li>
-<li><a href="https://publicnotes.io/tech/docusaurus/" target="_blank" rel="noopener noreferrer">tech/docusaurus</a>: New section added on Docusaurus in the tech documentation.</li>
-<li><a href="https://publicnotes.io/tech/docusaurus/custom-react-components" target="_blank" rel="noopener noreferrer">tech/docusaurus/custom-react-components</a>: Three new pages added on custom React components in Docusaurus, Docusaurus itself, and a general tech page.</li>
-<li><a href="https://publicnotes.io/tech/streaming-games" target="_blank" rel="noopener noreferrer">tech/streaming-games</a>: New page added with instructions, requirements, and troubleshooting tips for streaming games from a PC to another device.</li>
-<li><a href="https://publicnotes.io/tech/large-language-models" target="_blank" rel="noopener noreferrer">tech/large-language-models</a>: New page created with detailed information on Large Language Models, including usage, types, parameters, and tips for using ChatGPT.</li>
-<li><a href="https://publicnotes.io/tech/machine-learning/" target="_blank" rel="noopener noreferrer">tech/machine-learning</a>: Two new pages added on Machine Learning and Text Datasets.</li>
-<li><a href="https://publicnotes.io/tech/machine-learning/datasets" target="_blank" rel="noopener noreferrer">tech/machine-learning/datasets</a>: New page added about machine learning datasets with links to three resources.</li>
-<li><a href="https://publicnotes.io/tech/product-prototyping-tools" target="_blank" rel="noopener noreferrer">tech/product-prototyping-tools</a>: New page created listing basic and advanced product prototyping tools.</li>
-<li><a href="https://publicnotes.io/internal-utilities/" target="_blank" rel="noopener noreferrer">internal-utilities</a>: New page added for internal utilities with a guide on embedding Wikimedia media in Markdown.</li>
-<li><a href="https://publicnotes.io/internal-utilities/wikimedia-markdown" target="_blank" rel="noopener noreferrer">internal-utilities/wikimedia-markdown</a>: Documentation updated with a new tool for converting Wikimedia HTML embed code to Markdown.</li>
+<li class=""><a href="https://publicnotes.io/finding-work/preparing-for-applying/" target="_blank" rel="noopener noreferrer" class="">finding-work/preparing-for-applying</a>: Content updated and restructured with the addition of a detailed resume preparation guide.</li>
+<li class=""><a href="https://publicnotes.io/finding-work/preparing-for-applying/resume" target="_blank" rel="noopener noreferrer" class="">finding-work/preparing-for-applying/resume</a>: Updated with a detailed guide on resume preparation and clarity improvements to existing content.</li>
+<li class=""><a href="https://publicnotes.io/finding-work/preparing-for-applying/persian-communities" target="_blank" rel="noopener noreferrer" class="">finding-work/preparing-for-applying/persian-communities</a>: New page added with information on related Persian communities.</li>
+<li class=""><a href="https://publicnotes.io/tech/" target="_blank" rel="noopener noreferrer" class="">tech</a>: Three new pages added on technical topics, Docusaurus, and custom React components.</li>
+<li class=""><a href="https://publicnotes.io/tech/docusaurus/" target="_blank" rel="noopener noreferrer" class="">tech/docusaurus</a>: New section added on Docusaurus in the tech documentation.</li>
+<li class=""><a href="https://publicnotes.io/tech/docusaurus/custom-react-components" target="_blank" rel="noopener noreferrer" class="">tech/docusaurus/custom-react-components</a>: Three new pages added on custom React components in Docusaurus, Docusaurus itself, and a general tech page.</li>
+<li class=""><a href="https://publicnotes.io/tech/streaming-games" target="_blank" rel="noopener noreferrer" class="">tech/streaming-games</a>: New page added with instructions, requirements, and troubleshooting tips for streaming games from a PC to another device.</li>
+<li class=""><a href="https://publicnotes.io/tech/large-language-models" target="_blank" rel="noopener noreferrer" class="">tech/large-language-models</a>: New page created with detailed information on Large Language Models, including usage, types, parameters, and tips for using ChatGPT.</li>
+<li class=""><a href="https://publicnotes.io/tech/machine-learning/" target="_blank" rel="noopener noreferrer" class="">tech/machine-learning</a>: Two new pages added on Machine Learning and Text Datasets.</li>
+<li class=""><a href="https://publicnotes.io/tech/machine-learning/datasets" target="_blank" rel="noopener noreferrer" class="">tech/machine-learning/datasets</a>: New page added about machine learning datasets with links to three resources.</li>
+<li class=""><a href="https://publicnotes.io/tech/product-prototyping-tools" target="_blank" rel="noopener noreferrer" class="">tech/product-prototyping-tools</a>: New page created listing basic and advanced product prototyping tools.</li>
+<li class=""><a href="https://publicnotes.io/internal-utilities/" target="_blank" rel="noopener noreferrer" class="">internal-utilities</a>: New page added for internal utilities with a guide on embedding Wikimedia media in Markdown.</li>
+<li class=""><a href="https://publicnotes.io/internal-utilities/wikimedia-markdown" target="_blank" rel="noopener noreferrer" class="">internal-utilities/wikimedia-markdown</a>: Documentation updated with a new tool for converting Wikimedia HTML embed code to Markdown.</li>
 </ul>]]></content:encoded>
             <author>mail@ahmadalli.net (Ahmadali)</author>
         </item>
@@ -119,15 +119,15 @@
             <description><![CDATA[This is the first changelog, so here's the top level categories that I've created from the beginning:]]></description>
             <content:encoded><![CDATA[<p>This is the first changelog, so here's the top level categories that I've created from the beginning:</p>
 <ul>
-<li><a href="https://publicnotes.io/">Intro</a></li>
-<li><a href="https://publicnotes.io/a-guide-to-writing/">A Guide to Writing</a></li>
-<li><a href="https://publicnotes.io/netherlands/">Netherlands</a></li>
-<li><a href="https://publicnotes.io/finding-work/">Finding Work</a></li>
-<li><a href="https://publicnotes.io/problem-solving/">Problem Solving</a></li>
-<li><a href="https://publicnotes.io/home-errands/">Home Errands</a></li>
-<li><a href="https://publicnotes.io/projects/">Projects</a></li>
-<li><a href="https://publicnotes.io/phenomena/">Phenomena</a></li>
-<li><a href="https://publicnotes.io/soft-skills/">Soft Skills</a></li>
+<li class=""><a class="" href="https://publicnotes.io/">Intro</a></li>
+<li class=""><a class="" href="https://publicnotes.io/a-guide-to-writing/">A Guide to Writing</a></li>
+<li class=""><a class="" href="https://publicnotes.io/netherlands/">Netherlands</a></li>
+<li class=""><a class="" href="https://publicnotes.io/finding-work/">Finding Work</a></li>
+<li class=""><a class="" href="https://publicnotes.io/problem-solving/">Problem Solving</a></li>
+<li class=""><a class="" href="https://publicnotes.io/home-errands/">Home Errands</a></li>
+<li class=""><a class="" href="https://publicnotes.io/projects/">Projects</a></li>
+<li class=""><a class="" href="https://publicnotes.io/phenomena/">Phenomena</a></li>
+<li class=""><a class="" href="https://publicnotes.io/soft-skills/">Soft Skills</a></li>
 </ul>]]></content:encoded>
             <author>mail@ahmadalli.net (Ahmadali)</author>
         </item>

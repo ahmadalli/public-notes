@@ -1,6 +1,6 @@
 import ChildPages from '@site/src/components/child-pages';
 
-# Car
+# Cars
 
 ## Table of Contents
 

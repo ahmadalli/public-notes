@@ -6,6 +6,43 @@
 
 :::
 
+## Defining the Criteria
+
+Defining the criteria helps you narrow down the search results to a manageable number of candidates. It starts with a budget (the maximum amount you're willing to spend). For the rest, I ended up focusing on a single brand and model, a minimum year, and a mileage range where I could find reasonable cars. You can also put your budget range into [aggregator sites](#finding-a-car) to get an idea of which models and criteria are available within your budget.
+
+Answering these questions can help you define the criteria:
+
+- What do you need the car for? Long-distance travel, city driving, commuting to work, short trips, etc.
+- Is there a specific brand or model that you're interested in?
+  - If it's a premium brand, are you willing to pay a premium price for it and its maintenance costs?
+- Do you want an electric car?
+- Do you want a manual or automatic transmission?
+- Which features are you willing to pay a premium for?
+- (For older cars) Do you prefer more reliable brands ([Hunch] like Toyota)?
+- Are you okay with buying an imported car? Imported cars might be riskier, but they're often a bit cheaper than local cars with the same mileage and year.
+- Do you want to buy a car from a private seller or a dealership?
+
+## Finding a Car
+
+:::tip
+
+Ideally, set up an automation that regularly (e.g. every 10 minutes) checks aggregator sites for new listings. It's possible that good candidate cars are reserved for a test drive and sold very quickly—faster than aggregator email alerts.
+
+:::
+
+I checked the following places because I wanted to buy my car from a dealership:
+
+- [Gaspedaal](https://www.gaspedaal.nl)
+- [Autotrack](https://www.autotrack.nl)
+- [Autowereld](https://www.autowereld.nl)
+
+These are other options that I didn't use:
+
+- [Marktplaats](https://www.marktplaats.nl): Most common place for private sellers.
+- [Autoscout24](https://www.autoscout24.nl)
+- [Nederland Mobiel](https://www.nederlandmobiel.nl)
+- [Auto Hero](https://www.autohero.com)
+
 ## What to Check
 
 ### Car History Report
@@ -73,6 +110,7 @@ Some sellers share the car's maintenance history in their listing, which is a go
   - Scratches or dents
   - Any misalignments between different parts of the exterior. They might be a sign of an accident or repair work that may not have been reported in the history reports.
   - Different shades of paint might be a sign of a repair job.
+- Professional inspection (e.g. [Expert2Go](https://www.expert2go.nl)): Especially if you're buying a car from a private seller, a professional inspection can help you find hidden issues.
 
 ### Red Flags
 

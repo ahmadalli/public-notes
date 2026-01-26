@@ -28,6 +28,12 @@
 - helm
 - k9s
 
+#### Python
+
+- pipx
+- poetry
+- pipenv
+
 ### Work Software
 
 - Slack
@@ -64,6 +70,7 @@
 #### Useful Extensions
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - I'm looking for a better alternative as Gitlense has become a bloated extension in the recent years. VS Code's built-in "Blame Editor Decoration" feature is a good alternative for one of my most used features, I'm looking for a tooling that supports copying remote URLs referencing the selected lines, or remote URLs referencing the file from the context menu.
 - [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
@@ -74,6 +81,8 @@
     ```
 - [Markdown Snippets for MDX and Docusaurus](https://marketplace.visualstudio.com/items?itemName=MisterMunchkin.simple-markdown-snippets)
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [shfmt](https://open-vsx.org/extension/mkhl/shfmt)
+  - It requires `shfmt` to be installed
 
 #### Common Configurations
 

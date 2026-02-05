@@ -1,6 +1,10 @@
-# Adobe Lightroom Classic
+# Adobe Lightroom
 
-## Catalogue Issues
+## Edit Versioning
+
+I use the following pattern to name my edit versions: `<Color/Monochrome> - <Mood/Tone, e.g. Saturated> - <Target, e.g. Web> - <version number, e.g. v1>`
+
+## Catalogue Issues in Classic
 
 ### Catalogue Size
 

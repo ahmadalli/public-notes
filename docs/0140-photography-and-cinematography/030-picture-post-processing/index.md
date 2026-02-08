@@ -39,6 +39,10 @@ If you can't find a good cut, maybe the photo was not composed well in the first
 
 :::
 
+### Removal
+
+Look for objects or people that are not part of your ideal look and feel. I use lightroom's `AI Removal` tool to remove them.
+
 ### Color Correction
 
 For raw photos, change the color profile from `Adobe Color` to other profiles and see how it improves the photo. For most cases, except for portraits, `Adobe Landscape` profile works well.

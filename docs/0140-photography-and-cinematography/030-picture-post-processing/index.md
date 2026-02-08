@@ -111,6 +111,10 @@ Here are some tips:
 
 - Check different parts of the photo after sharpening it. Over sharpening can be damaging.
 
+## Tools
+
+- [PixelPeeper](https://pixelpeeper.com/app): You can inspect the changes made to a photo using PixelPeeper.
+
 ## Read More
 
 <ChildPages depth={2} />

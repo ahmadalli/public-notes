@@ -45,6 +45,7 @@ After setting up Toon sensors and thermostat integrations in Home Assistant, my 
    mv /qmf/sbin/hdrv_hue /qmf/sbin/hdrv_hue.disabled
    mv /qmf/sbin/happ_smartplug /qmf/sbin/happ_smartplug.disabled
    mv /qmf/sbin/hcb_bxtproxy /qmf/sbin/hcb_bxtproxy.disabled
+   mv /qmf/sbin/happ_kpi /qmf/sbin/happ_kpi.disabled
    # History related components are not needed as I keep the history in Home Assistant
    mv /qmf/sbin/happ_pwrusage /qmf/sbin/happ_pwrusage.disabled
    mv /qmf/sbin/hcb_rrd /qmf/sbin/hcb_rrd.disabled # this was the biggest culprit in my case

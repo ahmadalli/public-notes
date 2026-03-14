@@ -19,7 +19,7 @@ Consumer drones activities are regulated by the EASA under the [Open Category](h
 
 ### Apps
 
-- Netherlands: [GoDrone](https://www.altitudeangel.com/solutions/godrone)
+- Netherlands: [GoDrone](https://map.godrone.nl/)
 - Luxembourg: [geoportail.lu](https://www.geoportail.lu/en/applications/mobile-apps/) -> The apps still seem to be supported and up to date and the Android app has a better UI compared to the web app in my phone.
 - Germany: [Droniq Maps](https://droniq.de/en/droniq-maps/)
 - France: Cartes IGN -> [Android](https://play.google.com/store/apps/details?id=fr.ign.geoportail), [iOS](https://apps.apple.com/nl/app/cartes-ign/id748345888)

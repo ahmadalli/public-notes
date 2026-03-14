@@ -9,7 +9,7 @@ Most of the items in here should be changed in the way that best serves the stor
 ## Recommended Resources
 
 - [This document](https://studentcabletelevision.com/wp-content/uploads/2018/05/Color-Grading-Guide-Updated-Spring-2018.pdf) ([web archive link](https://web.archive.org/web/20231220082026/https://studentcabletelevision.com/wp-content/uploads/2018/05/Color-Grading-Guide-Updated-Spring-2018.pdf)) for getting a better understanding of terminology and concepts.
-- [Scott Kelby's Lightroom 7-Point System](https://www.goodreads.com/book/show/57951601-scott-kelby-s-lightroom-7-point-system) As a begginer, this books helped me to create my workflow and know different techniques to achieve the desired look.
+- [Scott Kelby's Lightroom 7-Point System](https://www.goodreads.com/book/show/57951601-scott-kelby-s-lightroom-7-point-system) As a beginner, this books helped me to create my workflow and know different techniques to achieve the desired look.
 - [This video](https://www.youtube.com/watch?v=KNFaqwk8-ps) had a good example for the post-processing process.
 -
 
@@ -57,7 +57,7 @@ If there are still purple or green fringes, you can use the `Defringe` slider to
 
 ### Lighting
 
-I usually start with the `Auto` mode, to have a good starting point. If that didn't work, instead of auto-adjusting all sliders, you can auto-adjust sliders deparately by pressing the `Shift` key then clicking the slider. Lightroom usually handles `Blacks` and `Whites` auto-adjustment well.
+I usually start with the `Auto` mode, to have a good starting point. If that didn't work, instead of auto-adjusting all sliders, you can auto-adjust sliders separately by pressing the `Shift` key then clicking the slider. Lightroom usually handles `Blacks` and `Whites` auto-adjustment well.
 
 Lightning adjustments differ from photo to photo, and you need to experiment with different settings to find the one that works best. Here are some changes you can try:
 
@@ -78,13 +78,13 @@ Here are some tips:
 
 ### Noise Reduction
 
-Depending on the capture conditions, e.g. for low-light high ISO photos, noise reduction is useful and greatly improves the photo. Lightroon's AI denoise is useful for this. [This video](https://www.youtube.com/watch?v=yvb9S66KG3A) is a good tutorial on manually reducing the noise instead of using the denoise tool.
+Depending on the capture conditions, e.g. for low-light high ISO photos, noise reduction is useful and greatly improves the photo. Lightroom's AI denoise is useful for this. [This video](https://www.youtube.com/watch?v=yvb9S66KG3A) is a good tutorial on manually reducing the noise instead of using the denoise tool.
 
 ### Effects
 
 I usually increase `Texture`, `Clarity`, and `Dehaze`. Play with these to see which one works best to get the desired look. Here are some tips:
 
-- Increasing `Clarity` makes water or metal surfaces shiny and nicers, but has negative effect on people's skin.
+- Increasing `Clarity` makes water or metal surfaces shiny and nicer, but has negative effect on people's skin.
 - `Dehaze` make the photo darker, but to me it also makes the blacks deeper and punchier.
 
 Also, try adding a bit of `Vignette` (around `-10`) to the photo to draw attention to the subject and see how it looks.
@@ -94,8 +94,8 @@ Also, try adding a bit of `Vignette` (around `-10`) to the photo to draw attenti
 Use masks to selectively apply adjustments to specific areas of the photo. Almost all the adjustments can be applied on masks. There are different types of masks in Lightroom:
 
 - Masks like `Subject`, `Background`, `Sky`, etc. Lightroom tries to automatically detect these and create the mask for you. Give them a try and see how accurate they are, but sometimes it doesn't work well.
-- `Brusn` masks are usefule to manually create the mask. When edges are clear, `auto mask` can help making the brush selection easier and more accurate.
-- `Linear Gradient` masks are useful for creating a smooth transition patter, similar to how light falls off on the scene.
+- `Brush` masks are useful to manually create the mask. When edges are clear, `auto mask` can help making the brush selection easier and more accurate.
+- `Linear Gradient` masks are useful for creating a smooth transition pattern, similar to how light falls off on the scene.
 - `Radial Gradient` masks are useful for creating a circular pattern, emphasizing a part of the scene.
 - `Range` masks are useful, specially when combined with other masks, to balance the tone and colors, or bring out the details.
 
@@ -105,7 +105,7 @@ Here are some tips:
 
 ### Details
 
-Use `Sharpening` to bring out the details of the subject. Almost all the photos benefit from increasint the sharpening.
+Use `Sharpening` to bring out the details of the subject. Almost all the photos benefit from increasing the sharpening.
 
 Here are some tips:
 

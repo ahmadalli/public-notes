@@ -10,7 +10,7 @@ Here you can see the iterative approach taken by Boston Dynamics to build their 
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/qtos3ezujn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-By compounding the results of each iteration, and gathering feedback as fast as possible, iterative approach makes it possible to achieve good results when we're facing a [wick problem](../0080-phenomena/010-wicked-problem.md).
+By compounding the results of each iteration, and gathering feedback as fast as possible, iterative approach makes it possible to achieve good results when we're facing a [wicked problem](../0080-phenomena/010-wicked-problem.md).
 
 ## Judging Other People's Work
 

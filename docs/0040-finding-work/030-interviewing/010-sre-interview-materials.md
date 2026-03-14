@@ -14,5 +14,3 @@ sidebar_position: 10
 ### Technical Interviews
 
 - [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
-
-###

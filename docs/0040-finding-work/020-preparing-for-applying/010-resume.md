@@ -1,7 +1,3 @@
----
-sidebar_position: 10
----
-
 # Resume
 
 From previous experience, I take an iterative approach to improve my resume. I start with **structure**, then **wording and formatting**, and finally **content**.

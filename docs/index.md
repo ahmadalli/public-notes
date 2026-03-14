@@ -1,7 +1,3 @@
----
-sidebar_position: 10
----
-
 # Intro
 
 This is documentation of my ideas, thoughts, and experiences.

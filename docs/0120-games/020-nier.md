@@ -1,7 +1,3 @@
----
-sidebar_position: 10
----
-
 # Nier and Drakengard Series
 
 I've started playing Nier:Automata and I fell in love with the story. Afterwards the game's background got me interested and I decided to play Nier:Replicant as well and I enojoyed because of different reasons.

@@ -1,7 +1,3 @@
----
-sidebar_position: 30
----
-
 import ChildPages from '@site/src/components/child-pages';
 
 # Netherlands

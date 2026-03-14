@@ -1,10 +1,7 @@
----
-sidebar_position: 120
----
+import ChildPages from '@site/src/components/child-pages';
 
 # Games
 
-import ChildPages from '@site/src/components/child-pages';
 
 All about games I play and like, from board games to video games.
 

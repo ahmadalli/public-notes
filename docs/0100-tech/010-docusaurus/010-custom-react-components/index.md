@@ -1,7 +1,3 @@
----
-sidebar_position: 10
----
-
 # Custom React Components
 
 1. Create a new React component in `src/components/` folder.

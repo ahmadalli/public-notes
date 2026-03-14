@@ -1,7 +1,3 @@
----
-sidebar_position: 10
----
-
 # Iteration
 
 In my opinion, iterative approach means that you're trying to solve a problem by breaking your steps into a lot of small steps, and gather feedback after each step to see if you're on the right track. If you're not on the right track, you can change your direction and try again.

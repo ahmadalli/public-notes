@@ -1,7 +1,3 @@
----
-sidebar_position: 50
----
-
 # Product Prototyping Tools
 
 ## Basic Tools

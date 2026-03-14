@@ -1,7 +1,3 @@
----
-sidebar_position: 20
----
-
 # Structured Storytelling
 
 The contents of this entry are based on lessons from [Lepaya](https://lepaya.com/)'s structured storytelling module.

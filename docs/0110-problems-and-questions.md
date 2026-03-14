@@ -1,7 +1,3 @@
----
-sidebar_position: 110
----
-
 # Problems and Questions
 
 These are the **problems** I find in the world. By **problem** I don't mean things that are wrong in the world, but things like inconveniences, situations where one party is not happy, or things that could be improved.

@@ -1,7 +1,3 @@
----
-sidebar_position: 10
----
-
 # Legal Preparations
 
 Flying drones and taking footage with them requires some legal preparations. Here I'm writing about the legal preparations that are needed in EU:

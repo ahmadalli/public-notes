@@ -1,6 +1,3 @@
----
-sidebar_position: 40
----
 import ChildPages from '@site/src/components/child-pages';
 
 # Finding Work

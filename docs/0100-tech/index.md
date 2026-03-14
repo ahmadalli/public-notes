@@ -1,6 +1,3 @@
----
-sidebar_position: 100
----
 import ChildPages from '@site/src/components/child-pages';
 
 # Tech

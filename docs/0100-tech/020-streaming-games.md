@@ -1,7 +1,3 @@
----
-sidebar_position: 20
----
-
 # Streaming Games
 
 To stream games from your PC to another device, like your TV or your phone.

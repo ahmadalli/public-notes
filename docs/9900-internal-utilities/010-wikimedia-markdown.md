@@ -1,6 +1,3 @@
----
-sidebar_position: 10
----
 import WikimediaToMarkdown from '@site/src/components/wikimedia-markdown';
 
 # Wikimedia Embedding in Markdown

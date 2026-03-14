@@ -1,7 +1,3 @@
----
-sidebar_position: 20
----
-
 # Persian Communities
 
 Here are some Persian communities that are active on topics related to finding work:

@@ -1,7 +1,3 @@
----
-sidebar_position: 80
----
-
 # Political System
 
 This video provides a good overview of the Dutch political system:

@@ -1,7 +1,3 @@
----
-sidebar_position: 70
----
-
 # Gaming on Casio Prizm
 
 I had a Casio fx-CG50 calculator nearby for a short time and looked into the games that can be played on it:

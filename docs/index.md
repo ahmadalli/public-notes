@@ -12,7 +12,7 @@ You shouldn't take the content in here as professional advice or guidance. Consi
 
 ## Recent Updates
 
-<RecentUpdates maxItems={10} showDate={true} />
+<RecentUpdates maxItems={10} showDate={true} showChangeNote={true} />
 
 ## Getting Updates
 

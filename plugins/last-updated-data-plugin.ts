@@ -1,13 +1,33 @@
+import { execSync } from "child_process";
+import * as path from "path";
 import type { LoadContext, Plugin } from "@docusaurus/types";
 import type { LoadedContent } from "@docusaurus/plugin-content-docs";
 
-type LastUpdatedEntry = {
+export type LastUpdatedEntry = {
   id: string;
   title: string;
   permalink: string;
   lastUpdatedAt: number | null;
+  lastCommitMessage: string | null;
   sourceDirName: string;
 };
+
+function getLastCommitMessage(siteDir: string, docSource: string): string | null {
+  try {
+    // doc.source is like "@site/docs/foo/bar.md" — strip the "@site/" prefix
+    const relPath = docSource.startsWith("@site/")
+      ? docSource.slice("@site/".length)
+      : docSource;
+    const absPath = path.join(siteDir, relPath);
+    const result = execSync(`git log --format="%s" -1 -- "${absPath}"`, {
+      cwd: siteDir,
+      encoding: "utf8",
+    }).trim();
+    return result || null;
+  } catch {
+    return null;
+  }
+}
 
 type DirInfo = {
   title: string;
@@ -47,6 +67,7 @@ export default function lastUpdatedDataPlugin(
             title: doc.title,
             permalink: doc.permalink,
             lastUpdatedAt: doc.lastUpdatedAt ?? null,
+            lastCommitMessage: getLastCommitMessage(context.siteDir, doc.source),
             sourceDirName: doc.sourceDirName,
           });
 

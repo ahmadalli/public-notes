@@ -6,6 +6,7 @@ import type { LastUpdatedData } from "@site/plugins/last-updated-data-plugin";
 type RecentUpdatesProps = {
   maxItems?: number;
   showDate?: boolean;
+  showChangeNote?: boolean;
 };
 
 type BreadcrumbPart = {
@@ -44,6 +45,7 @@ function buildBreadcrumbParts(
 const RecentUpdates: React.FC<RecentUpdatesProps> = ({
   maxItems = 10,
   showDate = true,
+  showChangeNote = true,
 }) => {
   const data = usePluginData(
     "docusaurus-plugin-last-updated-data",
@@ -77,7 +79,24 @@ const RecentUpdates: React.FC<RecentUpdatesProps> = ({
                 )}
               </React.Fragment>
             ))}
-            {showDate && entry.lastUpdatedAt && (
+            {showChangeNote && entry.lastCommitMessage && (() => {
+              const colonIdx = entry.lastCommitMessage.indexOf(": ");
+              const note = colonIdx !== -1
+                ? entry.lastCommitMessage.slice(colonIdx + 2)
+                : null;
+              if (!note) return null;
+              const capitalised = note.charAt(0).toUpperCase() + note.slice(1);
+              const datePart = showDate && entry.lastUpdatedAt
+                ? " @ " + new Date(entry.lastUpdatedAt).toLocaleDateString(
+                    "en-US",
+                    { year: "numeric", month: "short", day: "numeric" },
+                  )
+                : "";
+              return (
+                <small>{": "}{capitalised}{datePart}</small>
+              );
+            })()}
+            {!showChangeNote && showDate && entry.lastUpdatedAt && (
               <>
                 {" — "}
                 <small>

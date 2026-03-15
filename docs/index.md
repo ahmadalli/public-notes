@@ -1,4 +1,4 @@
-import RecentChanges from '@site/src/components/recent-changes';
+import RecentUpdates from '@site/src/components/recent-changes';
 
 # Intro
 
@@ -10,9 +10,9 @@ You shouldn't take the content in here as professional advice or guidance. Consi
 
 :::
 
-## Recent Changes
+## Recent Updates
 
-<RecentChanges maxItems={10} showDate={true} />
+<RecentUpdates maxItems={10} showDate={true} />
 
 ## Getting Updates
 

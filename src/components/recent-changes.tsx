@@ -3,12 +3,12 @@ import { usePluginData } from "@docusaurus/useGlobalData";
 import Link from "@docusaurus/Link";
 import type { LastUpdatedData } from "@site/plugins/last-updated-data-plugin";
 
-type RecentChangesProps = {
+type RecentUpdatesProps = {
   maxItems?: number;
   showDate?: boolean;
 };
 
-const RecentChanges: React.FC<RecentChangesProps> = ({
+const RecentUpdates: React.FC<RecentUpdatesProps> = ({
   maxItems = 10,
   showDate = true,
 }) => {
@@ -44,4 +44,4 @@ const RecentChanges: React.FC<RecentChangesProps> = ({
   );
 };
 
-export default RecentChanges;
+export default RecentUpdates;

@@ -115,6 +115,12 @@ Here are some tips:
 
 - [PixelPeeper](https://pixelpeeper.com/app): You can inspect the changes made to a photo using PixelPeeper.
 
+## Alternative Approaches
+
+### Digital Art
+
+- [I LOVE this abstract fine art photo technique! (Easy Photoshop tutorial)](https://www.youtube.com/watch?v=jzGy_B9yhLI)
+
 ## Read More
 
 <ChildPages depth={2} />

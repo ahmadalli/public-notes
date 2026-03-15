@@ -1,3 +1,5 @@
+import RecentChanges from '@site/src/components/recent-changes';
+
 # Intro
 
 This is documentation of my ideas, thoughts, and experiences.
@@ -7,6 +9,10 @@ This is documentation of my ideas, thoughts, and experiences.
 You shouldn't take the content in here as professional advice or guidance. Consider them as a starting point for your own research and understanding. Consult with professionals when needed.
 
 :::
+
+## Recent Changes
+
+<RecentChanges maxItems={10} showDate={true} />
 
 ## Getting Updates
 

@@ -131,6 +131,7 @@ const config: Config = {
         indexBaseUrl: true,
       },
     ],
+    "./plugins/last-updated-data-plugin.ts",
   ],
 
   markdown: {

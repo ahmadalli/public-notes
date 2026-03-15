@@ -149,5 +149,5 @@ If you're eligible for 30% ruling, your employer should apply for it within 4 mo
 
 ## Other Useful Resources
 
-- [<Icon icon="fa-brands fa-reddit" size="lg" /> r/Nederlands FAQ](https://www.reddit.com/r/Netherlands/comments/12lt3d9/faq_read_this_post_before_posting/)
+- [r/Nederlands FAQ](https://www.reddit.com/r/Netherlands/comments/12lt3d9/faq_read_this_post_before_posting/)
 - (In Persian ) [A guide to moving to the Netherlands](https://datachef.co/pdfs/immigration-to-netherlands/)

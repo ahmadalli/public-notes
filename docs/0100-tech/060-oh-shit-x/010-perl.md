@@ -33,7 +33,7 @@ This happens because `==` is for numbers only, and strings without any numbers i
 print "123aaa" + 2; # this will return 125
 ```
 
-[<Icon icon="fa-brands fa-stack-overflow" size="lg" /> This is used](https://stackoverflow.com/a/8539065/1003464) to convert strings to int as well.
+[This is used](https://stackoverflow.com/a/8539065/1003464) to convert strings to int as well.
 
 ### `q` and `qq`
 
@@ -80,7 +80,7 @@ while ($str =~ /(\w+)/g) {
 ### Precedence
 
 - [Operator Precedence and Associativity](https://perldoc.perl.org/perlop#Operator-Precedence-and-Associativity)
-- [<Icon icon="fa-brands fa-stack-overflow" size="lg" /> Why do Perl's logical operators &&, ||, ! take precedence over and, or, and not?](https://stackoverflow.com/q/15193327/1003464)
+- [Why do Perl's logical operators &&, ||, ! take precedence over and, or, and not?](https://stackoverflow.com/q/15193327/1003464)
 
 ### Secret Operators
 
@@ -291,4 +291,4 @@ This function creates a lot of confusion because there's no guarantee that the f
 ## More Resources
 
 - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
-  - [<Icon icon="fa-brands fa-y-combinator" size="lg" /> YC discussion](https://news.ycombinator.com/item?id=37040681)
+  - [YC discussion](https://news.ycombinator.com/item?id=37040681)

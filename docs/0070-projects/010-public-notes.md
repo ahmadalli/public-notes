@@ -34,7 +34,7 @@ I aim to achieve the following goals with this project:
 - ▶️ Markdown links can derive their titles from the linked document, similar to the functionality provided by Confluence.
 - ▶️ If we can track a document, then we can create an update history for it.
 - ~~▶️ Keeping writing format consistent. For example, period at the end of a sentence, capitalization, etc.~~
-- ▶️ Automatically add icons to external links.
+- ~~▶️ Automatically add icons to external links.~~
 
 ### Solutions
 

@@ -22,7 +22,7 @@ It can be a story, a question, a quote, a video, or a picture. It should be some
 
 ### Main Message
 
-You can use [<Icon icon="fa-brands fa-medium" size="lg" /> pyramid principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) to structure your main message. In summary, you start with the conclusion, and then you support your conclusion with arguments, and then you support your arguments with facts and data. Then you can finish up by restating your conclusion.
+You can use [pyramid principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) to structure your main message. In summary, you start with the conclusion, and then you support your conclusion with arguments, and then you support your arguments with facts and data. Then you can finish up by restating your conclusion.
 
 ### Ending
 
@@ -30,8 +30,8 @@ Your ending should be related to your starter. It should be something that makes
 
 ### Other Resources
 
-- [<Icon icon="fa-brands fa-goodreads" size="lg" /> The Pyramid Principle: Logic in Writing and Thinking](https://www.goodreads.com/en/book/show/62214145)
-- [<Icon icon="fa-brands fa-goodreads" size="lg" /> Resonate: Present Visual Stories that Transform Audiences](https://www.goodreads.com/en/book/show/7970507)
+- [The Pyramid Principle: Logic in Writing and Thinking](https://www.goodreads.com/en/book/show/62214145)
+- [Resonate: Present Visual Stories that Transform Audiences](https://www.goodreads.com/en/book/show/7970507)
 
 ## Audience
 

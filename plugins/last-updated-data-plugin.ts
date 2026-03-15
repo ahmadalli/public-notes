@@ -6,9 +6,18 @@ type LastUpdatedEntry = {
   title: string;
   permalink: string;
   lastUpdatedAt: number | null;
+  sourceDirName: string;
 };
 
-export type LastUpdatedData = LastUpdatedEntry[];
+type DirInfo = {
+  title: string;
+  permalink: string;
+};
+
+export type LastUpdatedData = {
+  entries: LastUpdatedEntry[];
+  dirInfoMap: Record<string, DirInfo>;
+};
 
 export default function lastUpdatedDataPlugin(
   context: LoadContext,
@@ -27,7 +36,9 @@ export default function lastUpdatedDataPlugin(
         return;
       }
 
-      const entries: LastUpdatedData = [];
+      const entries: LastUpdatedEntry[] = [];
+      // Map from sourceDirName → { title, permalink }, built from index.md docs
+      const dirInfoMap: Record<string, DirInfo> = {};
 
       for (const version of docsContent.loadedVersions) {
         for (const doc of version.docs) {
@@ -36,7 +47,13 @@ export default function lastUpdatedDataPlugin(
             title: doc.title,
             permalink: doc.permalink,
             lastUpdatedAt: doc.lastUpdatedAt ?? null,
+            sourceDirName: doc.sourceDirName,
           });
+
+          // If this doc is an index page of a directory, record its title and permalink
+          if (doc.source.endsWith("/index.md")) {
+            dirInfoMap[doc.sourceDirName] = { title: doc.title, permalink: doc.permalink };
+          }
         }
       }
 
@@ -47,7 +64,7 @@ export default function lastUpdatedDataPlugin(
         return bTime - aTime;
       });
 
-      setGlobalData(entries);
+      setGlobalData({ entries, dirInfoMap });
     },
   };
 }

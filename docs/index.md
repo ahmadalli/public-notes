@@ -1,4 +1,4 @@
-import RecentUpdates from '@site/src/components/recent-changes';
+import RecentUpdates from '@site/src/components/recent-updates';
 
 # Intro
 

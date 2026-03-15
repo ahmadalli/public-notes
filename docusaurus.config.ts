@@ -1,10 +1,7 @@
+// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
-import { themes } from "prism-react-renderer";
-
-const lightCodeTheme = themes.github;
-const darkCodeTheme = themes.dracula;
 
 const config: Config = {
   title: "Public Notes",
@@ -118,8 +115,8 @@ const config: Config = {
       defaultMode: "dark",
     },
     prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
       additionalLanguages: ["python", "perl"],
     },
   } satisfies Preset.ThemeConfig,

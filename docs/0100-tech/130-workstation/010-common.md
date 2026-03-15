@@ -97,3 +97,7 @@
 - `browser.tabs.insertAfterCurrent`: true
 - `sidebar.verticalTabs`: true
   - In the sidebar settings, enable `Expand sidebar on hover`
+
+#### Recommended Extensions
+
+- **[LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)**: I use it in my phone (which I hadn't logged into Twitter) redirect Twitter links to nitter.

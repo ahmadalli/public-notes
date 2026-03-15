@@ -95,6 +95,7 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
 - [Tikkie](https://www.tikkie.me/): This is a payment request app that is very popular in the Netherlands.
   - [Android](https://play.google.com/store/apps/details?id=com.abnamro.nl.tikkie)
   - [iOS](https://apps.apple.com/nl/app/tikkie/id1112935685)
+- [Eerlijke Geldwijzer](https://eerlijkegeldwijzer.nl/bankwijzer/hoe-scoort-jouw-bank/): See how banks score on environmental and social criteria.
 
 ### Budgeting and Spending Tracker
 

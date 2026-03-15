@@ -8,6 +8,7 @@
 ## Useful Integrations
 
 - [Better Thermostat](https://better-thermostat.org/)
+- [Scheduler Component](https://github.com/nielsfaber/scheduler-component) and [Scheduler Card](https://github.com/nielsfaber/scheduler-card): I use them for managing the thermostat schedule.
 
 ## Device Integrations
 

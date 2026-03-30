@@ -6,7 +6,17 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Public Notes",
   tagline: "documentation of ideas, thoughts, and experiences",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
+  headTags: [
+    {
+      tagName: "link",
+      attributes: {
+        rel: "icon",
+        href: "/img/logo.png",
+        type: "image/png",
+      },
+    },
+  ],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

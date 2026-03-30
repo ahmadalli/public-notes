@@ -11,7 +11,6 @@ Most of the items in here should be changed in the way that best serves the stor
 - [This document](https://studentcabletelevision.com/wp-content/uploads/2018/05/Color-Grading-Guide-Updated-Spring-2018.pdf) ([web archive link](https://web.archive.org/web/20231220082026/https://studentcabletelevision.com/wp-content/uploads/2018/05/Color-Grading-Guide-Updated-Spring-2018.pdf)) for getting a better understanding of terminology and concepts.
 - [Scott Kelby's Lightroom 7-Point System](https://www.goodreads.com/book/show/57951601-scott-kelby-s-lightroom-7-point-system) As a beginner, this books helped me to create my workflow and know different techniques to achieve the desired look.
 - [This video](https://www.youtube.com/watch?v=KNFaqwk8-ps) had a good example for the post-processing process.
--
 
 ## The Process
 

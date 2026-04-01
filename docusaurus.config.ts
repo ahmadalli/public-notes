@@ -6,14 +6,14 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Public Notes",
   tagline: "documentation of ideas, thoughts, and experiences",
-  favicon: "img/logo.png",
+  favicon: "img/logo.svg",
   headTags: [
     {
       tagName: "link",
       attributes: {
         rel: "icon",
-        href: "/img/logo.png",
-        type: "image/png",
+        href: "/img/logo.svg",
+        type: "image/svg+xml",
       },
     },
   ],
@@ -91,7 +91,7 @@ const config: Config = {
       title: "Public Notes",
       logo: {
         alt: "Logo",
-        src: "img/logo.png",
+        src: "img/logo.svg",
       },
       items: [
         {

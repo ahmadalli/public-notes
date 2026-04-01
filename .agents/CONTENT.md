@@ -460,6 +460,14 @@ For conversational examples or suggested responses:
 > I'm not actively looking for a new job. But I'm open to new opportunities.
 ```
 
+When a blockquote contains verbatim external text (tweets, Reddit posts, etc.) with words Vale flags that the author did not write and cannot fix, wrap it with Vale suppression comments:
+
+```markdown
+<!-- vale off -->
+> Verbatim external quote with unconventional spelling or jargon.
+<!-- vale on -->
+```
+
 ---
 
 ## Sentences and Transitions

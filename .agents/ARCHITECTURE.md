@@ -116,3 +116,26 @@ Vale is configured in `.vale.ini` with `MinAlertLevel = suggestion`:
 - **Custom rule**: `PublicNotes/HeadingsStyle` enforces AP title-style headings.
 - **Vocabulary**: `.vale/config/vocabularies/PublicNotes/accept.txt` has accepted terms. Add new terms here if Vale flags legitimate words.
 - MDX files are treated as Markdown (`mdx = md` in config).
+
+### accept.txt Rules
+
+- **Comment syntax**: Comments require `# ` (hash + space). A bare `#word` with no space is treated as a regex pattern, not a comment.
+- **Entries are regex patterns**: Use `(?i)Kubernetes` for case-insensitive matching, or `[aA]udiobook` for explicit variants. Standard regex syntax applies.
+- **Multi-word phrases do not work**: `Vale.Spelling` tokenizes word-by-word. `Flappy Bird` will only accept `Flappy`; list each word as a separate entry.
+- **File is organized into four groups** (keep entries in the right group):
+  - `# Proper nouns` — brand names, people, places, titles
+  - `# Dutch and foreign words` — non-English words used in English prose
+  - `# Abbreviations and acronyms` — all-caps abbreviations and mixed-case acronyms
+  - `# Technical jargon` — domain-specific terms not in Vale's dictionary
+
+### Inline Suppression
+
+Use `<!-- vale off -->` / `<!-- vale on -->` to suppress Vale on specific blocks:
+
+```markdown
+<!-- vale off -->
+> Verbatim quote from an external source with words I didn't write and can't fix.
+<!-- vale on -->
+```
+
+**When to use**: Wrap blockquotes containing verbatim external text (tweets, Reddit posts, etc.) where Vale flags words the author did not write and cannot change. Do not use suppression to avoid fixing real typos.

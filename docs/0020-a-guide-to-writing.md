@@ -17,7 +17,7 @@ Writings usually have a combination of these types. For example, a tutorial can 
 
 ### Audience
 
-It's also important to know for whom we are writing. For example, in these documents, I'm mostly writing for myself and people who are like-minded. It's important to clarify the audience so that the writing would not be a waste of time for both the writer and the reader.
+It's also important to know for whom we're writing. For example, in these documents, I'm mostly writing for myself and people who are like-minded. It's important to clarify the audience so that the writing would not be a waste of time for both the writer and the reader.
 
 ## Step 1: Creating the components of the writing
 
@@ -89,9 +89,9 @@ The OODA loop is a good model for creating the outline of the writing as it crea
 
 ### Using the OODA loop
 
-Now that we have the components and the problems, and we know what the OODA loop is, we can start creating the outline by using the OODA loop. It might be easier to start writing the outline from the **act** part of the loop and traverse the loop backwards. Act and decide are usually about the solution we're providing. Orient comes from the problem we've defined for the component and observe comes from facts about the context and the environment of the component.
+Now that we've gathered the components and the problems, and we know what the OODA loop is, we can start creating the outline by using the OODA loop. It might be easier to start writing the outline from the **act** part of the loop and traverse the loop backwards. Act and decide are usually about the solution we're providing. Orient comes from the problem we've defined for the component and observe comes from facts about the context and the environment of the component.
 
-At this stage, it's important to not get into the details of the writing. The goal is to create a high-level outline of the writing so each part should not be more than one or two sentences.
+At this stage, it's important to not get into the details of the writing. The goal is to create a high-level outline of the writing so each part shouldn't be more than one or two sentences.
 
 ### Example
 
@@ -99,11 +99,11 @@ _TBD_
 
 ## Step 4: Refinement
 
-At this stage, we have much more content than we need. We need to refine the content to make it more concise and to the point. We go through these steps to do this:
+At this stage, we've got much more content than we need. We need to refine the content to make it more concise and to the point. We go through these steps to do this:
 
 ### Audience's attention span
 
-The arc's length should not exceed the reader's attention span. On average it's around 10 minutes or five pages. So, we need to make sure that the arc doesn't take longer than that, otherwise the audience would lose interest. It doesn't mean that the arc should take exactly 10 minutes, it can be as short as a paragraph as well. It's also a good idea to keep the length of all arcs consistent.
+The arc's length shouldn't exceed the reader's attention span. On average it's around 10 minutes or five pages. So, we need to make sure that the arc doesn't take longer than that, otherwise the audience would lose interest. It doesn't mean that the arc should take exactly 10 minutes, it can be as short as a paragraph as well. It's also a good idea to keep the length of all arcs consistent.
 
 ### Triage
 
@@ -121,11 +121,11 @@ _TBD_
 
 ## Step 5: Writing up
 
-It's time to write up the content of each component. We've selected the components that we want to write, we have the OODA loops, and each component doesn't exceed the audience's attention span. So, we can start writing up the content of each component.
+It's time to write up the content of each component. We've selected the components that we want to write, we've got the OODA loops, and each component doesn't exceed the audience's attention span. So, we can start writing up the content of each component.
 
 ### The "tent pole" method
 
-We can use the "tent pole" method to write up the content of each component. The "tent pole" method is a method that is used in writing screenplays. It's a method for writing the key points of each scene in the screenplay. We can use this method to write the key points of each component.
+We can use the "tent pole" method to write up the content of each component. The "tent pole" method is a method that's used in writing screenplays. It's a method for writing the key points of each scene in the screenplay. We can use this method to write the key points of each component.
 
 So, we can do the following for each component:
 
@@ -134,7 +134,7 @@ So, we can do the following for each component:
 
 ### Structure
 
-Now we have lots of unstructured paragraphs. Next step would be to structure the writing so that it'll make it possible for the audience to explore through it since almost none would follow the writing in a linear way and they would skim through it to see if it's worth their time and look for the parts that are interesting to them.
+Now we've got lots of unstructured paragraphs. Next step would be to structure the writing so that it'll make it possible for the audience to explore through it since almost none would follow the writing in a linear way and they would skim through it to see if it's worth their time and look for the parts that are interesting to them.
 
 We can use the following tools to structure the writing:
 
@@ -160,7 +160,7 @@ These might be reasons why writing feels difficult or impossible:
 
 #### Lack of interest
 
-If there's a lack of interest in writing, maybe it's because the problem is not defined clearly, similar to the way we encourage the audience to read the writing. It's ok not to write anything and spend more time on finding the problem. So, we can just **spend more time on finding the problem**.
+If there's a lack of interest in writing, maybe it's because the problem isn't defined clearly, similar to the way we encourage the audience to read the writing. It's ok not to write anything and spend more time on finding the problem. So, we can just **spend more time on finding the problem**.
 
 #### Fear of failure
 
@@ -169,7 +169,7 @@ Fear of failure is a common blocker to writing. We can **start by intentionally 
 It'll have two benefits:
 
 1. The writing would not be as bad as it was imagined.
-1. We have something to iterate on, we can edit, rewrite, and improve it.
+1. We've got something to iterate on, we can edit, rewrite, and improve it.
 
 #### Hard to start
 

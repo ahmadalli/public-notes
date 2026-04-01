@@ -2,7 +2,7 @@
 
 ## Observations
 
-Compared to Iran, and what I've seen on other countries, there are some differences in the banking system in the Netherlands. The main difference is **credit cards are not common in here** and people mostly use debit cards.
+Compared to Iran, and what I've seen on other countries, there are some differences in the banking system in the Netherlands. The main difference is **credit cards aren't common in here** and people mostly use debit cards.
 
 The second difference is that Dutch banks used to use Maestro instead of Visa and Mastercard and because of that, [iDeal](#ideal) is the common payment gateway in the Netherlands. MasterCard is planned to be replacing Maestro from July 2023.
 
@@ -10,11 +10,11 @@ The second difference is that Dutch banks used to use Maestro instead of Visa an
 
 In the absence of Visa and Mastercard, iDeal is the payment gateway in the Netherlands. It doesn't abstract away the bank from the payment process, so the payment site you're using must also support your bank as well. And so you need to select your bank from the list of banks when you're paying with iDeal.
 
-It wouldn't be a problem with common Dutch banks but for banks like [Revolut][Revolut], I've seen places that did not support it when I didn't have a Dutch bank as my primary bank.
+It wouldn't be a problem with common Dutch banks but for banks like [Revolut][Revolut], I've seen places that didn't support it when I didn't have a Dutch bank as my primary bank.
 
 ## Tikkie
 
-[Tikkie][tikkie] is a payment service that is used to send payment requests to other people. It's mostly used to split bills between friends or transfer small amounts of money to each other.
+[Tikkie][tikkie] is a payment service that's used to send payment requests to other people. It's mostly used to split bills between friends or transfer small amounts of money to each other.
 
 ## International Payments
 
@@ -33,7 +33,7 @@ Direct debit is a common way of paying for subscriptions in the Netherlands. The
 
 ## Cash Exchange
 
-GWK Travelex has a lot of branches but their exchange rates and fees are **not good**. I've found [Pott Change][pott-change] to have better rates.
+GWK Travelex has a lot of branches but their exchange rates and fees aren't good. I've found [Pott Change][pott-change] to have better rates.
 
 [Revolut]: https://www.revolut.com/
 [geldmaat]: https://www.geldmaat.nl/

@@ -1,6 +1,6 @@
 # Problems and Questions
 
-These are the **problems** I find in the world. By **problem** I don't mean things that are wrong in the world, but things like inconveniences, situations where one party is not happy, or things that could be improved.
+These are the **problems** I find in the world. By **problem** I don't mean things that are wrong in the world, but things like inconveniences, situations where one party isn't happy, or things that could be improved.
 
 I'm writing them here as a starting point and might follow up with them in the future.
 

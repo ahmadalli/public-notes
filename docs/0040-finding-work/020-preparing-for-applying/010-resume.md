@@ -60,7 +60,7 @@ STAR model, which stands for Situation, Task, Action, and Result, is a useful fr
 
 ### Name and Title
 
-Use the same title that is used in the job description
+Use the same title that's used in the job description
 
 ### Contact
 
@@ -69,7 +69,7 @@ Include your email, phone number, and LinkedIn profile, and optionally your Gith
 ### Skills
 
 - Separate your skills into categories like programming languages, frameworks, tools, soft skills, etc
-- Do not use adjectives as an indicator of your proficiency in a skill. Instead, quantify your proficiency in a skill by using numbers or words like "proficient", "familiar", etc. For example, use `I'm 80% proficient in Python` instead of `I'm good at Python.`.
+- Don't use adjectives as an indicator of your proficiency in a skill. Instead, quantify your proficiency in a skill by using numbers or words like "proficient", "familiar", etc. For example, use `I'm 80% proficient in Python` instead of `I'm good at Python.`.
 
 ### Languages
 
@@ -87,7 +87,7 @@ If you quit your degree, you can still include it in your resume. Just make sure
 
 ### Summary
 
-Use [STAR model](#star-model) to describe your core capabilities and strengths. It **should not** be a list of your skills or your experiences since you will have separate sections for those. Think of all the reasons why you're a good fit for the job and write them down. Then, use STAR model to describe them.
+Use [STAR model](#star-model) to describe your core capabilities and strengths. It **shouldn't** be a list of your skills or your experiences since you will have separate sections for those. Think of all the reasons why you're a good fit for the job and write them down. Then, use STAR model to describe them.
 
 ### Experience
 

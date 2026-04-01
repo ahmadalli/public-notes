@@ -30,9 +30,9 @@ You can reduce your premium by increasing your own risk.
 
 ## Getting a GP (General Practitioner)
 
-After you've got your health insurance, you need to register with a GP, or huisarts in Dutch, that is close to your home (usually the same postal code). There are sites that list GPs in your area or use can use Google Maps to find one.
+After you've got your health insurance, you need to register with a GP, or huisarts in Dutch, that's close to your home (usually the same postal code). There are sites that list GPs in your area or use can use Google Maps to find one.
 
-After covid it might be a bit difficult to find a GP that is accepting new patients. From what I've heard, you can try the following in case you can't find a GP:
+After covid it might be a bit difficult to find a GP that's accepting new patients. From what I've heard, you can try the following in case you can't find a GP:
 
 - Ask your insurance company to help you find a GP.
 - Mention the fact that you don't have a GP when you're trying to register with the GP. They might make an exception for you.
@@ -61,7 +61,7 @@ Without a referral from your GP or the After Hours GP, you can't visit a hospita
 
 ## Hospitals
 
-Most specialists and labs are located in hospitals. If you're referred to a specialist or a lab, you need to visit the hospital that is mentioned in your referral. You need to register with the hospital in your first visit. You can log into the hospital's website and view your medical records and test results with your DigiD.
+Most specialists and labs are located in hospitals. If you're referred to a specialist or a lab, you need to visit the hospital that's mentioned in your referral. You need to register with the hospital in your first visit. You can log into the hospital's website and view your medical records and test results with your DigiD.
 
 ## Pharmacies
 
@@ -69,7 +69,7 @@ When you register with a GP, they would also assign a pharmacy close to the GP o
 
 ## Prescriptions from Outside the Netherlands
 
-If you've got a prescription from outside the Netherlands, you need to either visit your GP and ask them to prescribe you the same medicine. If the prescription is not for you, for example in case a family member is visiting, your local pharmacy might be able to help you. Otherwise the [pharmacy that's located in Amsterdam Central Station][amsterdamcentralpharmacy] would be able to help you.
+If you've got a prescription from outside the Netherlands, you need to either visit your GP and ask them to prescribe you the same medicine. If the prescription isn't for you, for example in case a family member is visiting, your local pharmacy might be able to help you. Otherwise the [pharmacy that's located in Amsterdam Central Station][amsterdamcentralpharmacy] would be able to help you.
 
 ## Visiting Without Registration
 
@@ -97,7 +97,7 @@ This section is based on my personal experience and might not be true for everyo
 
 Compared to my experience in Iran, the healthcare system in the Netherlands is a bit different. Back in Iran, I was privileged to live in Tehran and had easy access to a wide range of specialists and labs. I could visit a specialist without a referral from my GP and I could visit any lab that I wanted to. I could also visit a hospital's emergency room without a referral from my GP.
 
-This system is not sustainable and equal and from the governance point of view, I understand that the Dutch government is trying to make the system more efficient, sustainable and equal and this requires more gate keeping and is more restrictive. And from the patient's point of view, it needs some getting used to.
+This system isn't sustainable and equal and from the governance point of view, I understand that the Dutch government is trying to make the system more efficient, sustainable and equal and this requires more gate keeping and is more restrictive. And from the patient's point of view, it needs some getting used to.
 
 I don't have knowledge about the performance of the healthcare system in the Netherlands compared to other countries so I can't say how much successful the government has been in making this possible.
 

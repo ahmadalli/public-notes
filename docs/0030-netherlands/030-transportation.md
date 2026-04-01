@@ -12,8 +12,8 @@ This video from Not Just Bikes explains the differences between Dutch bikes and 
 
 If you don't want to buy a Dutch bike, you can rent one from [Swapfiets][swapfiets]. It's a subscription service. Compared to buying a bike, Swapfiets has the following advantages:
 
-- Since they are very common in the city, the chance of your bike getting stolen is lower.
-- They are lighter compared to bikes in the same price range.
+- Since they're very common in the city, the chance of your bike getting stolen is lower.
+- They're lighter compared to bikes in the same price range.
 - You can get a new bike if your bike is broken.
 
 But also, you have to get lucky to get a bike that runs smoothly. Most of the bikes have some problems.
@@ -125,13 +125,13 @@ You can use moped sharing services if your destination is within or close to the
 
 :::tip
 
-Some areas in Amsterdam do not have dedicated parking spots for mopeds. You can park them in the sidewalk as long as there aren't signs that prohibit this and you don't block the way.
+Some areas in Amsterdam don't have dedicated parking spots for mopeds. You can park them in the sidewalk as long as there aren't signs that prohibit this and you don't block the way.
 
 :::
 
 :::caution
 
-You are not allowed to ride mopeds on most of the bike paths in Amsterdam. There are some exceptions and you should look for the blue signs that show which vehicles are allowed on the bike path.
+You aren't allowed to ride mopeds on most of the bike paths in Amsterdam. There are some exceptions and you should look for the blue signs that show which vehicles are allowed on the bike path.
 
 :::
 

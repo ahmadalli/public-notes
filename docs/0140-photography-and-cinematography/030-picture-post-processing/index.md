@@ -34,13 +34,13 @@ Crop the photo and play with different cuts and see what works best to get the d
 
 :::tip
 
-If you can't find a good cut, maybe the photo was not composed well in the first place and lacks a clear subject and not be worth spending time on it.
+If you can't find a good cut, maybe the photo wasn't composed well in the first place and lacks a clear subject and not be worth spending time on it.
 
 :::
 
 ### Removal
 
-Look for objects or people that are not part of your ideal look and feel. I use lightroom's `AI Removal` tool to remove them.
+Look for objects or people that aren't part of your ideal look and feel. I use lightroom's `AI Removal` tool to remove them.
 
 ### Color Correction
 
@@ -92,7 +92,7 @@ Also, try adding a bit of `Vignette` (around `-10`) to the photo to draw attenti
 
 Use masks to selectively apply adjustments to specific areas of the photo. Almost all the adjustments can be applied on masks. There are different types of masks in Lightroom:
 
-- Masks like `Subject`, `Background`, `Sky`, etc. Lightroom tries to automatically detect these and create the mask for you. Give them a try and see how accurate they are, but sometimes it doesn't work well.
+- Masks like `Subject`, `Background`, `Sky`, etc. Lightroom tries to automatically detect these and create the mask for you. Give them a try and see how accurate they're, but sometimes it doesn't work well.
 - `Brush` masks are useful to manually create the mask. When edges are clear, `auto mask` can help making the brush selection easier and more accurate.
 - `Linear Gradient` masks are useful for creating a smooth transition pattern, similar to how light falls off on the scene.
 - `Radial Gradient` masks are useful for creating a circular pattern, emphasizing a part of the scene.

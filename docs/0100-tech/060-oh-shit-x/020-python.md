@@ -57,14 +57,14 @@ You can access to this page from [ohshitpython.com](https://ohshitpython.com) or
 
 To make reference counting thread safe and prevent race conditions, there need to be a global lock when these counts need to be updated. This approach has performance penalty on multithreaded applications. You can read more about GIL in [here](https://realpython.com/python-gil/).
 
-The existence of GIL means that Python scripts cannot utilize multiple cores even when they are multithreaded. Python will eventually remove GIL. See the following links for more information:
+The existence of GIL means that Python scripts can't utilize multiple cores even when they're multithreaded. Python will eventually remove GIL. See the following links for more information:
 
 - [PEP 703 – Making the Global Interpreter Lock](https://peps.python.org/pep-0703/)
 - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 
 :::tip
 
-For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bound tasks, you have to use `multiprocessing` to utilize multiple cores but multiprocessing is not as straightforward as multithreading and comes with its own problems.
+For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bound tasks, you have to use `multiprocessing` to utilize multiple cores but multiprocessing isn't as straightforward as multithreading and comes with its own problems.
 
 :::
 
@@ -105,7 +105,7 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
 
 ### Type Checking
 
-- As demonstrated in the examples from [`collections.abc`](https://docs.python.org/3/library/collections.abc.html), `isinstance()` is more concerned with whether an object implements certain APIs than if it is a direct subclass of a specific type.
+- As demonstrated in the examples from [`collections.abc`](https://docs.python.org/3/library/collections.abc.html), `isinstance()` is more concerned with whether an object implements certain APIs than if it's a direct subclass of a specific type.
 
   ```python
   class E:
@@ -117,7 +117,7 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
 
 ## Functions
 
-- Functions can modify variables outside of their scope by using [`global`](https://docs.python.org/3/reference/simple_stmts.html#the-global-statement) or [`nonlocal`](https://docs.python.org/3/reference/simple_stmts.html#the-nonlocal-statement) keyword. **This is not recommended.**
+- Functions can modify variables outside of their scope by using [`global`](https://docs.python.org/3/reference/simple_stmts.html#the-global-statement) or [`nonlocal`](https://docs.python.org/3/reference/simple_stmts.html#the-nonlocal-statement) keyword. **This isn't recommended.**
 - Functions that don't return anything return `None` by default.
 - **Mutable default arguments are evaluated once when the function is defined**. This means that if you use a mutable default argument and modify it, the modified value will be used in the next function call.
 
@@ -145,12 +145,12 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
 ## Classes
 
 - Classes in Python are dictionaries with syntactic sugar. You can access class attributes with `__dict__` property.
-  - This means that private attributes are not really private. You can access them with `instance._Class__private_attribute` syntax.
+  - This means that private attributes aren't really private. You can access them with `instance._Class__private_attribute` syntax.
   - To optimize memory usage, you can utilize [`__slots__`](https://wiki.python.org/moin/UsingSlots) to specify a set of valid attribute names.
-- [`__init__` is not a constructor](https://stackoverflow.com/a/28791753/1003464).
+- [`__init__` isn't a constructor](https://stackoverflow.com/a/28791753/1003464).
 - [`super` isn't like `base` on C family languages.](https://stackoverflow.com/a/21639994/1003464). It doesn't call the parent but the next class in the [method resolution order](https://www.python.org/download/releases/2.3/mro/).
 - If `get_<property_name>` and `set_<property_name>` methods are defined, they'd be used when you work with `instance.<property_name>`. See [here](https://docs.python.org/3/reference/datamodel.html#customizing-attribute-access) for more information.
-- Variables that are defined under the class definition are class properties. They are shared between instances. **Mutable class properties are disasters waiting to happen.**
+- Variables that are defined under the class definition are class properties. They're shared between instances. **Mutable class properties are disasters waiting to happen.**
   ```python
   class Test:
     a = [] # This is a dangerous class property
@@ -166,8 +166,8 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
   ```
 
 - Class properties and methods don't need an instance to be accessed. You can access them with `Class.<property_name>` or `Class.<method_name>()`.
-- Methods that are defined under the class definition with `@staticmethod` decorator are static methods. They don't have access to the class or the instance. They are just like regular functions that are defined inside the class. You can read more about the differences between class methods and static methods in [this StackOverflow answer](https://stackoverflow.com/a/1950927/1003464).
-- [`Dataclasses`](https://docs.python.org/3/library/dataclasses.html) define classes that are used to store data. They are like `struct`s in C.
+- Methods that are defined under the class definition with `@staticmethod` decorator are static methods. They don't have access to the class or the instance. They're just like regular functions that are defined inside the class. You can read more about the differences between class methods and static methods in [this StackOverflow answer](https://stackoverflow.com/a/1950927/1003464).
+- [`Dataclasses`](https://docs.python.org/3/library/dataclasses.html) define classes that are used to store data. They're like `struct`s in C.
 
 :::note
 

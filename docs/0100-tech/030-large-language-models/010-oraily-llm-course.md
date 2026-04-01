@@ -6,7 +6,7 @@ Here's my LLM usage workflow based on my personal experience and my takes on the
 
 Autoregressive models predict the next token based on the previous tokens. This means that they can only generate text in one direction and should generate text one token at a time. The GPT model family is an example of autoregressive models. This also means that the text can be shown as it's being generated which is a nice UX feature. **Autoregressive models are better for text generation.**
 
-Autoencoding models predict the next token based on the previous and next tokens. This means that they can generate text in both directions and generate text in batches instead of one token at a time. The BERT model family is an example of autoencoding models. Since the output of the model is not visible until the generation is complete, text generation with these models feels slower than autoregressive models. **Autoencoding models are better for text understanding and classification.**
+Autoencoding models predict the next token based on the previous and next tokens. This means that they can generate text in both directions and generate text in batches instead of one token at a time. The BERT model family is an example of autoencoding models. Since the output of the model isn't visible until the generation is complete, text generation with these models feels slower than autoregressive models. **Autoencoding models are better for text understanding and classification.**
 
 There are also models that combine both approaches. The T5 model family is an example of these models.
 
@@ -18,13 +18,13 @@ Check out [here](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-ber
 
 ## Chat Models
 
-Autoregressive LLMs are good at completing text, but unless they've been trained on conversational data, they are not good at conversations and handling tasks. Chat models are trained [in a way](https://openai.com/blog/chatgpt) that they can handle conversations and tasks.
+Autoregressive LLMs are good at completing text, but unless they've been trained on conversational data, they're not good at conversations and handling tasks. Chat models are trained [in a way](https://openai.com/blog/chatgpt) that they can handle conversations and tasks.
 
 Chat histories, user interactions, and feedback (such as thumbs up/down, copying outputs, etc.) would be used to train newer versions of the model. This means that there may be noticeable differences in the outputs across different versions.
 
 :::note
 
-The latest version of a model is not always the best version for your use case. You need to have proper testing and evaluation in place and compare outputs to make sure that you are using the best version for your use case.
+The latest version of a model isn't always the best version for your use case. You need to have proper testing and evaluation in place and compare outputs to make sure that you are using the best version for your use case.
 
 :::
 
@@ -65,7 +65,7 @@ and the model will generate the input in proper format.
 
 ### Few Shot Learning
 
-If the model is not able to give you the answer just from the task definition, you can give it a few examples of the context and desired output. This is called few shot learning.
+If the model isn't able to give you the answer just from the task definition, you can give it a few examples of the context and desired output. This is called few shot learning.
 
 :::tip
 

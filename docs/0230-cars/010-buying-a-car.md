@@ -49,7 +49,7 @@ These are other options that I didn't use:
 
 :::info
 
-[Hunch] It is a big red flag for me if the car seller doesn't share the car's license plate number in their listing, making it harder to find more information about the car. You might be able to get the license plate number from the seller by asking them.
+[Hunch] It's a big red flag for me if the car seller doesn't share the car's license plate number in their listing, making it harder to find more information about the car. You might be able to get the license plate number from the seller by asking them.
 
 :::
 
@@ -75,7 +75,7 @@ Check the following services, which are usually paid but sometimes provide a fre
 - A more detailed APK history and APK recommendations give you an idea of the car's condition and the state of its maintenance.
 - Odometer reading history gives you an idea whether the car has been driven regularly or has been sitting idle for an extended time.
 - Ownership history can hint at potential problems if an owner sold the car after a short period of time.
-- [Hunch] Business cars (that might be leased cars) have a good maintenance history but are not necessarily well looked after, especially for the car interior, since the owner may not have the incentive to keep it in good condition (apart from the exterior).
+- [Hunch] Business cars (that might be leased cars) have a good maintenance history but aren't necessarily well looked after, especially for the car interior, since the owner may not have the incentive to keep it in good condition (apart from the exterior).
 
 ### Maintenance History
 

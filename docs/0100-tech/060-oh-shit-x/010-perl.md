@@ -120,7 +120,7 @@ while ($str =~ /(\w+)/g) {
   print qq/\%var[0,1] = %var{"a", "b"}\n/; # prints 0 => a, 1 => b, returns hash (because of %) from array (because of [])
   ```
 
-- List of lists is not a 2D array, it'll be flattened into a 1D array:
+- List of lists isn't a 2D array, it'll be flattened into a 1D array:
 
   ```perl
   my @array = (1, 2, 3, (4, 5, 6), 7, 8, 9);
@@ -246,7 +246,7 @@ print %hash ? "true" : "false"; # prints false
   }
   ```
 
-  But note that this approach is not perfect and is error prone. For example, `test(first_arg=>"hello", { second_arg = "world" });` would not unpack `second_arg` because `ref($_[0])` would be false and `@_` would be used instead of dereferencing the hash reference.
+  But note that this approach isn't perfect and is error prone. For example, `test(first_arg=>"hello", { second_arg = "world" });` would not unpack `second_arg` because `ref($_[0])` would be false and `@_` would be used instead of dereferencing the hash reference.
 
   **To keep it simple, just use `@_` and unpack it.**
 
@@ -285,7 +285,7 @@ This function creates a lot of confusion because there's no guarantee that the f
 ## Classes
 
 - **Other than scalar, array, and hash, there are no other data structures in Perl.**
-- Object oriented programming is not built into the language, and you need to use modules to implement it. [An Object is Simply a Data Structure](https://perldoc.perl.org/perlobj#An-Object-is-Simply-a-Data-Structure).
+- Object oriented programming isn't built into the language, and you need to use modules to implement it. [An Object is Simply a Data Structure](https://perldoc.perl.org/perlobj#An-Object-is-Simply-a-Data-Structure).
   - There's no reserved name for constructors, and you can use any name you want. `new` is just a convention.
 
 ## More Resources

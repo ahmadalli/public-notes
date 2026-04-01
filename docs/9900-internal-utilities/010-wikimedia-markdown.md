@@ -13,7 +13,7 @@ If you need to embed a media from Wikimedia, you can use the following tool to c
 
 :::note
 
-The embed code from the `Media Viewer` includes the attribution. while the embedding code from `Wikimedia Commons` does not include the attribution. That's why the code from `Media Viewer` should be used.
+The embed code from the `Media Viewer` includes the attribution. while the embedding code from `Wikimedia Commons` doesn't include the attribution. That's why the code from `Media Viewer` should be used.
 
 :::
 

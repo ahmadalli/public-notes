@@ -36,7 +36,7 @@ If you're applying for entry-level positions, you need to put in more effort to 
 
 :::info
 
-Creating a portfolio is an iterative process. It doesn't matter if your initial work is not up to your standards. It's more important to get started, gather feedback as soon as possible, and define your roadmap based on that.
+Creating a portfolio is an iterative process. Don't worry if your initial work isn't up to your standards. It's more important to get started, gather feedback as soon as possible, and define your roadmap based on that.
 
 :::
 

@@ -35,7 +35,7 @@ For the inside of the toilet: [this product][hg-toilet-inside] or if it's been a
 
 Instead of wiping the floors and walls with a cloth, you can utilize a tool like a [drill brush][drill-brush]and if you don't have a drill, a product like [this one][goscrub] can be used instead.
 
-While these tools can be useful, they are not perfect. Unlike an electric toothbrush that uses a back-and-forth motion, these tools operate in a circular motion. This requires additional effort to counteract the circular motion when you need to scrub in a back-and-forth manner.
+While these tools can be useful, they're not perfect. Unlike an electric toothbrush that uses a back-and-forth motion, these tools operate in a circular motion. This requires additional effort to counteract the circular motion when you need to scrub in a back-and-forth manner.
 
 #### Cleaning Solutions
 

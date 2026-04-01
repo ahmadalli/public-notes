@@ -82,7 +82,7 @@ This approach is more challenging for support operators like Clash but it's fun 
 
 - At least player should be able to make rotation.
 - At least one player roam and reinforce hatches.
-- Reinforce hatches and walls that are not part of the rotation.
+- Reinforce hatches and walls that aren't part of the rotation.
 - If there's a wall facing outside, it should be electrified.
 - If there's Mira in the team, coordinate with her before reinforcing walls.
 - There should be a balance between anchors and roamers.

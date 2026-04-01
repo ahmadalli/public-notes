@@ -58,6 +58,6 @@ Also, purchase agreements might have conditions like getting a mortgage or techn
 
 :::tip
 
-Conditions in the offer and the purchase agreement increase the risk for the seller as they might lose other potential buyers while waiting for you to meet the conditions. Sellers might accept a lower offer without conditions over a higher offer with conditions. **This is not a financial advice. Consult with your mortgage advisor.**
+Conditions in the offer and the purchase agreement increase the risk for the seller as they might lose other potential buyers while waiting for you to meet the conditions. Sellers might accept a lower offer without conditions over a higher offer with conditions. **This isn't financial advice. Consult with your mortgage advisor.**
 
 :::

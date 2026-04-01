@@ -67,7 +67,7 @@ You need to add your license number to the drone. Your operator license follows 
 
 :::note
 
-It's been stated in [RDW Guide](https://www.rdw.nl/en/drone/applying-for-a-pilot-licence-or-operator-number-for-a-drone) (in the `Next steps` section) and the EuroControl course content states that the last 3 letters are not needed to be added to the drone's configuration but this depends on the drone's manufacturer. For example, DJI drones require the full license number to be added to the configuration.
+It's been stated in [RDW Guide](https://www.rdw.nl/en/drone/applying-for-a-pilot-licence-or-operator-number-for-a-drone) (in the `Next steps` section) and the EuroControl course content states that the last 3 letters aren't needed to be added to the drone's configuration but this depends on the drone's manufacturer. For example, DJI drones require the full license number to be added to the configuration.
 
 :::
 
@@ -88,6 +88,6 @@ The process is pretty straight forward and you can get your license in a few day
 - Maintain VLOS (Visual Line of Sight) with the drone.
 - Be aware of your surroundings.
 - Give way to other aircraft, preferably by landing.
-- Do not fly over people or above 120m.
+- Don't fly over people or above 120m.
 - Respect people's privacy. Get consent if capturing identifiable individuals.
   - People might be identifiable by their faces, location, or any other means.

@@ -17,7 +17,7 @@ They give you a brief introduction to the company and the position and usually c
 
 #### Your Background and Experience
 
-While recruiters are familiar with the general topics and technologies of the domain they're hiring for, they are not technical experts. Answers to their technical questions should be **concise**, **to the point**, and should **include common terms** of the domain.
+While recruiters are familiar with the general topics and technologies of the domain they're hiring for, they're not technical experts. Answers to their technical questions should be **concise**, **to the point**, and should **include common terms** of the domain.
 
 This can go deeper than a summary of your resume, and you might be asked the following questions:
 
@@ -86,7 +86,7 @@ Technical interviews aim to assess your technical abilities. To preserve time, i
 
 ### Problem Solving in Technical Interviews
 
-Problem-solving skills cannot be entirely learned from a few points, but some points get forgotten in the heat of the moment:
+Problem-solving skills can't be entirely learned from a few points, but some points get forgotten in the heat of the moment:
 
 - Communicate with the interviewer
   - Ask questions: The given problem is usually intentionally vague, and you need to ask questions to get more information and clarify the problem

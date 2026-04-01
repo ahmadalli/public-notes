@@ -10,17 +10,17 @@ If you don't know where to look, meaning what kind of work and in which industry
 - Problems that you want to solve either for yourself or others
 - [ikigai][ikigai] or similar books
 
-Everyone has their own weight for each of the items above. While someone cares deeply about solving world problems, someone else is mostly driven by their curiosity. So, you need to find your own balance and don't worry if your answer is not the same as others.
+Everyone has their own weight for each of the items above. While someone cares deeply about solving world problems, someone else is mostly driven by their curiosity. So, you need to find your own balance and don't worry if your answer isn't the same as others.
 
 The problem we're trying to solve in this stage is **to identify what motivates you** (aside from money) to do and enjoy the work that you're going to do.
 
-Personally, setting long term goals doesn't work on me. By that I mean I wouldn't be motivated if I set a goal like "In 5 years I want to become X/Y/Z or have X/Y/Z". So, after a long time of struggle and fighting against the common belief that "In order to be successful, you need to have a long term goal", and after reading [Consider Not Setting Goals in 2013][consider-not-setting-goals] (**I highly recommend reading this**), I switched to **defining areas of focus** for myself instead. This switch was not something that happened overnight, but it was a gradual process that had taken a few years.
+Personally, setting long term goals doesn't work on me. By that I mean I wouldn't be motivated if I set a goal like "In 5 years I want to become X/Y/Z or have X/Y/Z". So, after a long time of struggle and fighting against the common belief that "In order to be successful, you need to have a long term goal", and after reading [Consider Not Setting Goals in 2013][consider-not-setting-goals] (**I highly recommend reading this**), I switched to **defining areas of focus** for myself instead. This switch wasn't something that happened overnight, but it was a gradual process that had taken a few years.
 
 **Therefore, the first step is to list down the areas that motivate you.**
 
 :::note
 
-This is not a one time thing. We change and evolve and learn about ourselves over time. There's no definitive answer to this question. The list is constantly changing and evolving. **We're not looking for final answers. We're looking for some starting points.** So, don't put too much time and effort into this. Take a few hours, write down your thoughts and move on.
+This isn't a one time thing. We change and evolve and learn about ourselves over time. There's no definitive answer to this question. The list is constantly changing and evolving. **We're not looking for final answers. We're looking for some starting points.** So, don't put too much time and effort into this. Take a few hours, write down your thoughts and move on.
 
 :::
 

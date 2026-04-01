@@ -12,7 +12,7 @@ I find tips on this area highly opinionated and subjective. Like everything else
 
 :::tip
 
-Like most things in life, make sure [you're covering 80% of the basics](../0050-problem-solving/020-power-law.md) before you start optimizing for the remaining 20%. Also, this process is not linear and you can take [iterative](../0050-problem-solving/010-iteration.md) approach to it.
+Like most things in life, make sure [you're covering 80% of the basics](../0050-problem-solving/020-power-law.md) before you start optimizing for the remaining 20%. Also, this process isn't linear and you can take [iterative](../0050-problem-solving/010-iteration.md) approach to it.
 
 :::
 

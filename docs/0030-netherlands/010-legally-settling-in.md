@@ -107,7 +107,7 @@ As an expat, you might not have a residential address when you arrive. There are
 
 :::info
 
-This requires the people on municipality to be willing to help you. I have not done this myself and I don't have full information and details about it but it's worth a try.
+This requires the people on municipality to be willing to help you. I haven't done this myself and I don't have full information and details about it but it's worth a try.
 
 :::
 
@@ -123,7 +123,7 @@ Some services require you to do an ID check on DigiD before you can use them. Yo
 
 :::info
 
-Your first residence permit is not acceptable for ID check on DigiD.
+Your first residence permit isn't acceptable for ID check on DigiD.
 
 :::
 

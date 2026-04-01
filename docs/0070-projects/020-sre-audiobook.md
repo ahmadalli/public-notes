@@ -20,7 +20,7 @@ I wanted to listen to the SRE book while biking.
   - ☑️ With ChatGPT's help, I came across `HTMLParser` that can be used to parse the HTML and convert it to SSML.
 - ▶️ Google's TTS struggles with long sentences and requires more guidance. It failed to synthesize the audio for the Acknowledgments section of the book's [preface](https://sre.google/sre-book/preface/) because they were just a list of names. This issue has been reported in [here](https://www.googlecloudcommunity.com/gc/AI-ML/Google-TTS-can-t-convert-text-longer-than-500-600-characters/m-p/517771) as well.
   - ☑️ I switched to Microsoft's TTS service and it worked fine.
-- ▶️ GCP documentation for TTS service is not as good as Azure's.
+- ▶️ GCP documentation for TTS service isn't as good as Azure's.
 - ▶️ Google's TTS service is more forgiving when it comes to SSML. It can handle invalid SSML and still generate the audio file. Microsoft's TTS service is more strict and won't generate the audio file if the SSML is invalid.
 - ▶️ TTS services has length limit for the generated output of the input text. They also offer long audio APIs but there's no support for SSML and they also require storage setup and won't return the audio file in the response.
   - ☑️ The input needs to be split into smaller chunks and each chunk needs to be sent to the TTS service separately. This was covered in the `HTMLParser` code as well.

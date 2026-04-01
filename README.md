@@ -1,45 +1,21 @@
-# Website
+# Public Notes
 
-This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
+My public second brain — documentation of my ideas, thoughts, and experiences.
 
-### Installation
+Published at [publicnotes.io](https://publicnotes.io).
 
-```
-$ npm install
-```
+## Development
 
-### Local Development
+Built with [Docusaurus 3](https://docusaurus.io/).
 
-```
-$ npm start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ npm run build
+```shell
+npm ci           # install dependencies
+npm start        # local dev server
+npm run build    # production build (primary validation — fails on broken links)
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Deployment is automated via GitHub Actions on push to `main`.
 
 ## Style
 
-This repo uses [vale](https://github.com/errata-ai/vale) to enforce a consistent style across the documentation.
+Prose linting is handled by [Vale](https://vale.sh) to enforce a consistent style across the documentation.

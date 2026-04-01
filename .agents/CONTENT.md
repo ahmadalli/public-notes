@@ -1,6 +1,6 @@
 # Content Editing Guide
 
-This is the primary guide for editing Markdown/MDX content in `docs/` and `blog/`. For development tasks (components, theme, CI/CD), see `ARCHITECTURE.md`.
+This is the primary guide for editing Markdown/MDX content in `docs/` and `blog/`. For development tasks (components, theme, CI/CD), see `.agents/ARCHITECTURE.md`.
 
 <critical_rules>
 

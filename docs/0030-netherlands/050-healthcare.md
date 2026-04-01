@@ -14,7 +14,7 @@ For example the insurance company would reimburse 100% of the cost of visiting y
 
 ### Premium and Comparison
 
-You can compare different health insurance companies and their premiums on [Independer][Independer]. You can also compare prices of included packages like dental care or physiotherapy. These extra packages usually have a limit in a way that they'd save you a fixed amount of money (e.g. 100 euros) per year and after that you need to pay for the rest of your medical costs.
+You can compare different health insurance companies and their premiums on [Independer][Independer]. You can also compare prices of included packages like dental care or physiotherapy. These extra packages usually have a limit in a way that they'd save you a fixed amount of money (for example, 100 euros) per year and after that you need to pay for the rest of your medical costs.
 
 :::tip
 

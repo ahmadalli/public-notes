@@ -77,7 +77,7 @@ Here are some tips:
 
 ### Noise Reduction
 
-Depending on the capture conditions, e.g. for low-light high ISO photos, noise reduction is useful and greatly improves the photo. Lightroom's AI denoise is useful for this. [This video](https://www.youtube.com/watch?v=yvb9S66KG3A) is a good tutorial on manually reducing the noise instead of using the denoise tool.
+Depending on the capture conditions, for example for low-light high ISO photos, noise reduction is useful and greatly improves the photo. Lightroom's AI denoise is useful for this. [This video](https://www.youtube.com/watch?v=yvb9S66KG3A) is a good tutorial on manually reducing the noise instead of using the denoise tool.
 
 ### Effects
 

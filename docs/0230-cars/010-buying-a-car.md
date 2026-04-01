@@ -26,7 +26,7 @@ Answering these questions can help you define the criteria:
 
 :::tip
 
-Ideally, set up an automation that regularly (e.g. every 10 minutes) checks aggregator sites for new listings. It's possible that good candidate cars are reserved for a test drive and sold very quickly—faster than aggregator email alerts.
+Ideally, set up an automation that regularly (for example, every 10 minutes) checks aggregator sites for new listings. It's possible that good candidate cars are reserved for a test drive and sold very quickly—faster than aggregator email alerts.
 
 :::
 
@@ -110,7 +110,7 @@ Some sellers share the car's maintenance history in their listing, which is a go
   - Scratches or dents
   - Any misalignments between different parts of the exterior. They might be a sign of an accident or repair work that may not have been reported in the history reports.
   - Different shades of paint might be a sign of a repair job.
-- Professional inspection (e.g. [Expert2Go](https://www.expert2go.nl)): Especially if you're buying a car from a private seller, a professional inspection can help you find hidden issues.
+- Professional inspection (for example, [Expert2Go](https://www.expert2go.nl)): Especially if you're buying a car from a private seller, a professional inspection can help you find hidden issues.
 
 ### Red Flags
 
@@ -124,7 +124,7 @@ These might make it harder for you to resell the car in the future, or might req
 
 ### Seller
 
-- **Authorized Dealer**: [Hunch] An authorized dealer, especially if you're buying a car with some sort of maintenance-upon-delivery package, has access to authorized maintenance tools (e.g. a battery health check). Since they're guaranteeing the maintenance, it's less likely for them to sell a car with a hidden issue.
+- **Authorized Dealer**: [Hunch] An authorized dealer, especially if you're buying a car with some sort of maintenance-upon-delivery package, has access to authorized maintenance tools (for example, a battery health check). Since they're guaranteeing the maintenance, it's less likely for them to sell a car with a hidden issue.
 - **Price of BOVAG or their own warranty**: If the price doesn't match the market price, it might be a sign of unfair pricing or anti-consumer business practices.
 
 ### Final Check Before Buying

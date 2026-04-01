@@ -184,5 +184,5 @@ There are some tools that might help with the writing process:
 - Legal yellow pads
 - Editors or formats with outline support (like markdown or org-mode)
 - Disconnecting from the internet or blocking the social media
-- SEO tools that help us find the right words to use (e.g., https://seoscout.com/tools/text-analyzer)
+- SEO tools that help us find the right words to use (for example, https://seoscout.com/tools/text-analyzer)
 - Pomodoro technique

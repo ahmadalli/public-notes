@@ -63,7 +63,7 @@ You need to register as a drone operator at the country of your residence. The [
 
 ## Adding a License to the Drone
 
-You need to add your license number to the drone. Your operator license follows the format `something-3letters` (e.g. `1X2Y3Z-ABC`). The first part (removing the last 3 letters) must be printed and attached to the drone (e.g. via a sticker) and also added to the drone's configuration.
+You need to add your license number to the drone. Your operator license follows the format `something-3letters` (for example, `1X2Y3Z-ABC`). The first part (removing the last 3 letters) must be printed and attached to the drone (for example, via a sticker) and also added to the drone's configuration.
 
 :::note
 

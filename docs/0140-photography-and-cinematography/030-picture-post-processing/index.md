@@ -56,7 +56,7 @@ If there are still purple or green fringes, you can use the `Defringe` slider to
 
 ### Lighting
 
-I usually start with the `Auto` mode, to have a good starting point. If that didn't work, instead of auto-adjusting all sliders, you can auto-adjust sliders separately by pressing the `Shift` key then clicking the slider. Lightroom usually handles `Blacks` and `Whites` auto-adjustment well.
+I usually start with the `Auto` mode, to have a good starting point. If that didn't work, instead of using `Auto` to adjust all sliders, you can use auto for each slider individually by pressing the `Shift` key then clicking the slider. Lightroom's auto adjustments for `Blacks` and `Whites` are usually good.
 
 Lightning adjustments differ from photo to photo, and you need to experiment with different settings to find the one that works best. Here are some changes you can try:
 

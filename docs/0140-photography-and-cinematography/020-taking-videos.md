@@ -7,7 +7,7 @@
   - 60fps is good for slow motion
 - Make sure your shutter speed is twice the frame rate
   - Use ND filters to reduce the shutter speed
-- Disable auto-white balance
+- Disable `auto white balance`
 - Use lower ISO values
 
 ## Drone Videos

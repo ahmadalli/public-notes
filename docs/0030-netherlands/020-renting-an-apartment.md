@@ -44,7 +44,7 @@ It's a good idea to look online (specially Reddit) for online places to look for
 
 #### Funda and Pararius
 
-[Funda](https://www.funda.nl/en/) and [Pararius](https://www.pararius.com/) are the most popular websites for searching for apartments. It's good to note that these websites, similar to job postings on LinkedIn, aren't the first places that the landlords and real estate agents post their listings. They usually post on their own websites or other private places first. On top of that there's a lot of competition on these websites. So, to get a visit you need to be the first ones to apply or [have an agent](#agents).
+[Funda](https://www.funda.nl/en/) and [Pararius](https://www.pararius.com/) are the most popular websites for searching for apartments. It's good to note that these websites, similar to job postings on LinkedIn, aren't the first places that the property owners and real estate agents post their listings. They usually post on their own websites or other private places first. On top of that there's a lot of competition on these websites. So, to get a visit you need to be the first ones to apply or [have an agent](#agents).
 
 :::tip
 
@@ -72,7 +72,7 @@ You can also find listings on social groups like Facebook groups.
 
 :::caution
 
-Beware of listing on social groups or listings directly from the landlords. They have higher risk of problems in the future because there's no third party (like a real estate agent) to keep both parties in check.
+Beware of listing on social groups or listings directly from the property owners. They have higher risk of problems in the future because there's no third party (like a real estate agent) to keep both parties in check.
 
 :::
 
@@ -84,19 +84,19 @@ You can hire an agent to help you in the process of finding and applying for apa
 
 ### Letter of Intent
 
-When you apply for an apartment, you usually have to write a letter of intent. This is a letter that you write to the landlord to tell them why you want to rent their apartment. You can get help from ChatGPT to write this letter.
+When you apply for an apartment, you usually have to write a letter of intent. This is a letter that you write to the property owner to tell them why you want to rent their apartment. You can get help from ChatGPT to write this letter.
 
-On some high demand markets, by signing the letter of intent, you're agreeing to rent the apartment if the landlord accepts your application. In my experience, there wasn't much responsibility on the landlord's side to respond as fast as possible so it means that you're locked in for a while and you might loose other opportunities.
+On some high demand markets, by signing the letter of intent, you're agreeing to rent the apartment if the property owner accepts your application. In my experience, there wasn't much responsibility on the property owner's side to respond as fast as possible so it means that you're locked in for a while and you might loose other opportunities.
 
 ### Contract
 
 #### Contract Types
 
-In the Netherlands, there are three types of contracts (A, B, and C) varying in their duration and flexibility. You can also find more information about it on [here](https://www.government.nl/topics/housing/rented-housing). Type C gives more rights to the owner and is usually used for short term rentals. Type B usually has a duration of 2 years and would convert to type A in case of renewal, which means if you have a type B, the landlord would not renew your contract after 2 years. Type A's term is indefinite.
+In the Netherlands, there are three types of contracts (A, B, and C) varying in their duration and flexibility. You can also find more information about it on [here](https://www.government.nl/topics/housing/rented-housing). Type C gives more rights to the owner and is usually used for short term rentals. Type B usually has a duration of 2 years and would convert to type A in case of renewal, which means if you have a type B, the property owner would not renew your contract after 2 years. Type A's term is indefinite.
 
 ## Moving In
 
-On the day you move in, you need to do a thorough inspection of the apartment (and the furniture in case of a furnished apartment) and take pictures and write down any damages that you find. You need to send this list to the landlord and keep a copy for yourself. If a real estate agent is involved, they will also document this and will send you a copy. This is important because when you move out, the landlord will do an inspection and if they find any damages that aren't on the list, they will charge you for it.
+On the day you move in, you need to do a thorough inspection of the apartment (and the furniture in case of a furnished apartment) and take pictures and write down any damages that you find. You need to send this list to the property owner and keep a copy for yourself. If a real estate agent is involved, they will also document this and will send you a copy. This is important because when you move out, the property owner will do an inspection and if they find any damages that aren't on the list, they will charge you for it.
 
 ### Registering Your Move
 
@@ -122,9 +122,9 @@ You need to pay the following taxes and levies:
 
 When you're co-signing a contract with your roommate, you're creating a union with them. This means that you're both responsible for the contract and you both have the same rights.
 
-If either you or your roommate wants to move out, you can put your agreement on breaking the union in writing without the need to involve the landlord in this decision.
+If either you or your roommate wants to move out, you can put your agreement on breaking the union in writing without the need to involve the property owner in this decision.
 
-To add roommates, you either need to have a contract that allows you to sublet, or you need to sign a new contract with the landlord.
+To add roommates, you either need to have a contract that allows you to sublet, or you need to sign a new contract with the property owner.
 
 #### Sources and Related Links
 

@@ -46,7 +46,7 @@ Look for objects or people that are not part of your ideal look and feel. I use 
 
 For raw photos, change the color profile from `Adobe Color` to other profiles and see how it improves the photo. For most cases, except for portraits, `Adobe Landscape` profile works well.
 
-Adjust the white balance, or change the tempreture and tint and see the effect these have on the photo's feel and which one works best to get the desired look.
+Adjust the white balance, or change the temperature and tint and see the effect these have on the photo's feel and which one works best to get the desired look.
 
 ### Lens Correction
 

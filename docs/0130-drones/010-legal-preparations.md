@@ -87,7 +87,7 @@ The process is pretty straight forward and you can get your license in a few day
 
 - Maintain VLOS (Visual Line of Sight) with the drone.
 - Be aware of your surroundings.
-- Give way to other aircrafts, preferably by landing.
+- Give way to other aircraft, preferably by landing.
 - Do not fly over people or above 120m.
 - Respect people's privacy. Get consent if capturing identifiable individuals.
   - People might be identifiable by their faces, location, or any other means.

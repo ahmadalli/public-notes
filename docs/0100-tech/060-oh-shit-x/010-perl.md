@@ -23,7 +23,7 @@ These are all `true`:
 "foo" == "bar"; # because why not?
 ```
 
-This happens because `==` is for numbers only, and strings without any numbers in them would be casted to `0`, and so in Perl's world `"foo" == "bar"`. For strings `eq` should be used instead.
+This happens because `==` is for numbers only, and strings without any numbers in them would be cast to `0`, and so in Perl's world `"foo" == "bar"`. For strings `eq` should be used instead.
 
 ### `+`
 
@@ -170,13 +170,13 @@ while (EXPR) {
 ### last always comes here
 ```
 
-### For and Foreach
+### `for` and `foreach`
 
 `for` and `foreach` are the same and can be used interchangeably.
 
 ### Boolean
 
-Perl doesn't have a boolean type, it uses falsey and truthy values instead. The falsey values are `undef`, `0`, `""`, `"0"`, and empty list, array, and hash. Everything else is truthy.
+Perl doesn't have a boolean type, it uses falsy and truthy values instead. The falsy values are `undef`, `0`, `""`, `"0"`, and empty list, array, and hash. Everything else is truthy.
 
 ```perl
 print undef ? "true" : "false"; # prints false

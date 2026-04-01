@@ -3,7 +3,7 @@
 Here are some Persian communities that are active on topics related to finding work:
 
 - [TechImmigrants](https://t.me/TechImmigrants)
-  - [Youtube Channel](https://youtube.com/c/TechImmigrants)
+  - [YouTube Channel](https://youtube.com/c/TechImmigrants)
   - [FAQ Channel](http://t.me/TechImmigrants_FAQ)
   - [Discord Server](https://discord.gg/dkSW42E6UN)
   - [LinkedIn Page](https://www.linkedin.com/company/techimmigrants/)

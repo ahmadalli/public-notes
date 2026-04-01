@@ -38,7 +38,16 @@ function buildBreadcrumbParts(
     }
   }
 
-  parts.push({ label: title, permalink });
+  // If this doc is the index page of its own directory, the last dir segment
+  // already represents it — don't append the title again as a duplicate.
+  const isOwnDirIndex =
+    sourceDirName !== "." &&
+    dirInfoMap[sourceDirName]?.permalink === permalink;
+
+  if (!isOwnDirIndex) {
+    parts.push({ label: title, permalink });
+  }
+
   return parts;
 }
 
@@ -83,7 +92,7 @@ const RecentUpdates: React.FC<RecentUpdatesProps> = ({
               const colonIdx = entry.lastCommitMessage.indexOf(": ");
               const note = colonIdx !== -1
                 ? entry.lastCommitMessage.slice(colonIdx + 2)
-                : null;
+                : entry.lastCommitMessage;
               if (!note) return null;
               const capitalised = note.charAt(0).toUpperCase() + note.slice(1);
               const datePart = showDate && entry.lastUpdatedAt

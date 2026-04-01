@@ -47,7 +47,7 @@ If you're creating a portfolio, it's important to showcase your work as well. Th
 - Personal Blogs or Medium
 - Platforms like Kaggle, Devpost, etc. that are relevant to your domain
 - Social Media, especially Twitter and LinkedIn
-- GitHub
+- Github
 - YouTube
 
 ## Creating Connections

@@ -4,7 +4,7 @@
 
 Compared to Iran, and what I've seen on other countries, there are some differences in the banking system in the Netherlands. The main difference is **credit cards aren't common in here** and people mostly use debit cards.
 
-The second difference is that Dutch banks used to use Maestro instead of Visa and Mastercard and because of that, [iDeal](#ideal) is the common payment gateway in the Netherlands. MasterCard is planned to be replacing Maestro from July 2023.
+The second difference is that Dutch banks used to use Maestro instead of Visa and Mastercard and because of that, [iDeal](#ideal) is the common payment gateway in the Netherlands. Mastercard is planned to be replacing Maestro from July 2023.
 
 ## iDeal
 

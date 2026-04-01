@@ -74,7 +74,7 @@ For I/O bound tasks, you can use `asyncio` to utilize multiple cores. For CPU bo
   - You can do `if "ello" in "hello": print("yes")`
   - You can iterate over them: `for c in "hello": print(c)`
   - You can slice them with indexes `"hello"[1:]`
-- Multiline strings are used for multiline comments. [@gvanrossum's tweet](https://twitter.com/gvanrossum/status/112670605505077248)
+- multiline strings are used for multiline comments. [@gvanrossum's tweet](https://twitter.com/gvanrossum/status/112670605505077248)
 - When used as docstrings, multiline strings are parsed and become accessible through the `__doc__` property of the object.
 
   ```python

@@ -40,7 +40,7 @@ If you can't find a good cut, maybe the photo wasn't composed well in the first 
 
 ### Removal
 
-Look for objects or people that aren't part of your ideal look and feel. I use lightroom's `AI Removal` tool to remove them.
+Look for objects or people that aren't part of your ideal look and feel. I use Lightroom's `AI Removal` tool to remove them.
 
 ### Color Correction
 

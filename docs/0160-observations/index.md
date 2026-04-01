@@ -4,7 +4,7 @@ import ChildPages from '@site/src/components/child-pages';
 
 :::info
 
-You can access to this page from [enshittified.world](https://enshittified.world).
+You can access to this page from [Enshittified.world](https://enshittified.world).
 
 :::
 

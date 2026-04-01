@@ -1,4 +1,6 @@
+<!-- vale off -->
 import WikimediaToMarkdown from '@site/src/components/wikimedia-markdown';
+<!-- vale on -->
 
 # Wikimedia Embedding in Markdown
 

@@ -87,7 +87,7 @@ You need a phone number to be able to do a lot of things like opening a bank acc
 
 ### Bank Account
 
-After you arrived, you need to be able to pay for stuff (including short stay or deposit and rent) And you need to have a bank account for that. This is mostly problematic for residence of countries that don't have access to the internationally recognized payment systems like Visa and MasterCard.
+After you arrived, you need to be able to pay for stuff (including short stay or deposit and rent) And you need to have a bank account for that. This is mostly problematic for residence of countries that don't have access to the internationally recognized payment systems like Visa and Mastercard.
 
 On the other hand most banks require your `BSN` upon opening a bank account, which you get the first time you register at the municipality. This chicken and egg problem doesn't always have a straight forward solution specially if you don't have a temporary address. But if you have temporary address, some banks like [ABN AMRO](https://www.abnamro.nl/en/personal/specially-for/expats/international-clients-desk.html) and [Revolut](https://revolut.com) allow you to open a bank account without a `BSN` and give you eight weeks to provide it.
 
@@ -137,7 +137,7 @@ If you're not an EU citizen, you need to collect your residence permit from IND 
 
 ### Health Insurance
 
-You have to get health insurance in the Netherlands within 4 months of your arrival. You can compare different health insurance providers and get health insurance on [independer](https://www.independer.nl).
+You have to get health insurance in the Netherlands within 4 months of your arrival. You can compare different health insurance providers and get health insurance on [Independer](https://www.independer.nl).
 
 You can read more about this on [Healthcare](./050-healthcare.md).
 

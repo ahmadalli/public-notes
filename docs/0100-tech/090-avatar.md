@@ -1,7 +1,7 @@
 # Avatar
 
 - [Gravatar](https://en.gravatar.com/)
-- [GitHub](https://github.com/settings/profile)
+- [Github](https://github.com/settings/profile)
 - [Google Account](https://myaccount.google.com/)
 - [Twitter](https://twitter.com/settings/profile)
 - [Facebook and Instagram](https://accountscenter.facebook.com/)

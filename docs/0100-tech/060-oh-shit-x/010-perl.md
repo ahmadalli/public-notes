@@ -174,7 +174,7 @@ while (EXPR) {
 
 `for` and `foreach` are the same and can be used interchangeably.
 
-### Boolean
+### boolean
 
 Perl doesn't have a boolean type, it uses falsy and truthy values instead. The falsy values are `undef`, `0`, `""`, `"0"`, and empty list, array, and hash. Everything else is truthy.
 

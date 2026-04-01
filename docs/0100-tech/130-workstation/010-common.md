@@ -15,7 +15,7 @@
 - Bash
   - bash-completion
 - Git
-- GitHub Desktop
+- Github Desktop
 - Ansible
 - Terraform
 - Docker
@@ -100,4 +100,4 @@
 
 #### Recommended Extensions
 
-- **[LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)**: I use it in my phone (which I hadn't logged into Twitter) redirect Twitter links to nitter.
+- **[LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)**: I use it in my phone (which I hadn't logged into Twitter) redirect Twitter links to Nitter.

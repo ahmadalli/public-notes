@@ -89,7 +89,7 @@ Some sellers share the car's maintenance history in their listing, which is a go
 
 - Make sure the car is maintained according to the owner's manual, **at least once a year**.
 - [Hunch] I trust the car better if it has been maintained by a reputable garage, preferably by an authorized dealer.
-  - For Toyota hybrids, if the car has been maintained by an authorized dealer, the battery will be covered by an extended warranty.
+  - For Toyota hybrids, if the car has been maintained by an authorized dealer and the [Hybride Zekerheid Controle](https://www.toyota.nl/toyota-rijders/service-onderhoud/hybride-zekerheid-controle) ([web archive](https://web.archive.org/web/*/https://www.toyota.nl/toyota-rijders/service-onderhoud/hybride-zekerheid-controle)) is performed on the car on each service (yearly or every 15,000 km), the battery warranty will be extended up to 15 years.
 - [Hunch] Take note of the mileage difference between services. A balanced maintenance history is a good sign that the car has been used regularly. If the car has been sitting idle for an extended time, some parts may have degraded.
 - It would be ideal if you could see the detailed maintenance history, as it gives you a better idea of the car's condition, but it's not always possible.
 
@@ -131,4 +131,5 @@ These might make it harder for you to resell the car in the future, or might req
 
 - **Keys**: It might be obvious, but the car must have two keys.
 - **Accessories**: Make sure the car has all the accessories it should have. The car I bought didn't have the cover for the luggage compartment, and initially the dealer claimed it was an optional accessory. I had to go through some back-and-forth to prove it was a mandatory accessory; they then contacted the previous owner and got it back.
+- **Toyota Hybrid Battery Certificate**: When buying a Toyota hybrid, ask the seller for the [Hybride Zekerheid Controle](https://www.toyota.nl/toyota-rijders/service-onderhoud/hybride-zekerheid-controle) ([web archive](https://web.archive.org/web/*/https://www.toyota.nl/toyota-rijders/service-onderhoud/hybride-zekerheid-controle)) certificate if available.
 - **BOVAG Guarantee**: [Hunch] I would feel more confident buying a car with a BOVAG guarantee, as I can get the car repaired if I encounter an issue that I couldn't find when checking the car.

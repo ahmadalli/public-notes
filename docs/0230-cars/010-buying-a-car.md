@@ -89,7 +89,7 @@ Some sellers share the car's maintenance history in their listing, which is a go
 
 - Make sure the car is maintained according to the owner's manual, **at least once a year**.
 - [Hunch] I trust the car better if it has been maintained by a reputable garage, preferably by an authorized dealer.
-  - For Toyota hybrids, if the car has been maintained by an authorized dealer, the battery will be covered by an extended warranty.
+  - For Toyota hybrids, the [Hybride Zekerheid Controle](https://www.toyota.nl/toyota-rijders/service-onderhoud/hybride-zekerheid-controle) ([web archive](https://web.archive.org/web/*/https://www.toyota.nl/toyota-rijders/service-onderhoud/hybride-zekerheid-controle)) must be performed annually to extend the hybrid battery warranty. It's automatically included in Standard and Complete maintenance packages, but must be added separately (€69.95) for the Budget package. If done every year, the battery can be covered for up to 15 years.
 - [Hunch] Take note of the mileage difference between services. A balanced maintenance history is a good sign that the car has been used regularly. If the car has been sitting idle for an extended time, some parts may have degraded.
 - It would be ideal if you could see the detailed maintenance history, as it gives you a better idea of the car's condition, but it's not always possible.
 

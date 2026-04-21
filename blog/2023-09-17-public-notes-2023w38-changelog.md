@@ -10,7 +10,7 @@ Another topic is the games I like and enjoy. I started with [Nier Series](https:
 
 I also played Super Mario on the Casio Prizm. Additionally, there have been some small updates on other pages, which you can find in the changelog below:
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Full Changelog
 

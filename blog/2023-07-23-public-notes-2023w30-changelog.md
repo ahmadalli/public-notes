@@ -6,7 +6,7 @@ authors: ahmadalli
 
 This is the first changelog, so here's the top level categories that I've created from the beginning:
 
-<!-- truncate -->
+{/* truncate */}
 
 - [Intro](/)
 - [A Guide to Writing](/a-guide-to-writing)

@@ -2,11 +2,11 @@
 
 From [this Reddit Post](https://www.reddit.com/r/technology/comments/1gc2zol/comment/ltrfu7x/):
 
-<!-- vale off -->
+{/* vale off */}
 > ... I almost got fired for replacing a tensioner spring on a commercial printer. I was a computer operator in a tax processing data center, we had a several hundred page report due to the state dept of tax each morning with the results from the previous day processing that only printed to a single printer specified for that report. About an hour before the courier came to pick it up it hadn’t printed yet so I went to see why. Nothing seemed out of sorts so I looked at the printer closer to make sure there wasn’t a jam and noticed a spring had come loose so I just reset it and everything went smoothly.
 >
 > The next day I got called into a meeting after my shift (I worked third shift 12am-8am) with my boss, the vp for my region and the vp of Microsystems (dept in charge of printers) and I got literally yelled at for touching a Microsystems machine without authorization. The vp of Microsystems wanted me fired but when I explained that I called the on call and no one responded and that we would have missed the deliverable to the state if I hadn’t done what I did the regional jumped in to tell me if I did it again I would be fired but that for this one time they would let it slide.
-<!-- vale on -->
+{/* vale on */}
 
 This isn't a nice outcome because there are other parties in this context with their own set of needs and rules. For example, there are probably some regulations that require the company to have a certain level of control over their devices and only allows "authorized" personnel to touch them. This rule is in place because there has been a time when grass was greener and we used to trust each other but some parties took advantage of this trust and (probably illegally) profited from it.
 

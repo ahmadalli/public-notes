@@ -31,7 +31,7 @@ I've documented my takes on the [Large Language Models and ChatGPT in 3 Weeks](h
 - I've published my internal utilities page with a guide on embedding Wikimedia media in Markdown
 - I'm also working on a tool to help me generate changelogs. You can find it [here](https://github.com/ahmadalli/public-notes/blob/318a9041bb0c5a51bfc514fa5cdb42e23485ed9b/tools/changelog-generate.sh)
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Full Changelog
 

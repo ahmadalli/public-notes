@@ -28,7 +28,7 @@ To use Home Assistant integrations, I installed the `BoilerStatus` app from the 
 
 #### Reducing the Memory Usage
 
-<!-- TODO: Update this after testing -->
+{/* TODO: Update this after testing */}
 :::info
 
 Although my Toon has been more stable, I need more time to verify it works in the long run. So this solution is still a work in progress.

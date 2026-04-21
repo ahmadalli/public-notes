@@ -6,7 +6,7 @@ authors: ahmadalli
 
 In the past two weeks I was busy with creating [The SRE Audiobook](https://podcasters.spotify.com/pod/show/sre-audiobook), [its project docs](https://publicnotes.io/projects/sre-audiobook/), and [ohshitpython.com](https://ohshitpython.com).
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Full Changelog
 

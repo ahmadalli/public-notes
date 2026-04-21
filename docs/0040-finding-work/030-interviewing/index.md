@@ -47,7 +47,7 @@ Whether you have your salary expectations ready or not, **don't** give a number 
 
 The recruiters might persist in asking for a minimum salary range. Depending on your situation and knowledge of the market and company, you can provide the salary range that you believe to be reasonable and fair.
 
-### Your Questions {#recruiter-interview-your-questions}
+### Your Questions
 
 This is your first opportunity to learn about the company and the position. So, make sure to prepare a list of questions to ask the recruiter. I usually ask about the following topics:
 
@@ -163,7 +163,7 @@ You might also be asked some questions about your design:
 - Reliability aspects of your design like fault tolerance, disaster recovery, etc
 - Security aspects of your design like authentication, authorization, etc
 
-### Your Questions {#technical-interview-your-questions}
+### Your Questions
 
 This is a good chance to get to know the engineering culture of the company since technical interviews are usually done by engineers. I usually ask about the following topics:
 
@@ -223,7 +223,7 @@ Here are some red flags that you should avoid when answering:
 - Talking negatively about your previous company, team, or manager
 - Demonstrating a lack of communication skills, such as being defensive about your answers
 
-### Your Questions {#behavioral-interview-your-questions}
+### Your Questions
 
 This is the best chance for you to get to know the position, team, and day-to-day tasks. I usually ask about the following topics:
 

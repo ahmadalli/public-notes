@@ -6,7 +6,7 @@ authors: ahmadalli
 
 In the past few weeks, I've been busy with [my on-boarding at Booking.com 😄](https://www.linkedin.com/posts/ahmadalli_im-happy-to-share-that-im-starting-a-new-activity-7093953424672579584-5ViF) and leaning Perl, which lead me to buy [ohshitperl.com](https://ohshitperl.com) and write about its quirks.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Full Changelog
 

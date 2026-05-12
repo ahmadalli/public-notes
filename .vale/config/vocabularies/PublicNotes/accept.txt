@@ -43,6 +43,7 @@ Excalidraw
 Felyx
 Flappy
 Flickr
+Friedhats
 Funda
 Gaspedaal
 Geldwijzer

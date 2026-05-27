@@ -1,5 +1,11 @@
 # Clever Messages
 
+:::info
+
+Clever Messages has been archived and is no longer live.
+
+:::
+
 ## Why
 
 As a non-native English speaker, I sometimes struggle to find the right words to write a message. I wanted to explore this problem space and see if I clarify the problem and come up with a solution.

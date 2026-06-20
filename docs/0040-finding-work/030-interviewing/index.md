@@ -143,6 +143,7 @@ Make sure that you're familiar with the common drawing platforms like Miro, Draw
 
 There are some resources that can help you prepare for this interview:
 
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Resources on Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide#system-design)
 - [System Design Course](https://github.com/karanpratapsingh/system-design)

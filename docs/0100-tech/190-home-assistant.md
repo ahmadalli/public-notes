@@ -10,6 +10,10 @@
 - [Better Thermostat](https://better-thermostat.org/)
 - [Scheduler Component](https://github.com/nielsfaber/scheduler-component) and [Scheduler Card](https://github.com/nielsfaber/scheduler-card): I use them for managing the thermostat schedule.
 
+## Cool Integrations
+
+- [OpenUV](https://www.home-assistant.io/integrations/openuv/): I stumbled upon [Sunburn Calculator](https://sunburntimer.com) on HN and found its equivalent in Home Assistant.
+
 ## Device Integrations
 
 ### Toon

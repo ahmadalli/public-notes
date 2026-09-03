@@ -111,7 +111,7 @@ Make sure that you're familiar with the common collaborative coding platforms li
 
 There are some resources that can help you prepare for this interview:
 
-- Algorithmic problem-solving sites like [LeetCode](https://leetcode.com/) and [AlgoExpert](https://www.algoexpert.io/)
+- Algorithmic problem-solving sites like [LeetCode](https://leetcode.com/), [AlgoExpert](https://www.algoexpert.io/), and [PracHub's coding interview practice plan](https://prachub.com/resources/coding-interview-practice-the-ultimate-2026-plan)
 - Books like [Cracking the Coding Interview](https://www.goodreads.com/en/book/show/55014663)
 - Interview videos on YouTube
 

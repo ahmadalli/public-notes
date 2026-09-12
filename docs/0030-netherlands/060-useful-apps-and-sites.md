@@ -62,9 +62,9 @@ Personally I find route planning with dutch apps to be very similar to each othe
 
 ## Shopping
 
-- [Stocard](https://stocardapp.com/en/): Store all your loyalty cards in one app
-  - [Android](https://play.google.com/store/apps/details?id=de.stocard.stocard)
-  - [iOS](https://apps.apple.com/nl/app/id444578884)
+- [SuperCards](https://www.supercardsapp.com/): Store all your loyalty cards in one app
+  - [Android](https://play.google.com/store/apps/details?id=de.superapps.supercards)
+  - [iOS](https://apps.apple.com/nl/app/supercards-store-card/id6482576688)
 
 ### Groceries
 

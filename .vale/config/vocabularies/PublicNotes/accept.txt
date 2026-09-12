@@ -109,7 +109,7 @@ Sixt
 Spotify
 Spiir
 Stapele
-Stocard
+SuperCards
 Streamlit
 substack
 Styrbar

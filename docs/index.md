@@ -35,4 +35,4 @@ Keep in mind that these entries are snapshots of experiences and beliefs. They'r
 
 ## The Projects
 
-Take a look at [here](./0070-projects/010-public-notes/index.md) to read more about the public notes project itself.
+Take a look at [here](./0090-projects/010-public-notes/index.md) to read more about the public notes project itself.

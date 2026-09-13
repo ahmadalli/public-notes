@@ -4,8 +4,6 @@ slug: /d/vn0h57
 aliases:
   - /photography-and-cinematography/picture-post-processing
 ---
-import ChildPages from '@site/src/components/child-pages';
-
 # Picture Post-Processing
 
 The goal of post-processing is to enhance the photo to tell the story you want to tell. It's not about making the photo look good, but rather to make it look the way you want it to look. Usually, you want to put more emphasis on the subject and use the other elements to support it.
@@ -128,4 +126,5 @@ Here are some tips:
 
 ## Read More
 
-<ChildPages depth={2} />
+- [Stacking](./040-stacking.md)
+- [Black and White](./050-black-and-white.md)

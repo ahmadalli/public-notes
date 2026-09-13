@@ -1,7 +1,11 @@
 const { test } = require('node:test');
 const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const os = require('node:os');
+const path = require('node:path');
 const {
   canonicalPathFor,
+  collectDocumentUrlRecords,
   legacyPathFor,
   validateDocumentUrlRecords,
 } = require('./document-url-contract.cjs');
@@ -33,4 +37,31 @@ test('rejects aliases that collide with another document canonical path', () => 
     { filePath: 'docs/a.md', relativePath: 'a.md', uid: 'k7f2q9', slug: '/d/k7f2q9', aliases: ['/d/p3r4s5'] },
     { filePath: 'docs/b.md', relativePath: 'b.md', uid: 'p3r4s5', slug: '/d/p3r4s5', aliases: [] },
   ]), ['docs/a.md: aliases must be distinct from canonical paths']);
+});
+
+test('requires aliases to be a sequence or an explicit empty array', () => {
+  const docsDirectory = fs.mkdtempSync(path.join(os.tmpdir(), 'document-url-contract-'));
+  const bareAliasesPath = path.join(docsDirectory, 'bare-aliases.md');
+  const emptyAliasesPath = path.join(docsDirectory, 'empty-aliases.md');
+
+  try {
+    fs.writeFileSync(bareAliasesPath, '---\nuid: k7f2q9\nslug: /d/k7f2q9\naliases:\n---\n');
+    fs.writeFileSync(emptyAliasesPath, '---\nuid: p3r4s5\nslug: /d/p3r4s5\naliases: []\n---\n');
+
+    assert.throws(
+      () => collectDocumentUrlRecords(docsDirectory),
+      /bare-aliases\.md: aliases must be a YAML sequence or \[\]/,
+    );
+
+    fs.rmSync(bareAliasesPath);
+    assert.deepEqual(collectDocumentUrlRecords(docsDirectory), [{
+      filePath: emptyAliasesPath,
+      relativePath: 'empty-aliases.md',
+      uid: 'p3r4s5',
+      slug: '/d/p3r4s5',
+      aliases: [],
+    }]);
+  } finally {
+    fs.rmSync(docsDirectory, { force: true, recursive: true });
+  }
 });

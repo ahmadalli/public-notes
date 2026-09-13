@@ -68,6 +68,9 @@ function aliasesFor(lines, filePath) {
     if (!match) throw new Error(`${filePath}: aliases must be a YAML sequence or []`);
     aliases.push(match[1].trim());
   }
+  if (aliases.length === 0) {
+    throw new Error(`${filePath}: aliases must be a YAML sequence or []`);
+  }
   return aliases;
 }
 

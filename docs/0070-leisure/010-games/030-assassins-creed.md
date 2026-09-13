@@ -31,7 +31,7 @@ Later on I tried the same configuration as [Brotherhood](#assassins-creed-brothe
 
 ### Steam Deck Configuration
 
-Following the recommendation in [protondb](https://www.protondb.com/app/48190?device=steamDeck), I used `GE-Proton-10-15` (using [ProtonUp-Qt](../0100-tech/170-steam-deck.md#protonup-qt)) and the following launch options:
+Following the recommendation in [protondb](https://www.protondb.com/app/48190?device=steamDeck), I used `GE-Proton-10-15` (using [ProtonUp-Qt](../../0050-tech/170-steam-deck.md#protonup-qt)) and the following launch options:
 
 ```shell
 PROTON_PREFER_SDL=1 %command%

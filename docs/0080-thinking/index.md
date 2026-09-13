@@ -14,7 +14,7 @@ You can access to this page from [Enshittified.world](https://enshittified.world
 
 :::
 
-I'm writing about my observations starting with [Why Can't We Have Nice Things](./010-no-nice-things/index.md) and [Enshittified World](./020-enshittified-world/index.md)
+I'm writing about my observations starting with [Why Can't We Have Nice Things](./040-why-cant-we-have-nice-things/index.md) and [Enshittified World](./050-enshittified-world/index.md)
 
 ## Table of Contents
 

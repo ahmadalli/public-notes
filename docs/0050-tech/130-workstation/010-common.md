@@ -60,7 +60,7 @@ aliases:
 
 - Set as default browser
 - Change search engine to Google
-  - Change search option from `Search bar` to `Address bar` (Check out [Microsoft Edge Dark Patterns](../../0160-observations/030-dark-patterns/0010-microsoft-edge.md#default-search-engine))
+  - Change search option from `Search bar` to `Address bar` (Check out [Microsoft Edge Dark Patterns](../../0080-thinking/060-dark-patterns/0010-microsoft-edge.md#default-search-engine))
 
 #### Zoom
 

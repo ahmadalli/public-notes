@@ -4,11 +4,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 import { collectDocumentUrlRecords } from "./scripts/document-url-contract.cjs";
-import type { DocumentUrlRecord } from "./scripts/document-url-contract.d.ts";
+import { canonicalRedirectPath } from "./scripts/redirect-path.cjs";
 
-const documentUrlRecords: DocumentUrlRecord[] = collectDocumentUrlRecords(
-  path.join(__dirname, "docs"),
-);
+const documentUrlRecords = collectDocumentUrlRecords(path.join(__dirname, "docs"));
 const aliasesByPath = new Map(
   documentUrlRecords.map(({ slug, aliases }) => [slug, aliases]),
 );
@@ -147,7 +145,7 @@ const config: Config = {
       "@docusaurus/plugin-client-redirects",
       {
         createRedirects(existingPath: string) {
-          return aliasesByPath.get(existingPath) ?? [];
+          return aliasesByPath.get(canonicalRedirectPath(existingPath)) ?? [];
         },
       },
     ],

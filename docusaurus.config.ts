@@ -1,7 +1,17 @@
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+import * as path from "path";
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import { collectDocumentUrlRecords } from "./scripts/document-url-contract.cjs";
+import type { DocumentUrlRecord } from "./scripts/document-url-contract.d.ts";
+
+const documentUrlRecords: DocumentUrlRecord[] = collectDocumentUrlRecords(
+  path.join(__dirname, "docs"),
+);
+const aliasesByPath = new Map(
+  documentUrlRecords.map(({ slug, aliases }) => [slug, aliases]),
+);
 
 const config: Config = {
   title: "Public Notes",
@@ -133,6 +143,14 @@ const config: Config = {
   } satisfies Preset.ThemeConfig,
 
   plugins: [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        createRedirects(existingPath: string) {
+          return aliasesByPath.get(existingPath) ?? [];
+        },
+      },
+    ],
     [
       "docusaurus-lunr-search",
       {

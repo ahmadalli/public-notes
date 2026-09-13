@@ -1,3 +1,9 @@
+---
+uid: gsfm9x
+slug: /d/gsfm9x
+aliases:
+  - /tech/bios
+---
 # Bios
 
 ## Troubleshooting

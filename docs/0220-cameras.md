@@ -1,3 +1,9 @@
+---
+uid: pn73y5
+slug: /d/pn73y5
+aliases:
+  - /cameras
+---
 # Cameras
 
 ## Second Hand Lenses

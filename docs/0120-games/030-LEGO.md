@@ -1,3 +1,9 @@
+---
+uid: hr815p
+slug: /d/hr815p
+aliases:
+  - /games/LEGO
+---
 # LEGO
 
 ## Community Designed LEGO Sets

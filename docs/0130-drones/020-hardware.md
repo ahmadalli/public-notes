@@ -1,3 +1,9 @@
+---
+uid: cvzvfv
+slug: /d/cvzvfv
+aliases:
+  - /drones/hardware
+---
 # Hardware
 
 So far, I have found DJI drones to be the best options in terms of image quality, stability, and ease of use. I get the combo versions because they come with extra batteries and a charging station, which comes in handy when you're out and about. I played with the RYZE Tello for a short time (not a good comparison, but still) and not having extra batteries was a pain.

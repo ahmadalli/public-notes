@@ -1,3 +1,9 @@
+---
+uid: fnd12d
+slug: /d/fnd12d
+aliases:
+  - /netherlands
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Netherlands

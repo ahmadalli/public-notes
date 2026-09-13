@@ -1,3 +1,9 @@
+---
+uid: xg01r8
+slug: /d/xg01r8
+aliases:
+  - /games/nier
+---
 # NieR and Drakengard Series
 
 I've started playing NieR:Automata and I fell in love with the story. Afterwards the game's background got me interested and I decided to play NieR:Replicant as well and I enjoyed it because of different reasons.

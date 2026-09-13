@@ -1,3 +1,9 @@
+---
+uid: 932jsj
+slug: /d/932jsj
+aliases:
+  - /projects/public-notes/superpowers/plans/2026-09-12-public-notes-url-restructure
+---
 # Public Notes URL Restructure Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.

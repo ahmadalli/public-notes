@@ -1,3 +1,9 @@
+---
+uid: jefqbc
+slug: /d/jefqbc
+aliases:
+  - /home-errands/maintenance
+---
 # Maintenance
 
 ## Changing Locks

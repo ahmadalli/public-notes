@@ -1,3 +1,9 @@
+---
+uid: vevsv2
+slug: /d/vevsv2
+aliases:
+  - /netherlands/amsterdam
+---
 # Amsterdam
 
 ## Reporting Issues to the Municipality

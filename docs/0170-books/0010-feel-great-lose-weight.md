@@ -1,3 +1,9 @@
+---
+uid: ds6krx
+slug: /d/ds6krx
+aliases:
+  - /books/feel-great-lose-weight
+---
 # Feel Great, Lose Weight
 
 ## Links

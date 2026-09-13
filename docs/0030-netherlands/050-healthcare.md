@@ -1,3 +1,9 @@
+---
+uid: ak0kp0
+slug: /d/ak0kp0
+aliases:
+  - /netherlands/healthcare
+---
 # Healthcare
 
 ## Mandatory Health Insurance

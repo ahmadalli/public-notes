@@ -1,3 +1,9 @@
+---
+uid: 7ezc91
+slug: /d/7ezc91
+aliases:
+  - /observations
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Observations

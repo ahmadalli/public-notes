@@ -1,3 +1,9 @@
+---
+uid: x2brvm
+slug: /d/x2brvm
+aliases:
+  - /tech/phone
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Phone

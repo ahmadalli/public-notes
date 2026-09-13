@@ -1,3 +1,9 @@
+---
+uid: x32n0s
+slug: /d/x32n0s
+aliases:
+  - /tech/streaming-games
+---
 # Streaming Games
 
 To stream games from your PC to another device, like your TV or your phone.

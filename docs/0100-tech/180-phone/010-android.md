@@ -1,3 +1,9 @@
+---
+uid: z2t7ta
+slug: /d/z2t7ta
+aliases:
+  - /tech/phone/android
+---
 # Android
 
 ## Samsung OS Flashing

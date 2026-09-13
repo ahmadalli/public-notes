@@ -1,3 +1,9 @@
+---
+uid: stb7cc
+slug: /d/stb7cc
+aliases:
+  - /photography-and-cinematography/media-organization
+---
 # Media Organization
 
 I use Adobe Lightroom Classic to organize my photos and videos. Each device has its own catalog as I don't do any work that uses multiple devices and so far, I haven't had the need to have a single catalog for all devices. I use the `<Year>/<YYYY-MM-DD>/<file>` folder structure when importing files.

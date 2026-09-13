@@ -1,3 +1,9 @@
+---
+uid: 23vve3
+slug: /d/23vve3
+aliases:
+  - /websites-and-tools
+---
 # Websites and Tools
 
 Interesting things I've found across the web.

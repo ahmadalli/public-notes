@@ -1,3 +1,9 @@
+---
+uid: 5gnyve
+slug: /d/5gnyve
+aliases:
+  - /drones
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Drones

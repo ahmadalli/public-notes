@@ -1,3 +1,9 @@
+---
+uid: 1f5ksb
+slug: /d/1f5ksb
+aliases:
+  - /coffee
+---
 # Coffee
 
 ## Where I Buy My Coffee

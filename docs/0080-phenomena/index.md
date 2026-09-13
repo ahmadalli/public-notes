@@ -1,3 +1,9 @@
+---
+uid: 2f63sy
+slug: /d/2f63sy
+aliases:
+  - /phenomena
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Phenomena

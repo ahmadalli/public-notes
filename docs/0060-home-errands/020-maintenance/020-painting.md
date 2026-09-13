@@ -1,3 +1,9 @@
+---
+uid: en0ca2
+slug: /d/en0ca2
+aliases:
+  - /home-errands/maintenance/painting
+---
 # Painting
 
 ## Common Issues

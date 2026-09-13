@@ -1,3 +1,9 @@
+---
+uid: jgrsqy
+slug: /d/jgrsqy
+aliases:
+  - /photography-and-cinematography/lightroom
+---
 # Adobe Lightroom
 
 ## Edit Versioning

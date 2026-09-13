@@ -1,3 +1,9 @@
+---
+uid: 536shd
+slug: /d/536shd
+aliases:
+  - /netherlands/useful-apps-and-sites
+---
 # Useful Apps and Sites
 
 ## Weather

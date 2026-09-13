@@ -1,3 +1,9 @@
+---
+uid: f0xqv3
+slug: /d/f0xqv3
+aliases:
+  - /photography-and-cinematography/taking-pictures
+---
 # Taking Pictures
 
 Here's a list of things to keep in mind when taking pictures:

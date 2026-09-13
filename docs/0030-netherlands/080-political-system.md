@@ -1,3 +1,9 @@
+---
+uid: 5e8d3z
+slug: /d/5e8d3z
+aliases:
+  - /netherlands/political-system
+---
 # Political System
 
 This video provides a good overview of the Dutch political system:

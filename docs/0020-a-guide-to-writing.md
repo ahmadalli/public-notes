@@ -1,3 +1,9 @@
+---
+uid: 24csx4
+slug: /d/24csx4
+aliases:
+  - /a-guide-to-writing
+---
 # A Guide to Writing
 
 Most of the content on this page is derived from my lessons learned at the O'Reilly event, [Fundamentals of Technical Writing](https://www.oreilly.com/live-events/fundamentals-of-technical-writing/0636920077082/0636920083497/). The information that follows is an adaptation and summary of this event.

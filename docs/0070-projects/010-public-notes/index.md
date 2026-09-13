@@ -1,3 +1,9 @@
+---
+uid: xtm16q
+slug: /d/xtm16q
+aliases:
+  - /projects/public-notes
+---
 # Public Notes
 
 ## Why
@@ -53,7 +59,7 @@ I aim to achieve the following goals with this project:
 
 #### Actions
 
-Designed in [URL Restructure Design](./010-url-restructure-design.md). Pages move to `/d/<uid>/`, with no readable slug, so no edit can ever change a URL. Redirects for the current paths are generated from frontmatter and frozen after the migration.
+Designed in [URL Restructure Design](./superpowers/specs/2026-09-02-public-notes-url-restructure-design.md). Pages move to `/d/<uid>/`, with no readable slug, so no edit can ever change a URL. Redirects for the current paths are generated from frontmatter and frozen after the migration.
 
 ### Search
 

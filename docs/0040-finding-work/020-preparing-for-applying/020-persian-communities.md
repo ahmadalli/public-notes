@@ -1,3 +1,9 @@
+---
+uid: kv16xv
+slug: /d/kv16xv
+aliases:
+  - /finding-work/preparing-for-applying/persian-communities
+---
 # Persian Communities
 
 Here are some Persian communities that are active on topics related to finding work:

@@ -1,3 +1,9 @@
+---
+uid: 1vdxmf
+slug: /d/1vdxmf
+aliases:
+  - /tech/oh-shit-x
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Oh Shit, X

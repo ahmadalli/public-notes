@@ -1,3 +1,9 @@
+---
+uid: w4c0rk
+slug: /d/w4c0rk
+aliases:
+  - /projects/public-notes/superpowers/specs/2026-09-02-public-notes-url-restructure-design
+---
 # URL Restructure Design
 
 Design for decoupling page URLs from the directory tree, so the notes can be reorganized without breaking links.

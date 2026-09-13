@@ -1,3 +1,9 @@
+---
+uid: p467sc
+slug: /d/p467sc
+aliases:
+  - /soft-skills/structured-storytelling
+---
 # Structured Storytelling
 
 The contents of this entry are based on lessons from [Lepaya](https://lepaya.com/)'s structured storytelling module.

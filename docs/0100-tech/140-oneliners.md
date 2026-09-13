@@ -1,3 +1,9 @@
+---
+uid: 0ymnbb
+slug: /d/0ymnbb
+aliases:
+  - /tech/oneliners
+---
 # Oneliners
 
 :::info

@@ -1,3 +1,9 @@
+---
+uid: 7v0mn3
+slug: /d/7v0mn3
+aliases:
+  - /photography-and-cinematography/picture-post-processing/black-and-white
+---
 # Black and White
 
 Inspired from [this guide](https://www.youtube.com/watch?v=itw37I51LAg), I found these tips to be useful:

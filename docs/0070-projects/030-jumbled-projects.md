@@ -1,3 +1,9 @@
+---
+uid: z5s5eh
+slug: /d/z5s5eh
+aliases:
+  - /projects/jumbled-projects
+---
 # Jumbled Projects
 
 Jumbled projects are me overcoming my obsession over creating the perfect groundwork and a strong base before building a project. That's why they're "jumbled".

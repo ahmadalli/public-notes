@@ -1,3 +1,9 @@
+---
+uid: 1dxtft
+slug: /d/1dxtft
+aliases:
+  - /tech/oh-shit-x/spreadsheets/excel
+---
 # Excel
 
 ## Copying Range of Formulas

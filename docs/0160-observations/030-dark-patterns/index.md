@@ -1,3 +1,9 @@
+---
+uid: jpgrd1
+slug: /d/jpgrd1
+aliases:
+  - /observations/dark-patterns
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Dark Patterns

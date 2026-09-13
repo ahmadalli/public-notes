@@ -1,3 +1,9 @@
+---
+uid: 41ba2w
+slug: /d/41ba2w
+aliases:
+  - /tech/onedrive
+---
 # OneDrive
 
 ## Excluding Folders From Sync

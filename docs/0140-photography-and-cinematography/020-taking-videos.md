@@ -1,3 +1,9 @@
+---
+uid: srqb6f
+slug: /d/srqb6f
+aliases:
+  - /photography-and-cinematography/taking-videos
+---
 # Taking Videos
 
 ## General

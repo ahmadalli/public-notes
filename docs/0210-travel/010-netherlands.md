@@ -1,3 +1,9 @@
+---
+uid: 06v7gw
+slug: /d/06v7gw
+aliases:
+  - /travel/netherlands
+---
 # The Netherlands
 
 ## Amsterdam

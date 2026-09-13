@@ -1,3 +1,9 @@
+---
+uid: gbzx4z
+slug: /d/gbzx4z
+aliases:
+  - /photography-and-cinematography
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Photography and Cinematography

@@ -1,5 +1,9 @@
 ---
 toc_max_heading_level: 4
+uid: vejsgk
+slug: /d/vejsgk
+aliases:
+  - /tech/oh-shit-x/python
 ---
 
 # Oh Shit, Python!

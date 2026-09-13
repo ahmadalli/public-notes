@@ -1,3 +1,9 @@
+---
+uid: sastmv
+slug: /d/sastmv
+aliases:
+  - /travel
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Travel

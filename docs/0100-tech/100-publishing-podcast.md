@@ -1,3 +1,9 @@
+---
+uid: bbd1p0
+slug: /d/bbd1p0
+aliases:
+  - /tech/publishing-podcast
+---
 # Publishing a Podcast
 
 ## Hosting

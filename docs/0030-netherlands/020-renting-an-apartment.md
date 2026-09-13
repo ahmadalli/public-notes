@@ -1,3 +1,9 @@
+---
+uid: 8pdbgm
+slug: /d/8pdbgm
+aliases:
+  - /netherlands/renting-an-apartment
+---
 # Renting An Apartment
 
 ## Criteria

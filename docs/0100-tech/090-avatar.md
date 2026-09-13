@@ -1,3 +1,9 @@
+---
+uid: 47awnt
+slug: /d/47awnt
+aliases:
+  - /tech/avatar
+---
 # Avatar
 
 - [Gravatar](https://en.gravatar.com/)

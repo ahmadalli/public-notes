@@ -1,3 +1,9 @@
+---
+uid: f2tx98
+slug: /d/f2tx98
+aliases:
+  - /tech/yubikey
+---
 # YubiKey
 
 ## Troubleshooting

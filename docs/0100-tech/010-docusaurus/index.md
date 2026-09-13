@@ -1,3 +1,9 @@
+---
+uid: qvfbav
+slug: /d/qvfbav
+aliases:
+  - /tech/docusaurus
+---
 import ChildPages from '@site/src/components/child-pages';
 
 

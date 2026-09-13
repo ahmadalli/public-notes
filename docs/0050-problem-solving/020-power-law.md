@@ -1,3 +1,9 @@
+---
+uid: ts2d5k
+slug: /d/ts2d5k
+aliases:
+  - /problem-solving/power-law
+---
 # Power Law
 
 [Power law](https://en.wikipedia.org/wiki/Power_law) in real life means that when you're facing a distribution of things, a small number of them will be responsible for a large portion of the results. For example, in a company, a small number of people will be responsible for a large portion of the work. In a city, a small number of people will be responsible for a large portion of the crime. In a country, a small number of people will be responsible for a large portion of the wealth.

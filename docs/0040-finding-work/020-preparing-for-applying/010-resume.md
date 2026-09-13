@@ -1,3 +1,9 @@
+---
+uid: tx64m2
+slug: /d/tx64m2
+aliases:
+  - /finding-work/preparing-for-applying/resume
+---
 # Resume
 
 From previous experience, I take an iterative approach to improve my resume. I start with **structure**, then **wording and formatting**, and finally **content**.

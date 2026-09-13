@@ -1,3 +1,9 @@
+---
+uid: s2fxqj
+slug: /d/s2fxqj
+aliases:
+  - /netherlands/banking
+---
 # Banking
 
 ## Observations

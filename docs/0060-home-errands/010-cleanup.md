@@ -1,3 +1,9 @@
+---
+uid: 6w1trw
+slug: /d/6w1trw
+aliases:
+  - /home-errands/cleanup
+---
 # Cleanup
 
 ## Bathroom

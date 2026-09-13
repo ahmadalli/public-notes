@@ -1,3 +1,9 @@
+---
+uid: 6jywh6
+slug: /d/6jywh6
+aliases:
+  - /games/rainbow-six
+---
 # Rainbow Six Siege
 
 I like the strategic aspect of the game compared to other FPS games. I also like the fact that it's not a run and gun game. It's more about positioning, planning, and predicting your opponent's moves.

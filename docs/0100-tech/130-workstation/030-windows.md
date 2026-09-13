@@ -1,3 +1,9 @@
+---
+uid: 2rfks3
+slug: /d/2rfks3
+aliases:
+  - /tech/workstation/windows
+---
 # Windows
 
 ## Installation

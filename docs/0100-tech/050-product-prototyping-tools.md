@@ -1,3 +1,9 @@
+---
+uid: cahezp
+slug: /d/cahezp
+aliases:
+  - /tech/product-prototyping-tools
+---
 # Product Prototyping Tools
 
 ## Basic Tools

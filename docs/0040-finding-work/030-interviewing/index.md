@@ -1,5 +1,9 @@
 ---
 toc_max_heading_level: 4
+uid: z3df1p
+slug: /d/z3df1p
+aliases:
+  - /finding-work/interviewing
 ---
 import ChildPages from '@site/src/components/child-pages';
 

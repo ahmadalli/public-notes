@@ -1,3 +1,9 @@
+---
+uid: 0mp7v6
+slug: /d/0mp7v6
+aliases:
+  - /projects/sre-audiobook
+---
 # SRE Audiobook
 
 ## Why

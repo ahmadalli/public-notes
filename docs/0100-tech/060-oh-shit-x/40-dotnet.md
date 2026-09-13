@@ -1,3 +1,9 @@
+---
+uid: ej6wk3
+slug: /d/ej6wk3
+aliases:
+  - /tech/oh-shit-x/dotnet
+---
 # .NET
 
 ## .NET isn't an Open Platform

@@ -1,3 +1,9 @@
+---
+uid: 155yke
+slug: /d/155yke
+aliases:
+  - /drones/legal-preparations
+---
 # Legal Preparations
 
 Flying drones and taking footage with them requires some legal preparations. Here I'm writing about the legal preparations that are needed in EU:

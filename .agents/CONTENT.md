@@ -81,9 +81,16 @@ When adding a new file:
 
 <frontmatter>
 
-Frontmatter is **almost never used**. Ordering is controlled entirely by filename prefixes, and titles come from the H1 heading. Do not add `sidebar_position`, `title`, `description`, `tags`, `keywords`, `slug`, or `sidebar_label`.
+Every document has frontmatter with `uid`, `slug`, and `aliases`.
 
-The only frontmatter field in the codebase is `toc_max_heading_level`, used on pages with deep heading hierarchies (H4+):
+- Never change an existing `uid`, `slug`, or `aliases` entry.
+- Use `slug: /d/<uid>` for a new document and `aliases: []`.
+- Only `docs/index.md` uses `slug: /`.
+- Do not add aliases to a new document.
+
+Ordering is controlled by filename prefixes, and titles come from the H1 heading. Do not add `sidebar_position`, `title`, `description`, `tags`, `keywords`, or `sidebar_label`.
+
+The optional `toc_max_heading_level` field is used on pages with deep heading hierarchies (H4+):
 
 ```yaml
 ---
@@ -103,7 +110,7 @@ Only add it if the page uses H4 or deeper headings that readers need in the tabl
 
 ### Anatomy of a Content Page
 
-1. **Frontmatter** (only if `toc_max_heading_level` is needed).
+1. **Frontmatter** with `uid`, `slug`, and `aliases` (plus `toc_max_heading_level` if needed).
 2. **Import statements** (only if using `ChildPages` or other imported components; `Icon` needs no import).
 3. **One H1** (the page title).
 4. **Optional vanity domain admonition** (if the page has a custom domain).
@@ -726,7 +733,7 @@ This is the primary correctness check. It fails on broken links. There are no un
 
 1. Pick the next numeric prefix (increment by 10).
 2. Create a standalone file: `NNN-slug-name.md`. Do not create a directory unless sub-pages are needed.
-3. Start with an H1 title. No frontmatter unless `toc_max_heading_level` is needed.
+3. Add frontmatter with a new unique `uid`, `slug: /d/<uid>`, and `aliases: []`, then an H1 title.
 4. Add content following the writing style guide, matching the user's level of detail.
 5. Run `npm run build`.
 

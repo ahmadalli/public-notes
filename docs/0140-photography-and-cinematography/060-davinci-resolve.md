@@ -1,3 +1,9 @@
+---
+uid: eqerce
+slug: /d/eqerce
+aliases:
+  - /photography-and-cinematography/davinci-resolve
+---
 # DaVinci Resolve
 
 ## Keyboard Shortcuts

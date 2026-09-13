@@ -1,3 +1,9 @@
+---
+uid: sfr175
+slug: /d/sfr175
+aliases:
+  - /games/assassins-creed
+---
 # Assassin's Creed
 
 ## Assassin's Creed

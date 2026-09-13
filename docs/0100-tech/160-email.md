@@ -1,3 +1,9 @@
+---
+uid: bj6qd9
+slug: /d/bj6qd9
+aliases:
+  - /tech/email
+---
 # Email
 
 ## Personal Throwaway Email Addresses

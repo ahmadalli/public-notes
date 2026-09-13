@@ -1,3 +1,9 @@
+---
+uid: dg51tv
+slug: /d/dg51tv
+aliases:
+  - /finding-work/finding-work-you-enjoy
+---
 # Finding Work You Enjoy
 
 ## Finding your Motivations

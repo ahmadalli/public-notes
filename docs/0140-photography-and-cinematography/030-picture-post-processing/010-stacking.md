@@ -1,3 +1,9 @@
+---
+uid: 1dwzb7
+slug: /d/1dwzb7
+aliases:
+  - /photography-and-cinematography/picture-post-processing/stacking
+---
 # Stacking
 
 Stacking means combining multiple images into one. This is useful when you want to reduce noise.

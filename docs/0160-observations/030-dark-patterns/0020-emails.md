@@ -1,3 +1,9 @@
+---
+uid: w7cd6w
+slug: /d/w7cd6w
+aliases:
+  - /observations/dark-patterns/emails
+---
 # Emails
 
 ## Newsletter Subscription without Consent

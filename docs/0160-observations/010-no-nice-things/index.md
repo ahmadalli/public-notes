@@ -1,3 +1,9 @@
+---
+uid: avj46q
+slug: /d/avj46q
+aliases:
+  - /observations/no-nice-things
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Why Can't We Have Nice Things

@@ -1,3 +1,9 @@
+---
+uid: bwr8c1
+slug: /d/bwr8c1
+aliases:
+  - /cars/buying-a-car
+---
 # Buying a Car
 
 :::note

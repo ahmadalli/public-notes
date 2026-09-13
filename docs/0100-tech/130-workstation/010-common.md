@@ -1,3 +1,9 @@
+---
+uid: vw1nca
+slug: /d/vw1nca
+aliases:
+  - /tech/workstation/common
+---
 # Common Configurations
 
 ## Software

@@ -1,3 +1,9 @@
+---
+uid: 33m4yb
+slug: /d/33m4yb
+aliases:
+  - /netherlands/legally-settling-in
+---
 # Legally Settling In
 
 As an expat, you need to do some paperwork to legally settle in the Netherlands. This includes getting a `BSN`, opening a bank account, getting health insurance, and registering at the municipality.

@@ -1,3 +1,9 @@
+---
+uid: kaq397
+slug: /d/kaq397
+aliases:
+  - /tech/home-assistant
+---
 # Home Assistant
 
 ## Useful Blueprints

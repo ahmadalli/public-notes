@@ -1,3 +1,9 @@
+---
+uid: 6pt0yh
+slug: /d/6pt0yh
+aliases:
+  - /tech/large-language-models/chatgpt
+---
 # ChatGPT
 
 - If you ask ChatGPT to write a message in `informal` tone, it might go too informal. You can ask it to write in `slightly less formal` tone instead.

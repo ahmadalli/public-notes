@@ -1,3 +1,9 @@
+---
+uid: csqnn4
+slug: /d/csqnn4
+aliases:
+  - /tech/machine-learning/datasets
+---
 # Datasets
 
 ## Text

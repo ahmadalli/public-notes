@@ -1,3 +1,9 @@
+---
+uid: ke0cw6
+slug: /d/ke0cw6
+aliases:
+  - /finding-work
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Finding Work

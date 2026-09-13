@@ -1,3 +1,9 @@
+---
+uid: hdawy3
+slug: /d/hdawy3
+aliases:
+  - /internal-utilities/wikimedia-markdown
+---
 import WikimediaToMarkdown from '@site/src/components/wikimedia-markdown';
 
 # Wikimedia Embedding in Markdown

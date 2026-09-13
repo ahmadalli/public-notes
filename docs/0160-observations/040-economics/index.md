@@ -1,3 +1,9 @@
+---
+uid: q74csc
+slug: /d/q74csc
+aliases:
+  - /observations/economics
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Economics

@@ -1,3 +1,9 @@
+---
+uid: vf6k66
+slug: /d/vf6k66
+aliases:
+  - /tech/steam-deck
+---
 # Steam Deck
 
 ## Plugins and Utilities

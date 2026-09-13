@@ -1,3 +1,8 @@
+---
+uid: c07bsd
+slug: /
+aliases: []
+---
 import RecentUpdates from '@site/src/components/recent-updates';
 
 # Intro

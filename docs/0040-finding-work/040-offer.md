@@ -1,3 +1,9 @@
+---
+uid: 8hs09p
+slug: /d/8hs09p
+aliases:
+  - /finding-work/offer
+---
 # Offer
 
 ## Compensation

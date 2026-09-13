@@ -1,3 +1,9 @@
+---
+uid: 1bbpqv
+slug: /d/1bbpqv
+aliases:
+  - /tech/oh-shit-x/perl
+---
 # Oh Shit, Perl!
 
 :::info

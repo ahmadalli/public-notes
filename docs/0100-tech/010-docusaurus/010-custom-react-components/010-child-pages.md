@@ -1,3 +1,9 @@
+---
+uid: 3192x5
+slug: /d/3192x5
+aliases:
+  - /tech/docusaurus/custom-react-components/child-pages
+---
 # Child Pages
 
 This components lists all the child pages of the current page with the depth of `depth` prop, which is 1 by default.

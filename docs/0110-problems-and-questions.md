@@ -1,3 +1,9 @@
+---
+uid: 8agaqs
+slug: /d/8agaqs
+aliases:
+  - /problems-and-questions
+---
 # Problems and Questions
 
 These are the **problems** I find in the world. By **problem** I don't mean things that are wrong in the world, but things like inconveniences, situations where one party isn't happy, or things that could be improved.

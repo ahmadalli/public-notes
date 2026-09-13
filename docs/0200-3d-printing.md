@@ -1,3 +1,9 @@
+---
+uid: pb1twh
+slug: /d/pb1twh
+aliases:
+  - /0200-3d-printing
+---
 # 3D Printing
 
 ## Device

@@ -1,3 +1,9 @@
+---
+uid: mjb3yg
+slug: /d/mjb3yg
+aliases:
+  - /tech/docusaurus/custom-react-components
+---
 # Custom React Components
 
 1. Create a new React component in `src/components/` folder.

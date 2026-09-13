@@ -1,3 +1,9 @@
+---
+uid: rgb9cn
+slug: /d/rgb9cn
+aliases:
+  - /observations/enshittified-world/google-search
+---
 # Google Search
 
 Read [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/) article.

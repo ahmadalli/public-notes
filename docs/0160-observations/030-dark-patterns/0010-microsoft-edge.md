@@ -1,3 +1,9 @@
+---
+uid: dmqx8z
+slug: /d/dmqx8z
+aliases:
+  - /observations/dark-patterns/microsoft-edge
+---
 # Microsoft Edge
 
 ## Default Search Engine

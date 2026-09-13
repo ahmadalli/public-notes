@@ -1,3 +1,9 @@
+---
+uid: vn0h57
+slug: /d/vn0h57
+aliases:
+  - /photography-and-cinematography/picture-post-processing
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Picture Post-Processing

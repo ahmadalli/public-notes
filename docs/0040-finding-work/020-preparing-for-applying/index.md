@@ -1,3 +1,9 @@
+---
+uid: f9sztw
+slug: /d/f9sztw
+aliases:
+  - /finding-work/preparing-for-applying
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Preparing for Applying

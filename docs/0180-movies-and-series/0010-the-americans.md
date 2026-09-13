@@ -1,3 +1,9 @@
+---
+uid: xrhqxs
+slug: /d/xrhqxs
+aliases:
+  - /movies-and-series/the-americans
+---
 # The Americans
 
 The show is about two KGB spies, Philip and Elizabeth, who have been trained to be Americans and have been living in the US for many years, living the American life without anyone, including their children, knowing their true identity. The show is set in the 1980s during the Cold War.

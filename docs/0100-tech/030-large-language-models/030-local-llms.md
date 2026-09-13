@@ -1,3 +1,9 @@
+---
+uid: 7frmrv
+slug: /d/7frmrv
+aliases:
+  - /tech/large-language-models/local-llms
+---
 # Local LLMs
 
 You can work with local LLMs using the following tools:

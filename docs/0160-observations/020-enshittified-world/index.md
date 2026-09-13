@@ -1,3 +1,9 @@
+---
+uid: 68af2j
+slug: /d/68af2j
+aliases:
+  - /observations/enshittified-world
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Enshittified World

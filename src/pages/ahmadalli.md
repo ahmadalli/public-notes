@@ -14,8 +14,8 @@
 
 ## Projects
 
-[Public Notes](https://publicnotes.io/) > [Project Docs](/projects/public-notes/)
+[Public Notes](https://publicnotes.io/) > [Project Docs](/d/xtm16q/)
 
-[Site Reliability Engineering Audiobook](https://podcasters.spotify.com/pod/show/sre-audiobook) > [Project Docs](/projects/sre-audiobook/)
+[Site Reliability Engineering Audiobook](https://podcasters.spotify.com/pod/show/sre-audiobook) > [Project Docs](/d/0mp7v6/)
 
 [Jumbled Projects](https://jumbled.dev)

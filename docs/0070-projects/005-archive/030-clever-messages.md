@@ -1,3 +1,9 @@
+---
+uid: 7mx47f
+slug: /d/7mx47f
+aliases:
+  - /projects/archive/clever-messages
+---
 # Clever Messages
 
 :::info

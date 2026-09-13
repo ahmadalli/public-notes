@@ -1,3 +1,9 @@
+---
+uid: yxkxkw
+slug: /d/yxkxkw
+aliases:
+  - /tech/raspberry-pi
+---
 # Raspberry Pi
 
 ## Pi-hole

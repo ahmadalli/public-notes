@@ -1,3 +1,9 @@
+---
+uid: fkj9nx
+slug: /d/fkj9nx
+aliases:
+  - /finding-work/interviewing/sre-interview-materials
+---
 # SRE Interview Materials
 
 ## Resources

@@ -1,3 +1,9 @@
+---
+uid: mc0ms0
+slug: /d/mc0ms0
+aliases:
+  - /games
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Games

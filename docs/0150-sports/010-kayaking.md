@@ -1,3 +1,9 @@
+---
+uid: cxskjq
+slug: /d/cxskjq
+aliases:
+  - /sports/kayaking
+---
 # Kayaking
 
 ## Kayaking Routes in the Netherlands

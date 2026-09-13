@@ -1,3 +1,9 @@
+---
+uid: vrsywh
+slug: /d/vrsywh
+aliases:
+  - /projects/archive
+---
 import ChildPages from '@site/src/components/child-pages';
 
 # Archive

@@ -1,3 +1,9 @@
+---
+uid: nr9423
+slug: /d/nr9423
+aliases:
+  - /observations/no-nice-things/fixing-shared-company-devices
+---
 # Fixing Shared Company Devices
 
 From [this Reddit Post](https://www.reddit.com/r/technology/comments/1gc2zol/comment/ltrfu7x/):

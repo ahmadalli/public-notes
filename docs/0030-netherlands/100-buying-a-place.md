@@ -1,3 +1,9 @@
+---
+uid: 4g5ypn
+slug: /d/4g5ypn
+aliases:
+  - /netherlands/buying-a-place
+---
 # Buying a Place
 
 :::tip

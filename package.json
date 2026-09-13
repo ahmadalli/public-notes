@@ -13,7 +13,10 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "test:document-urls": "node --test scripts/document-url-contract.test.cjs"
+    "test:document-urls": "node --test scripts/document-url-contract.test.cjs scripts/assign-uids.test.mjs",
+    "assign-uids": "node scripts/assign-uids.mjs",
+    "check:document-urls": "node scripts/check-document-urls.mjs",
+    "verify:redirects": "node scripts/verify-redirects.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.2",

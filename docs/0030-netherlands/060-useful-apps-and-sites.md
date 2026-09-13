@@ -68,12 +68,18 @@ Personally I find route planning with dutch apps to be very similar to each othe
 
 ### Groceries
 
+- [Albert Heijn](https://www.ah.nl/): Delivers groceries for orders higher than €50, and delivery cost depends on your neighborhood's delivery times. Depending on your order, they use crates instead of plastic or paper bags for non refrigerated groceries and you pay for the crates, but you can return the crate on the next delivery and get your money back. Also accepts cans and plastic containers and its own plastic bags and deducts statiegeld (recycling deposit) from your order.
+  - [Android](https://play.google.com/store/apps/details?id=com.icemobile.albertheijn)
+  - [iOS](https://apps.apple.com/nl/app/albert-heijn-supermarkt/id327535329)
+- [Flink](https://www.goflink.com/en/)
+  - [Android](https://play.google.com/store/apps/details?id=com.pickery.app)
+  - [iOS](https://apps.apple.com/nl/app/flink-boodschappen-in-minuten/id1531321108)
+- [Picnic](https://www.picnic.app/en/): Online supermarket. Also accepts cans and plastic containers and its own plastic bags and deducts statiegeld (recycling deposit) from your order.
+  - [Android](https://play.google.com/store/apps/details?id=com.picnic.android)
+  - [iOS](https://apps.apple.com/nl/app/picnic-online-boodschappen/id1018175041)
 - [Too Good To Go](https://toogoodtogo.nl/en): Buy food that would otherwise be thrown away
   - [Android](https://play.google.com/store/apps/details?id=com.app.tgtg)
   - [iOS](https://apps.apple.com/DK/app/id1060683933)
-- [Picnic](https://www.picnic.app/en/): Online supermarket.
-  - [Android](https://play.google.com/store/apps/details?id=com.picnic.android)
-  - [iOS](https://apps.apple.com/nl/app/picnic-online-boodschappen/id1018175041)
 - [Crisp](https://crisp.nl/): Online supermarket
   - [Android](https://play.google.com/store/apps/details?id=com.freshfoodventures.crisp)
   - [iOS](https://apps.apple.com/us/app/crisp-supermarkt/id1416625210)

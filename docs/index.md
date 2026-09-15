@@ -2,6 +2,7 @@
 uid: c07bsd
 slug: /
 aliases: []
+sidebar_position: 0
 ---
 import RecentUpdates from '@site/src/components/recent-updates';
 

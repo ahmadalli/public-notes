@@ -53,9 +53,7 @@ I aim to achieve the following goals with this project:
 
 #### Actions
 
-- Create a script that will assign an ID to each document.
-- Create a script that will generate [plugin-client-redirect](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-client-redirects) configurations for existing documents.
-- Add a test to the CI that will make sure new documents have an ID.
+Designed in [URL Restructure Design](./010-url-restructure-design.md). Pages move to `/d/<uid>/`, with no readable slug, so no edit can ever change a URL. Redirects for the current paths are generated from frontmatter and frozen after the migration.
 
 ### Search
 

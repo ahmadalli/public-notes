@@ -49,6 +49,8 @@ Gaspedaal
 Geldwijzer
 Gitlense
 Glassdoor
+Giscus
+Astro
 Goodreads
 Gradio
 Grammarly
@@ -126,6 +128,7 @@ Travelex
 uBlock
 Udemy
 Underware
+Vercel
 Vesteda
 VSCode
 Waternet
@@ -211,6 +214,11 @@ parsable
 perldoc
 perlsecret
 pipenv
+(?i)frontmatter
+lookahead
+(?i)middleware
+webpack
+namespace
 pipx
 Podcasters
 protondb
@@ -219,6 +227,7 @@ rollerblades
 sigils
 spammy
 spycraft
+slugified
 tensioner
 truthy
 wantarray

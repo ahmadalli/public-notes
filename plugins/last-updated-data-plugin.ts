@@ -1,7 +1,9 @@
-import { execSync } from "child_process";
-import * as path from "path";
 import type { LoadContext, Plugin } from "@docusaurus/types";
 import type { LoadedContent } from "@docusaurus/plugin-content-docs";
+import {
+  getLastRelevantCommit,
+  readIgnoredRevisions,
+} from "./last-updated-git-history.cjs";
 
 export type LastUpdatedEntry = {
   id: string;
@@ -11,23 +13,6 @@ export type LastUpdatedEntry = {
   lastCommitMessage: string | null;
   sourceDirName: string;
 };
-
-function getLastCommitMessage(siteDir: string, docSource: string): string | null {
-  try {
-    // doc.source is like "@site/docs/foo/bar.md" — strip the "@site/" prefix
-    const relPath = docSource.startsWith("@site/")
-      ? docSource.slice("@site/".length)
-      : docSource;
-    const absPath = path.join(siteDir, relPath);
-    const result = execSync(`git log --format="%s" -1 -- "${absPath}"`, {
-      cwd: siteDir,
-      encoding: "utf8",
-    }).trim();
-    return result || null;
-  } catch {
-    return null;
-  }
-}
 
 type DirInfo = {
   title: string;
@@ -57,23 +42,35 @@ export default function lastUpdatedDataPlugin(
       }
 
       const entries: LastUpdatedEntry[] = [];
+      const ignoredRevisions = readIgnoredRevisions(context.siteDir);
       // Map from sourceDirName → { title, permalink }, built from index.md docs
       const dirInfoMap: Record<string, DirInfo> = {};
 
       for (const version of docsContent.loadedVersions) {
         for (const doc of version.docs) {
-          entries.push({
-            id: doc.id,
-            title: doc.title,
-            permalink: doc.permalink,
-            lastUpdatedAt: doc.lastUpdatedAt ?? null,
-            lastCommitMessage: getLastCommitMessage(context.siteDir, doc.source),
-            sourceDirName: doc.sourceDirName,
-          });
-
           // If this doc is an index page of a directory, record its title and permalink
           if (doc.source.endsWith("/index.md")) {
             dirInfoMap[doc.sourceDirName] = { title: doc.title, permalink: doc.permalink };
+          }
+
+          const relativePath = doc.source.startsWith("@site/")
+            ? doc.source.slice("@site/".length)
+            : doc.source;
+          const relevantCommit = getLastRelevantCommit(
+            context.siteDir,
+            relativePath,
+            ignoredRevisions,
+          );
+
+          if (relevantCommit) {
+            entries.push({
+              id: doc.id,
+              title: doc.title,
+              permalink: doc.permalink,
+              lastUpdatedAt: relevantCommit.timestamp,
+              lastCommitMessage: relevantCommit.subject,
+              sourceDirName: doc.sourceDirName,
+            });
           }
         }
       }

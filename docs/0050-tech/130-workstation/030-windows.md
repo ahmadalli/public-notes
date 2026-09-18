@@ -27,3 +27,17 @@ powercfg /h /type reduced        # keep Fast Startup, drop Hibernate
 With Fast Startup enabled, **"Shut down" is not a cold boot** — hardware and drivers don't fully re-initialize, only "Restart" does. Worth remembering when testing whether a hardware fault reproduces from a clean state, since a shutdown will appear to preserve the broken state.
 
 :::
+
+## Disabling Automatic Restarts After Updates
+
+To disable automatic restarts after updates, you need to update its related Group Policy:
+
+1. Open `gpedit.msc` and go to `Computer Configuration > Administrative Templates > Windows Components > Windows Update > Manage end user experience`.
+1. Open `Configure Automatic Updates`, set it to `Enabled`, and pick `3 - Auto download and notify for install`. The schedule options below it only apply to option 4.
+1. Run `gpupdate /force` in an elevated terminal.
+
+:::caution
+
+Security updates won't install until you click Install in Windows Update, so remember to do it every now and then.
+
+:::

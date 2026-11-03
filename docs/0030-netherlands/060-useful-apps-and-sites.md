@@ -102,9 +102,6 @@ Picnic doesn't have English support yet, so you need to screenshot and translate
 - [Dyme](https://dyme.app/en/)
   - [Android](https://play.google.com/store/apps/details?id=com.dyme.dyme)
   - [iOS](https://apps.apple.com/nl/app/dyme-fix-your-money-leak/id1438647102)
-- [Spiir](https://www.spiir.com/)
-  - [Android](https://play.google.com/store/apps/details?id=com.spiir)
-  - [iOS](https://apps.apple.com/us/app/spiir/id441748209)
 
 ### Investing
 
